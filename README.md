@@ -9,3 +9,6 @@ Two ranking methods are presented in this paper: a discrepancy ranking and an en
 Possible applications of methods for inconsistency detection are improving the annotation procedure and guidelines, as well as correcting errors in completed annotations. 
 
 This project includes Python scripts for each ranking method and result data from testing the methods on various corpora (see LREC paper for further details).
+
+The complete work can be found in my master thesis:
+http://project-archive.inf.ed.ac.uk/msc/20150152/msc_proj.pdf
