@@ -1,0 +1,3145 @@
+PoS-word	#labels	#instances	most common label	#	label	#	label	#	label	#	label	#	label	#	label	#
+NOUN-title	2	2	b-noun.communication	1	b-noun.attribute	1										
+VBN-done	3	5	b-verb.stative	2	b-verb.social	2	b-verb.creation	1								
+VBZ-makes	3	5	b-verb.change	3	b-verb.creation	1	b-verb.social	1								
+VB-go	4	24	b-verb.motion	19	b-verb.change	2	b-verb.competition	2	b-verb.cognition	1						
+VBG-looking	3	6	b-verb.perception	3	b-verb.cognition	2	b-verb.emotion	1								
+VBD-had	3	12	b-verb.possession	10	b-verb.creation	1	b-verb.social	1								
+VBN-been	2	19	b-verb.stative	16	b-verb.social	3										
+VBP-get	4	19	b-verb.possession	9	b-verb.change	8	b-verb.perception	1	b-verb.motion	1						
+VBG-getting	3	9	b-verb.possession	5	b-verb.change	3	b-verb.motion	1								
+NN-essay	2	2	b-noun.communication	1	b-noun.act	1										
+NN-morning	3	8	b-noun.time	6	b-noun.communication	1	b-noun.event	1								
+NOUN-people	2	7	b-noun.group	5	b-noun.person	2										
+NNP-twitter	3	8	b-noun.communication	5	b-noun.artifact	2	b-noun.location	1								
+VBZ-comes	3	4	b-verb.motion	2	b-verb.change	1	b-verb.communication	1								
+NNS-years	2	18	b-noun.time	16	b-noun.quantity	2										
+NN-school	5	9	b-noun.group	4	b-noun.artifact	2	b-noun.location	1	b-noun.time	1	b-noun.act	1				
+NN-day	3	84	b-noun.time	78	b-noun.state	5	b-noun.communication	1								
+NN-fire	3	3	b-noun.attribute	1	b-noun.artifact	1	b-noun.event	1								
+VB-cut	2	2	b-verb.contact	1	b-verb.body	1										
+NN-book	2	4	b-noun.communication	3	b-noun.artifact	1										
+VBD-played	2	4	b-verb.competition	3	b-verb.creation	1										
+NN-work	2	13	b-noun.act	10	b-noun.location	3										
+VBN-supposed	2	2	b-verb.stative	1	b-verb.cognition	1										
+NN-hell	2	2	b-noun.location	1	b-noun.cognition	1										
+VB-make	3	11	b-verb.social	5	b-verb.creation	4	b-verb.change	2								
+NNS-kids	2	4	b-noun.person	3	b-noun.group	1										
+VBG-working	2	3	b-verb.social	2	b-verb.motion	1										
+NNP-cowboys	2	2	b-noun.person	1	b-noun.group	1										
+NN-rest	2	2	b-noun.relation	1	b-noun.act	1										
+VB-play	2	3	b-verb.competition	2	b-verb.motion	1										
+VERB-getting	2	2	b-verb.social	1	b-verb.change	1										
+VERB-watch	2	3	b-verb.perception	2	b-noun.artifact	1										
+NN-year	2	25	b-noun.time	23	b-noun.attribute	2										
+VERB-use	2	2	b-verb.social	1	b-verb.change	1										
+VB-catch	3	3	b-verb.possession	1	b-verb.social	1	b-verb.cognition	1								
+NN-road	2	2	b-noun.location	1	b-noun.artifact	1										
+VBN-hurt	2	2	b-verb.change	1	b-verb.emotion	1										
+NN-world	2	4	b-noun.object	3	b-noun.group	1										
+VB-run	2	3	b-verb.motion	2	b-verb.change	1										
+NNS-people	2	14	b-noun.group	13	b-noun.person	1										
+VERB-hurt	2	3	b-verb.perception	2	b-verb.change	1										
+VB-blame	2	3	b-verb.communication	2	b-verb.cognition	1										
+VBP-put	2	3	b-verb.contact	2	b-verb.creation	1										
+VBZ-works	2	2	b-verb.stative	1	b-verb.creation	1										
+VBZ-shows	2	2	b-verb.change	1	b-verb.communication	1										
+VBZ-ends	2	4	b-verb.stative	3	b-verb.change	1										
+NN-city	2	2	b-noun.location	1	b-noun.group	1										
+NN-bed	2	6	b-noun.location	3	b-noun.artifact	3										
+VBD-missed	2	3	b-verb.stative	2	b-verb.emotion	1										
+NOUN-researchers	2	3	b-noun.person	2	b-noun.group	1										
+NN-heart	2	3	b-noun.cognition	2	b-noun.artifact	1										
+VBG-taking	2	3	b-verb.social	2	b-verb.stative	1										
+VBZ-happens	2	4	b-verb.change	3	b-verb.stative	1										
+VB-cry	2	2	b-verb.communication	1	b-verb.emotion	1										
+VB-come	4	14	b-verb.motion	10	b-verb.stative	2	b-verb.creation	1	b-verb.social	1						
+VB-forget	2	4	b-verb.cognition	3	b-noun.event	1										
+VBN-got	3	4	b-verb.possession	2	b-verb.cognition	1	b-verb.communication	1								
+VB-have	5	23	b-verb.possession	16	b-verb.social	3	b-verb.stative	2	b-verb.creation	1	b-verb.cognition	1				
+NNS-girls	2	4	b-noun.person	3	b-noun.group	1										
+VBG-tryna	3	4	b-verb.stative	2	b-verb.change	1	b-verb.cognition	1								
+VERB-save	2	2	b-verb.social	1	b-verb.change	1										
+VBG-winning	2	3	b-verb.possession	2	b-verb.competition	1										
+VBP-see	2	3	b-verb.perception	2	b-verb.social	1										
+NN-love	2	4	b-noun.feeling	3	b-noun.relation	1										
+NN-stuff	2	4	b-noun.substance	3	b-noun.act	1										
+VB-shut	2	2	b-verb.social	1	b-verb.communication	1										
+VB-find	2	4	b-verb.possession	3	b-verb.cognition	1										
+NN-case	2	2	b-noun.state	1	b-noun.cognition	1										
+NN-matter	2	2	b-noun.state	1	b-noun.cognition	1										
+VBD-took	3	5	b-verb.social	3	b-verb.stative	1	b-verb.motion	1								
+NOUN-megaupload Closure	2	3	b-noun.act	2	b-noun.event	1										
+VBP-suppose	2	2	b-verb.communication	1	b-verb.cognition	1										
+NN-car	2	2	b-noun.location	1	b-noun.artifact	1										
+NNS-times	2	5	b-noun.event	3	b-noun.time	2										
+NN-time	5	64	b-noun.time	31	b-noun.event	29	b-noun.tops	2	b-noun.attribute	1	b-noun.cognition	1				
+VBP-want	2	16	b-verb.emotion	15	b-verb.cognition	1										
+NOUN-challenge	2	2	b-noun.communication	1	b-noun.event	1										
+NN-house	3	4	b-noun.location	2	b-noun.artifact	1	b-noun.person	1								
+NN-party	2	5	b-verb.social	3	b-noun.event	2										
+VB-kill	2	5	b-verb.contact	4	b-verb.motion	1										
+VB-bring	2	3	b-verb.motion	2	b-verb.change	1										
+NOUN-study	2	3	b-noun.communication	2	b-noun.act	1										
+NOUN-followers	2	7	b-noun.person	6	b-noun.group	1										
+VERB-offers	3	5	b-verb.social	3	b-verb.communication	1	b-verb.cognition	1								
+VBD-made	4	7	b-verb.social	4	b-verb.motion	1	b-verb.change	1	b-verb.creation	1						
+VBN-scheduled	2	2	b-verb.stative	1	b-verb.cognition	1										
+VERB-follow	2	2	b-verb.social	1	b-verb.communication	1										
+VBD-went	2	7	b-verb.motion	6	b-verb.change	1										
+NOUN-blockbusters	2	3	b-noun.group	2	b-noun.communication	1										
+VBP-miss	2	8	b-verb.emotion	7	b-verb.stative	1										
+VB-see	2	18	b-verb.perception	12	b-verb.social	6										
+NN-birthday	2	8	b-noun.time	7	b-noun.act	1										
+VB-get	5	38	b-verb.possession	17	b-verb.change	8	b-verb.motion	8	b-verb.social	3	b-verb.cognition	2				
+VBN-had	2	5	b-verb.possession	4	b-verb.consumption	1										
+VBD-used	2	2	b-verb.stative	1	b-verb.social	1										
+NN-half	2	2	b-noun.quantity	1	b-noun.time	1										
+NN-tv	2	4	b-noun.communication	2	b-noun.artifact	2										
+VBG-sharing	2	2	b-verb.possession	1	b-verb.communication	1										
+NNS-fans	2	2	b-noun.person	1	b-noun.group	1										
+NOUN-mix	2	4	b-noun.act	3	b-noun.event	1										
+NN-thing	3	5	b-noun.state	2	b-noun.act	2	b-noun.communication	1								
+VB-mean	2	3	b-verb.cognition	2	b-verb.stative	1										
+VBD-meant	2	2	b-verb.communication	1	b-verb.cognition	1										
+NN-meeting	2	2	b-noun.group	1	b-noun.act	1										
+VERB-posted	2	9	b-verb.contact	5	b-verb.communication	4										
+NNP-yom Kippur	2	2	b-noun.relation	1	b-noun.time	1										
+VBG-reading	2	3	b-verb.cognition	2	b-verb.communication	1										
+VB-sleep	2	5	b-verb.body	3	b-verb.stative	2										
+NN-shit	7	9	b-noun.quantity	2	b-noun.communication	2	b-noun.substance	1	b-noun.attribute	1	b-noun.artifact	1	b-noun.act	1	b-noun.tops	1
+NN-stage	2	3	b-noun.location	2	b-noun.state	1										
+NN-end	2	4	b-noun.time	3	b-noun.state	1										
+VB-work	2	3	b-verb.stative	2	b-verb.social	1										
+VBN-taken	2	2	b-verb.possession	1	b-verb.social	1										
+VBG-goin	3	5	b-verb.motion	3	b-verb.social	1	b-verb.change	1								
+NN-head	2	2	b-noun.body	1	b-noun.shape	1										
+VBP-stand	2	2	b-verb.stative	1	b-verb.cognition	1										
+VBZ-gets	2	5	b-verb.motion	3	b-verb.possession	2										
+VBP-feel	2	5	b-verb.emotion	4	b-verb.body	1										
+NOUN-world	2	3	b-noun.object	2	b-noun.cognition	1										
+VBP-hold	2	2	b-verb.stative	1	b-verb.social	1										
+VBP-make	2	2	b-verb.social	1	b-verb.change	1										
+VBG-having	4	7	b-verb.possession	3	b-verb.stative	2	b-verb.consumption	1	b-verb.cognition	1						
+NOUN-stats	2	11	b-noun.cognition	6	b-noun.communication	5										
+NN-post	2	2	b-noun.communication	1	b-verb.communication	1										
+VBP-like	2	4	b-verb.cognition	2	b-verb.emotion	2										
+NOUN-#soccer	3	4	b-noun.act	2	b-noun.communication	1	b-noun.group	1								
+NN-show	3	11	b-noun.act	8	b-noun.communication	2	b-noun.event	1								
+VB-stay	3	6	b-verb.change	3	b-verb.motion	2	b-verb.social	1								
+NN-round	2	2	b-noun.time	1	b-noun.act	1										
+NNS-stores	2	3	b-noun.artifact	2	b-noun.location	1										
+VBD-lost	2	3	b-verb.possession	2	b-verb.competition	1										
+NNS-guys	2	6	b-noun.person	4	b-noun.group	2										
+VB-kick	2	2	b-verb.contact	1	b-noun.event	1										
+NN-step	2	2	b-noun.quantity	1	b-noun.act	1										
+VB-let	2	12	b-verb.social	9	b-verb.communication	3										
+VBP-live	2	2	b-verb.stative	1	b-verb.social	1										
+VERB-make	3	4	b-verb.creation	2	b-verb.social	1	b-verb.cognition	1								
+VB-call	2	4	b-verb.communication	3	b-verb.social	1										
+NUM-number	4	44	b-noun.quantity	27	b-noun.attribute	14	b-noun.person	2	b-noun.communication	1						
+NNS-movies	2	2	b-noun.communication	1	b-noun.location	1										
+NN-crush	2	2	b-noun.person	1	b-noun.communication	1										
+VBD-got	6	24	b-verb.possession	14	b-verb.communication	3	b-verb.motion	3	b-verb.cognition	2	b-verb.competition	1	b-verb.change	1		
+NN-one	2	7	b-noun.quantity	6	b-noun.animal	1										
+VBG-coming	4	8	b-verb.motion	5	b-verb.stative	1	b-verb.social	1	b-verb.change	1						
+VERB-get	3	4	b-verb.possession	2	b-verb.perception	1	b-verb.motion	1								
+VBP-hope	2	15	b-verb.emotion	14	b-verb.cognition	1										
+NOUN-analysis	2	2	b-noun.communication	1	b-noun.cognition	1										
+VB-fuck	3	4	b-verb.contact	2	b-verb.motion	1	b-verb.social	1								
+VB-like	2	3	b-verb.cognition	2	b-verb.emotion	1										
+VBD-found	2	3	b-verb.possession	2	b-verb.cognition	1										
+NOUN-liverpool	2	3	b-noun.location	2	b-noun.group	1										
+NOUN-pics	2	3	b-noun.communication	2	b-noun.artifact	1										
+VBZ-feels	2	3	b-verb.cognition	2	b-verb.emotion	1										
+NNS-problems	2	2	b-noun.relation	1	b-noun.state	1										
+VBP-go	2	6	b-verb.motion	3	b-verb.change	3										
+VB-wait	2	6	b-verb.stative	5	b-verb.cognition	1										
+NNP-april	3	3	b-noun.person	1	b-noun.state	1	b-noun.time	1								
+VBP-need	6	15	b-verb.stative	9	b-verb.emotion	2	b-verb.social	1	b-verb.cognition	1	b-verb.consumption	1	b-verb.possession	1		
+VBP-beat	2	2	b-verb.competition	1	b-verb.contact	1										
+VB-deal	3	3	b-verb.social	1	b-verb.communication	1	b-verb.cognition	1								
+NNP-kings	2	2	b-noun.communication	1	b-noun.group	1										
+NN-look	2	2	b-noun.attribute	1	b-noun.act	1										
+VB-do	4	18	b-verb.social	14	b-verb.creation	2	b-verb.motion	1	b-verb.cognition	1						
+VBN-gone	2	2	b-verb.stative	1	b-verb.motion	1										
+VBZ-has	2	9	b-verb.possession	8	b-verb.emotion	1										
+VERB-live	2	2	b-verb.stative	1	b-verb.communication	1										
+VBP-turn	2	2	b-verb.motion	1	b-verb.change	1										
+VERB-finds	2	4	b-verb.perception	2	b-verb.cognition	2										
+VBZ-turns	2	3	b-verb.motion	2	b-verb.change	1										
+VB-ring	2	2	b-verb.contact	1	b-verb.communication	1										
+VB-give	2	7	b-verb.possession	5	b-verb.cognition	2										
+VBZ-means	2	3	b-verb.stative	2	b-verb.cognition	1										
+NN-computer	2	2	b-noun.communication	1	b-noun.artifact	1										
+NN-room	2	4	b-noun.artifact	3	b-noun.location	1										
+VB-write	2	4	b-verb.creation	2	b-verb.communication	2										
+VBD-left	2	2	b-verb.motion	1	b-verb.cognition	1										
+VERB-stay	2	2	b-verb.stative	1	b-verb.social	1										
+VBP-have	5	28	b-verb.possession	17	b-verb.stative	5	b-verb.social	3	b-verb.cognition	2	b-verb.communication	1				
+NN-something	5	7	b-noun.tops	2	b-noun.act	2	b-noun.communication	1	b-noun.artifact	1	b-noun.food	1				
+VBP-give	2	2	b-verb.possession	1	b-verb.cognition	1										
+NN-place	2	7	b-noun.location	6	b-noun.relation	1										
+NN-point	2	4	b-noun.cognition	3	b-noun.motive	1										
+VB-stop	4	5	b-verb.motion	2	b-verb.stative	1	b-verb.social	1	b-verb.change	1						
+VERB-go	3	4	b-verb.change	2	b-verb.motion	1	b-verb.social	1								
+VB-show	2	2	b-verb.perception	1	b-verb.communication	1										
+NUM-2	2	7	b-noun.quantity	6	b-noun.attribute	1										
+VBG-doing	4	8	b-verb.social	5	b-verb.motion	1	b-verb.creation	1	b-verb.communication	1						
+NN-game	2	5	b-noun.act	4	b-noun.artifact	1										
+VB-check	2	9	b-verb.cognition	6	b-verb.perception	3										
+VBD-tried	2	2	b-verb.motion	1	b-verb.social	1										
+VB-pull	2	2	b-verb.motion	1	b-verb.contact	1										
+VB-take	4	5	b-verb.social	2	b-verb.possession	1	b-verb.contact	1	b-verb.consumption	1						
+NOUN-today	2	10	b-noun.time	9	b-noun.person	1										
+NN-gym	2	4	b-noun.artifact	3	b-noun.location	1										
+NN-side	2	2	b-noun.body	1	b-noun.location	1										
+VBG-gettin	2	2	b-verb.possession	1	b-verb.change	1										
+NN-class	3	3	b-noun.attribute	1	b-noun.time	1	b-noun.act	1								
+VBD-trampled	2	2	b-verb.motion	1	b-verb.body	1										
+VBP-follow	2	2	b-verb.motion	1	b-verb.communication	1										
+VBG-doin	2	2	b-verb.stative	1	b-verb.emotion	1										
+NN-night	3	19	b-noun.time	17	b-noun.quantity	1	b-noun.state	1								
+NNS-things	4	7	b-noun.tops	3	b-noun.group	2	b-noun.communication	1	b-noun.state	1						
+VBP-do	2	18	b-verb.social	17	b-verb.stative	1										
+VBG-stayin	2	2	b-verb.stative	1	b-verb.social	1										
+NN-anything	3	4	b-noun.tops	2	b-noun.communication	1	b-noun.substance	1								
+NOUN-business	2	2	b-noun.cognition	1	b-noun.act	1										
+VERB-stop	2	2	b-verb.stative	1	b-verb.change	1										
+NOUN-bids	2	2	b-noun.communication	1	b-noun.attribute	1										
+VB-follow	4	7	b-verb.motion	2	b-verb.social	2	b-verb.communication	2	b-verb.cognition	1						
+NN-life	2	13	b-noun.state	12	b-noun.cognition	1										
+NNP-sharks	2	2	b-noun.group	1	b-noun.animal	1										
+VB-clean	2	2	b-verb.change	1	b-verb.contact	1										
+VBG-going	4	20	b-verb.motion	14	b-verb.stative	2	b-verb.social	2	b-verb.change	2						
+VBN-born	2	2	b-verb.stative	1	b-verb.body	1										
+VB-start	2	6	b-verb.change	5	b-verb.social	1										
+NN-everything	3	7	b-noun.tops	4	b-noun.group	2	b-noun.cognition	1								
+VBZ-is	1	115	b-verb.stative	115												
+NN-today	1	80	b-noun.time	80												
+VBZ-'s	1	68	b-verb.stative	68												
+NN-tonight	1	61	b-noun.time	61												
+VB-be	1	53	b-verb.stative	53												
+VBD-was	1	50	b-verb.stative	50												
+NN-week	1	49	b-noun.time	49												
+VBP-'m	1	42	b-verb.stative	42												
+NN-tomorrow	1	37	b-noun.time	37												
+VBP-are	1	36	b-verb.stative	36												
+MD-will	1	24	b-verb.communication	24												
+MD-can	1	23	b-verb.change	23												
+VBP-know	1	18	b-verb.cognition	18												
+NNS-days	1	17	b-noun.time	17												
+NNP-friday	1	17	b-noun.time	17												
+VERB-is	1	16	b-verb.stative	16												
+NNP-monday	1	16	b-noun.time	16												
+VBP-'re	1	14	b-verb.stative	14												
+VBP-love	1	14	b-verb.emotion	14												
+VBP-think	1	14	b-verb.cognition	14												
+NNP-saturday	1	12	b-noun.time	12												
+NOUN-photo	1	12	b-noun.artifact	12												
+VERB-are	1	11	b-verb.stative	11												
+VBD-said	1	11	b-verb.communication	11												
+NNP-sunday	1	11	b-noun.time	11												
+VBD-were	1	10	b-verb.stative	10												
+NN-someone	1	10	b-noun.person	10												
+NOUN-facebook	1	10	b-noun.communication	10												
+VBP-hate	1	9	b-verb.emotion	9												
+NN-month	1	9	b-noun.time	9												
+NN-yesterday	1	9	b-noun.time	9												
+NOUN-unfollowers	1	9	b-noun.person	9												
+VB-help	1	8	b-verb.social	8												
+VBD-did	1	8	b-verb.social	8												
+NNP-feb	1	8	b-noun.time	8												
+HT-#houseofmirrors	1	8	b-noun.communication	8												
+VBG-being	1	7	b-verb.stative	7												
+VBP-am	1	7	b-verb.stative	7												
+VB-say	1	7	b-verb.communication	7												
+VERB-followed	1	7	b-verb.communication	7												
+NN-money	1	7	b-noun.possession	7												
+NN-home	1	7	b-noun.location	7												
+VBD-saw	1	6	b-verb.perception	6												
+VB-know	1	6	b-verb.cognition	6												
+NNP-november	1	6	b-noun.time	6												
+NNS-weeks	1	6	b-noun.time	6												
+NOUN-year	1	6	b-noun.time	6												
+NN-chance	1	6	b-noun.state	6												
+NN-everyone	1	6	b-noun.person	6												
+NN-mom	1	6	b-noun.person	6												
+NN-way	1	6	b-noun.attribute	6												
+VB-try	1	5	b-verb.social	5												
+VBP-'ve	1	5	b-verb.possession	5												
+VBZ-seems	1	5	b-verb.perception	5												
+VBG-driving	1	5	b-verb.motion	5												
+MD-cant	1	5	b-verb.motion	5												
+VBP-wish	1	5	b-verb.emotion	5												
+VB-love	1	5	b-verb.emotion	5												
+VERB-win	1	5	b-verb.competition	5												
+VBP-call	1	5	b-verb.communication	5												
+VB-tell	1	5	b-verb.communication	5												
+VBD-asked	1	5	b-verb.communication	5												
+NN-weekend	1	5	b-noun.time	5												
+NNP-nov	1	5	b-noun.time	5												
+NNP-oct	1	5	b-noun.time	5												
+NNP-god	1	5	b-noun.person	5												
+WP-who	1	5	b-noun.group	5												
+NOUN-news	1	5	b-noun.communication	5												
+NN-video	1	5	b-noun.communication	5												
+NN-info	1	5	b-noun.communication	5												
+VERB-celebrates	1	4	b-verb.social	4												
+VB-meet	1	4	b-verb.social	4												
+VBG-trying	1	4	b-verb.social	4												
+VERB-have	1	4	b-verb.possession	4												
+VBG-watching	1	4	b-verb.perception	4												
+VB-look	1	4	b-verb.perception	4												
+VERB-looks	1	4	b-verb.perception	4												
+VBN-seen	1	4	b-verb.perception	4												
+VBP-come	1	4	b-verb.motion	4												
+VB-win	1	4	b-verb.competition	4												
+VBD-called	1	4	b-verb.communication	4												
+VBG-talking	1	4	b-verb.communication	4												
+VB-tweet	1	4	b-verb.communication	4												
+VBD-told	1	4	b-verb.communication	4												
+VB-thank	1	4	b-verb.communication	4												
+VBG-thinking	1	4	b-verb.cognition	4												
+VB-remember	1	4	b-verb.cognition	4												
+VB-think	1	4	b-verb.cognition	4												
+VBP-start	1	4	b-verb.change	4												
+VBD-started	1	4	b-verb.change	4												
+VB-wear	1	4	b-verb.body	4												
+NNS-hours	1	4	b-noun.time	4												
+NNP-december	1	4	b-noun.time	4												
+NNS-months	1	4	b-noun.time	4												
+NNP-tuesday	1	4	b-noun.time	4												
+NN-tonite	1	4	b-noun.time	4												
+NNS-minutes	1	4	b-noun.time	4												
+NNP-jan	1	4	b-noun.time	4												
+NN-mood	1	4	b-noun.state	4												
+NN-part	1	4	b-noun.relation	4												
+NN-lot	1	4	b-noun.quantity	4												
+NN-sister	1	4	b-noun.person	4												
+NOUN-follower	1	4	b-noun.person	4												
+NNS-ppl	1	4	b-noun.group	4												
+NOUN-venice Film Festival	1	4	b-noun.event	4												
+NOUN-venice Festival	1	4	b-noun.event	4												
+NOUN-lineup	1	4	b-noun.communication	4												
+NOUN-stories	1	4	b-noun.communication	4												
+NN-news	1	4	b-noun.communication	4												
+NN-story	1	4	b-noun.communication	4												
+NN-hair	1	4	b-noun.body	4												
+NN-hand	1	4	b-noun.body	4												
+NN-age	1	4	b-noun.attribute	4												
+NN-job	1	4	b-noun.act	4												
+VB-keep	1	3	b-verb.stative	3												
+VBG-waiting	1	3	b-verb.stative	3												
+VB-miss	1	3	b-verb.stative	3												
+VBG-sitting	1	3	b-verb.stative	3												
+VB-need	1	3	b-verb.stative	3												
+VERB-helped	1	3	b-verb.social	3												
+VB-join	1	3	b-verb.social	3												
+VB-buy	1	3	b-verb.possession	3												
+VB-lose	1	3	b-verb.possession	3												
+VB-watch	1	3	b-verb.perception	3												
+VB-move	1	3	b-verb.motion	3												
+VBG-feeling	1	3	b-verb.emotion	3												
+VBZ-wants	1	3	b-verb.emotion	3												
+VBG-saying	1	3	b-verb.communication	3												
+VB-talk	1	3	b-verb.communication	3												
+VBG-tweeting	1	3	b-verb.communication	3												
+VBD-wrote	1	3	b-verb.communication	3												
+VBP-say	1	3	b-verb.communication	3												
+VB-retweet	1	3	b-verb.communication	3												
+VERB-think	1	3	b-verb.cognition	3												
+VBP-remember	1	3	b-verb.cognition	3												
+VBP-guess	1	3	b-verb.cognition	3												
+VBD-thought	1	3	b-verb.cognition	3												
+VB-believe	1	3	b-verb.cognition	3												
+VBG-wearing	1	3	b-verb.body	3												
+NNP-dec	1	3	b-noun.time	3												
+NNP-september	1	3	b-noun.time	3												
+NOUN-day	1	3	b-noun.time	3												
+NN-moment	1	3	b-noun.time	3												
+NNP-october	1	3	b-noun.time	3												
+NOUN-week	1	3	b-noun.time	3												
+NOUN-end Date	1	3	b-noun.time	3												
+NN-sodium	1	3	b-noun.substance	3												
+NN-sleep	1	3	b-noun.state	3												
+NNS-lots	1	3	b-noun.quantity	3												
+NN-nothing	1	3	b-noun.quantity	3												
+NN-baby	1	3	b-noun.person	3												
+NNP-pope	1	3	b-noun.person	3												
+NN-guy	1	3	b-noun.person	3												
+NN-nobody	1	3	b-noun.person	3												
+NN-anyone	1	3	b-noun.person	3												
+NOUN-#assad	1	3	b-noun.person	3												
+NN-mum	1	3	b-noun.person	3												
+NN-bestfriend	1	3	b-noun.person	3												
+NNP-lord	1	3	b-noun.person	3												
+NN-friend	1	3	b-noun.person	3												
+NN-dad	1	3	b-noun.person	3												
+NOUN-syria	1	3	b-noun.location	3												
+NNP-miami	1	3	b-noun.location	3												
+NNP-hawaii	1	3	b-noun.location	3												
+NOUN-munich	1	3	b-noun.location	3												
+NN-area	1	3	b-noun.location	3												
+NNS-people who	1	3	b-noun.group	3												
+NN-group	1	3	b-noun.group	3												
+NN-dinner	1	3	b-noun.food	3												
+NN-start	1	3	b-noun.event	3												
+NN-question	1	3	b-noun.communication	3												
+NN-movie	1	3	b-noun.communication	3												
+NNS-excuses	1	3	b-noun.communication	3												
+NNS-messages	1	3	b-noun.communication	3												
+NN-blog	1	3	b-noun.communication	3												
+NNP-justin Bieber concert	1	3	b-noun.communication	3												
+NNS-eyes	1	3	b-noun.body	3												
+NN-photo	1	3	b-noun.artifact	3												
+NN-bell	1	3	b-noun.artifact	3												
+NOUN-deer	1	3	b-noun.animal	3												
+NN-homework	1	3	b-noun.act	3												
+VB-live	1	2	b-verb.stative	2												
+VERB-be	1	2	b-verb.stative	2												
+VERB-were	1	2	b-verb.stative	2												
+VBG-living	1	2	b-verb.stative	2												
+VERB-was	1	2	b-verb.stative	2												
+VBP-be	1	2	b-verb.stative	2												
+NN-cont	1	2	b-verb.stative	2												
+VBG-chilling	1	2	b-verb.stative	2												
+VBD-held	1	2	b-verb.stative	2												
+VERB-according	1	2	b-verb.stative	2												
+VBG-staying	1	2	b-verb.stative	2												
+VBZ-sucks	1	2	b-verb.stative	2												
+VBP-meet	1	2	b-verb.social	2												
+VBP-lets	1	2	b-verb.social	2												
+VBZ-launches	1	2	b-verb.social	2												
+VBZ-does	1	2	b-verb.social	2												
+VB-got	1	2	b-verb.possession	2												
+VBG-offering	1	2	b-verb.possession	2												
+VERB-has	1	2	b-verb.possession	2												
+VBD-gave	1	2	b-verb.possession	2												
+VBZ-got	1	2	b-verb.possession	2												
+VB-pick	1	2	b-verb.possession	2												
+VERB-got	1	2	b-verb.possession	2												
+VBD-watched	1	2	b-verb.perception	2												
+VB-listen	1	2	b-verb.perception	2												
+VBG-listening	1	2	b-verb.perception	2												
+VBZ-walks	1	2	b-verb.motion	2												
+VBZ-brings	1	2	b-verb.motion	2												
+VBG-droppin	1	2	b-verb.motion	2												
+VBG-fallin	1	2	b-verb.motion	2												
+VBG-moving	1	2	b-verb.motion	2												
+VBD-came	1	2	b-verb.motion	2												
+VBN-headed	1	2	b-verb.motion	2												
+VBP-luv	1	2	b-verb.emotion	2												
+VBD-obsessed	1	2	b-verb.emotion	2												
+VB-enjoy	1	2	b-verb.emotion	2												
+VERB-love	1	2	b-verb.emotion	2												
+VBZ-hates	1	2	b-verb.emotion	2												
+VBD-scared	1	2	b-verb.emotion	2												
+VBD-loved	1	2	b-verb.emotion	2												
+VBZ-loves	1	2	b-verb.emotion	2												
+VERB-want	1	2	b-verb.emotion	2												
+VERB-liked	1	2	b-verb.emotion	2												
+VBG-writing	1	2	b-verb.creation	2												
+VBG-making	1	2	b-verb.creation	2												
+VERB-build	1	2	b-verb.creation	2												
+VBD-put	1	2	b-verb.contact	2												
+VB-lick	1	2	b-verb.contact	2												
+VERB-riddle	1	2	b-verb.contact	2												
+VBD-slapped	1	2	b-verb.contact	2												
+VERB-arrested	1	2	b-verb.contact	2												
+VBG-drinking	1	2	b-verb.consumption	2												
+VBN-eaten	1	2	b-verb.consumption	2												
+VBG-eating	1	2	b-verb.consumption	2												
+VB-eat	1	2	b-verb.consumption	2												
+VBD-won	1	2	b-verb.competition	2												
+VBD-beat	1	2	b-verb.competition	2												
+VBP-bet	1	2	b-verb.competition	2												
+VERB-presents	1	2	b-verb.communication	2												
+VERB-share	1	2	b-verb.communication	2												
+VBP-ask	1	2	b-verb.communication	2												
+VBG-following	1	2	b-verb.communication	2												
+VERB-say	1	2	b-verb.communication	2												
+VB-shout	1	2	b-verb.communication	2												
+VBD-tweeted	1	2	b-verb.communication	2												
+VB-sing	1	2	b-verb.communication	2												
+VERB-announced	1	2	b-verb.communication	2												
+VERB-bows	1	2	b-verb.communication	2												
+VERB-find	1	2	b-verb.cognition	2												
+VBG-awaiting	1	2	b-verb.cognition	2												
+VBZ-knows	1	2	b-verb.cognition	2												
+VERB-guess	1	2	b-verb.cognition	2												
+VERB-learn	1	2	b-verb.cognition	2												
+VBZ-thinks	1	2	b-verb.cognition	2												
+VERB-check	1	2	b-verb.cognition	2												
+VBG-beginning	1	2	b-verb.change	2												
+VB-die	1	2	b-verb.change	2												
+VB-finish	1	2	b-verb.change	2												
+VB-switch	1	2	b-verb.change	2												
+VBG-starting	1	2	b-verb.change	2												
+VERB-start	1	2	b-verb.change	2												
+VBD-died	1	2	b-verb.change	2												
+VBP-become	1	2	b-verb.change	2												
+VBP-wake	1	2	b-verb.body	2												
+NNP-sept	1	2	b-noun.time	2												
+NNS-mins	1	2	b-noun.time	2												
+NNP-february	1	2	b-noun.time	2												
+NNP-sat	1	2	b-noun.time	2												
+NNP-thursday	1	2	b-noun.time	2												
+NNP-fri	1	2	b-noun.time	2												
+NN-everyday	1	2	b-noun.time	2												
+NN-min	1	2	b-noun.time	2												
+NOUN-date	1	2	b-noun.time	2												
+NN-anniversary	1	2	b-noun.time	2												
+NNS-seconds	1	2	b-noun.time	2												
+NNP-thursday night	1	2	b-noun.time	2												
+NOUN-night	1	2	b-noun.time	2												
+NNP-jason Garrett era	1	2	b-noun.time	2												
+NNP-thanksgiving	1	2	b-noun.time	2												
+NN-while	1	2	b-noun.time	2												
+NN-2day	1	2	b-noun.time	2												
+NN-evening	1	2	b-noun.time	2												
+NN-water	1	2	b-noun.substance	2												
+NN-mess	1	2	b-noun.state	2												
+NN-dollar	1	2	b-noun.quantity	2												
+NUM-one	1	2	b-noun.quantity	2												
+NN-loss	1	2	b-noun.possession	2												
+NN-bonus	1	2	b-noun.possession	2												
+NN-wind	1	2	b-noun.phenomenon	2												
+NN-rain	1	2	b-noun.phenomenon	2												
+NOUN-sturridge	1	2	b-noun.person	2												
+NN-momma	1	2	b-noun.person	2												
+NNS-attendees	1	2	b-noun.person	2												
+NNP-derek	1	2	b-noun.person	2												
+NN-running back	1	2	b-noun.person	2												
+NN-twin	1	2	b-noun.person	2												
+NN-mother	1	2	b-noun.person	2												
+NNP-rose	1	2	b-noun.person	2												
+NNS-followers	1	2	b-noun.person	2												
+NN-person	1	2	b-noun.person	2												
+NNS-niggers	1	2	b-noun.person	2												
+NN-wife	1	2	b-noun.person	2												
+NNP-cody	1	2	b-noun.person	2												
+NNP-justin Bieber	1	2	b-noun.person	2												
+NOUN-person	1	2	b-noun.person	2												
+NN-dude	1	2	b-noun.person	2												
+NOUN-unfollower	1	2	b-noun.person	2												
+NN-dj	1	2	b-noun.person	2												
+NNP-i	1	2	b-noun.person	2												
+NN-lady	1	2	b-noun.person	2												
+NNS-niggaz	1	2	b-noun.person	2												
+NNP-soulja Boy	1	2	b-noun.person	2												
+NN-doctor	1	2	b-noun.person	2												
+NNP-steve	1	2	b-noun.person	2												
+NNP-adam	1	2	b-noun.person	2												
+NNP-cier	1	2	b-noun.person	2												
+NN-son	1	2	b-noun.person	2												
+NNP-taylor	1	2	b-noun.person	2												
+NN-man	1	2	b-noun.person	2												
+NN-reason	1	2	b-noun.motive	2												
+NNP-lake Charles	1	2	b-noun.location	2												
+NNP-ustream	1	2	b-noun.location	2												
+NNP-campus Village	1	2	b-noun.location	2												
+NNP-bihar	1	2	b-noun.location	2												
+NOUN-japan	1	2	b-noun.location	2												
+NNP-temecula CA	1	2	b-noun.location	2												
+NOUN-oakland	1	2	b-noun.location	2												
+NOUN-home	1	2	b-noun.location	2												
+NNP-ces	1	2	b-noun.location	2												
+NNP-el PASO	1	2	b-noun.location	2												
+NN-office	1	2	b-noun.location	2												
+NNP-ny	1	2	b-noun.location	2												
+NOUN-#syria's	1	2	b-noun.location	2												
+NOUN-#qatar	1	2	b-noun.location	2												
+NNP-la	1	2	b-noun.location	2												
+NNP-notre Dame	1	2	b-noun.group	2												
+NNP-zazzle	1	2	b-noun.group	2												
+NOUN-#fifa	1	2	b-noun.group	2												
+NN-team	1	2	b-noun.group	2												
+NOUN-england	1	2	b-noun.group	2												
+NN-photo Gallery	1	2	b-noun.group	2												
+NOUN-napoli	1	2	b-noun.group	2												
+NOUN-class	1	2	b-noun.group	2												
+NNP-ncaaf	1	2	b-noun.group	2												
+NN-chocolate	1	2	b-noun.food	2												
+NN-tea	1	2	b-noun.food	2												
+NOUN-workshop	1	2	b-noun.event	2												
+NNS-episodes	1	2	b-noun.communication	2												
+NOUN-film	1	2	b-noun.communication	2												
+NOUN-video	1	2	b-noun.communication	2												
+NOUN-soccer news	1	2	b-noun.communication	2												
+NN-exclusive	1	2	b-noun.communication	2												
+NNP-youtube Videos	1	2	b-noun.communication	2												
+NN-resume	1	2	b-noun.communication	2												
+NN-advice	1	2	b-noun.communication	2												
+NOUN-info	1	2	b-noun.communication	2												
+NNP-the Good Guys	1	2	b-noun.communication	2												
+NNP-fb	1	2	b-noun.communication	2												
+NN-music	1	2	b-noun.communication	2												
+NN-mail	1	2	b-noun.communication	2												
+NNP-fox	1	2	b-noun.communication	2												
+NN-3d	1	2	b-noun.communication	2												
+NNP-facebook	1	2	b-noun.communication	2												
+NOUN-bid	1	2	b-noun.communication	2												
+NNS-thanks	1	2	b-noun.communication	2												
+NOUN-album	1	2	b-noun.communication	2												
+NNP-antick Musings	1	2	b-noun.communication	2												
+NOUN-details	1	2	b-noun.communication	2												
+NNP-running Wilde	1	2	b-noun.communication	2												
+NNS-questions	1	2	b-noun.communication	2												
+NN-code	1	2	b-noun.communication	2												
+NNP-drama Edition	1	2	b-noun.communication	2												
+NOUN-interview	1	2	b-noun.communication	2												
+NN-tune	1	2	b-noun.communication	2												
+NN-experience	1	2	b-noun.cognition	2												
+NN-dream	1	2	b-noun.cognition	2												
+NN-religion	1	2	b-noun.cognition	2												
+NN-face	1	2	b-noun.body	2												
+NN-ass	1	2	b-noun.body	2												
+NN-mouth	1	2	b-noun.body	2												
+NN-foot	1	2	b-noun.body	2												
+NN-bath	1	2	b-noun.artifact	2												
+NNP-jersey shore	1	2	b-noun.artifact	2												
+NNS-jerseys	1	2	b-noun.artifact	2												
+NN-image	1	2	b-noun.artifact	2												
+NNS-pants	1	2	b-noun.artifact	2												
+NNP-visions LOUNGE	1	2	b-noun.artifact	2												
+NOUN-iphone	1	2	b-noun.artifact	2												
+NNP-pandora	1	2	b-noun.artifact	2												
+NOUN-car	1	2	b-noun.artifact	2												
+NOUN-dress	1	2	b-noun.artifact	2												
+NN-wall	1	2	b-noun.artifact	2												
+NOUN-bear	1	2	b-noun.artifact	2												
+NNP-htc Desire Z	1	2	b-noun.artifact	2												
+NNS-pictures	1	2	b-noun.artifact	2												
+NNS-shorts	1	2	b-noun.artifact	2												
+NN-dog	1	2	b-noun.animal	2												
+NN-winter finale	1	2	b-noun.act	2												
+NOUN-services	1	2	b-noun.act	2												
+NNS-observances	1	2	b-noun.act	2												
+NN-visit	1	2	b-noun.act	2												
+NOUN-#jobs	1	2	b-noun.act	2												
+NOUN-bpm	1	2	b-noun.act	2												
+NN-rehab	1	2	b-noun.act	2												
+NNS-chances	1	2	b-noun.act	2												
+NN-polling	1	2	b-noun.act	2												
+NN-counting	1	2	b-noun.act	2												
+NN-run	1	2	b-noun.act	2												
+VBZ-rains	1	1	b-verb.weather	1												
+VB-rain	1	1	b-verb.weather	1												
+VB-pass	1	1	b-verb.stative	1												
+VBG-havin	1	1	b-verb.stative	1												
+VBZ-checks	1	1	b-verb.stative	1												
+VERB-am	1	1	b-verb.stative	1												
+VBZ-was/is	1	1	b-verb.stative	1												
+VB-ntake	1	1	b-verb.stative	1												
+VBG-keeping	1	1	b-verb.stative	1												
+VBN-required	1	1	b-verb.stative	1												
+VB-be gettin	1	1	b-verb.stative	1												
+VERB-being	1	1	b-verb.stative	1												
+NN-am	1	1	b-verb.stative	1												
+VERB-fell	1	1	b-verb.stative	1												
+VB-end	1	1	b-verb.stative	1												
+VB-preserve	1	1	b-verb.stative	1												
+VBN-exceeded	1	1	b-verb.stative	1												
+VBG-running	1	1	b-verb.stative	1												
+VBP-spent	1	1	b-verb.stative	1												
+VBP-r	1	1	b-verb.stative	1												
+VBD-kept	1	1	b-verb.stative	1												
+VB-rest	1	1	b-verb.stative	1												
+VBG-waking	1	1	b-verb.stative	1												
+NNP-dead	1	1	b-verb.stative	1												
+VERB-need	1	1	b-verb.stative	1												
+VERB-depends	1	1	b-verb.stative	1												
+VBZ-matters	1	1	b-verb.stative	1												
+VBP-ai	1	1	b-verb.stative	1												
+VBP-aint	1	1	b-verb.stative	1												
+VBP-persist	1	1	b-verb.stative	1												
+VBD-wasz	1	1	b-verb.stative	1												
+VBP-match	1	1	b-verb.stative	1												
+VBN-stuck	1	1	b-verb.stative	1												
+VBZ-features	1	1	b-verb.stative	1												
+VBG-takin	1	1	b-verb.stative	1												
+VBN-featured	1	1	b-verb.stative	1												
+VBD-fitted	1	1	b-verb.stative	1												
+VBZ-sits	1	1	b-verb.stative	1												
+VBP-require	1	1	b-verb.stative	1												
+VBN-needed	1	1	b-verb.stative	1												
+VB-tryy~	1	1	b-verb.stative	1												
+VERB-covering	1	1	b-verb.stative	1												
+VBZ-are	1	1	b-verb.stative	1												
+VBP-tend	1	1	b-verb.stative	1												
+VBG-ft	1	1	b-verb.stative	1												
+VB-dnt	1	1	b-verb.stative	1												
+VBD-spent	1	1	b-verb.stative	1												
+VB-stick	1	1	b-verb.stative	1												
+VBZ-continues	1	1	b-verb.stative	1												
+VBD-saved	1	1	b-verb.stative	1												
+VB-skip	1	1	b-verb.stative	1												
+VBP-deserve	1	1	b-verb.stative	1												
+VB-survive	1	1	b-verb.stative	1												
+POS-'s	1	1	b-verb.stative	1												
+VBZ-leads	1	1	b-verb.stative	1												
+VERB-features	1	1	b-verb.stative	1												
+VBD-wass	1	1	b-verb.stative	1												
+VBG-missing	1	1	b-verb.stative	1												
+VBZ-workz	1	1	b-verb.stative	1												
+VBZ-saves	1	1	b-verb.stative	1												
+VERB-i'm	1	1	b-verb.stative	1												
+VBZ-ai	1	1	b-verb.stative	1												
+VBZ-needs	1	1	b-verb.stative	1												
+NNP-'s	1	1	b-verb.stative	1												
+VB-b	1	1	b-verb.stative	1												
+VBG-chillin	1	1	b-verb.stative	1												
+VBZ-keeps	1	1	b-verb.stative	1												
+VBG-cutting	1	1	b-verb.stative	1												
+VBD-wasnt	1	1	b-verb.stative	1												
+VBZ-want	1	1	b-verb.stative	1												
+VERB-needed	1	1	b-verb.stative	1												
+VBZ-plays	1	1	b-verb.stative	1												
+VERB-wait	1	1	b-verb.stative	1												
+VBZ-iis	1	1	b-verb.stative	1												
+VBG-sleeping	1	1	b-verb.stative	1												
+VBG-ending	1	1	b-verb.stative	1												
+VBG-proving	1	1	b-verb.stative	1												
+VBD-honored	1	1	b-verb.social	1												
+VERB-found	1	1	b-verb.social	1												
+VBD-entertained	1	1	b-verb.social	1												
+VB-f*ck	1	1	b-verb.social	1												
+VB-act	1	1	b-verb.social	1												
+VERB-work	1	1	b-verb.social	1												
+VBG-getting married	1	1	b-verb.social	1												
+VB-happen	1	1	b-verb.social	1												
+VBN-drafted	1	1	b-verb.social	1												
+VBN-arrived	1	1	b-verb.social	1												
+VERB-ordered	1	1	b-verb.social	1												
+VB-save	1	1	b-verb.social	1												
+VERB-rejoins	1	1	b-verb.social	1												
+VBN-saved	1	1	b-verb.social	1												
+VBG-foin	1	1	b-verb.social	1												
+VBN-tried	1	1	b-verb.social	1												
+VBP-try	1	1	b-verb.social	1												
+VBN-caught	1	1	b-verb.social	1												
+VBD-managed	1	1	b-verb.social	1												
+VBP-succeed	1	1	b-verb.social	1												
+VBG-getn	1	1	b-verb.social	1												
+VBG-fakin	1	1	b-verb.social	1												
+VERB-stahp	1	1	b-verb.social	1												
+VBG-meeting	1	1	b-verb.social	1												
+VBG-popping	1	1	b-verb.social	1												
+VBG-failing	1	1	b-verb.social	1												
+VERB-waiting	1	1	b-verb.social	1												
+VBZ-commit	1	1	b-verb.social	1												
+VBP-let	1	1	b-verb.social	1												
+VB-bomb	1	1	b-verb.social	1												
+VB-race	1	1	b-verb.social	1												
+VB-respect	1	1	b-verb.social	1												
+VERB-drives	1	1	b-verb.social	1												
+VBP-rape	1	1	b-verb.social	1												
+VERB-launched	1	1	b-verb.social	1												
+VB-role play	1	1	b-verb.social	1												
+VBG-dealing	1	1	b-verb.social	1												
+VBD-invited	1	1	b-verb.social	1												
+VBP-work	1	1	b-verb.social	1												
+VB-escape	1	1	b-verb.social	1												
+VBP-handle	1	1	b-verb.social	1												
+VBN-respected	1	1	b-verb.social	1												
+VBG-launching	1	1	b-verb.social	1												
+VERB-take	1	1	b-verb.social	1												
+VBN-married	1	1	b-verb.social	1												
+VBG-hanging	1	1	b-verb.social	1												
+VB-rep	1	1	b-verb.social	1												
+VB-please	1	1	b-verb.social	1												
+VBG-helping	1	1	b-verb.social	1												
+VBG-celebrating	1	1	b-verb.social	1												
+VBP-use	1	1	b-verb.social	1												
+VB-spoil	1	1	b-verb.social	1												
+VB-further	1	1	b-verb.social	1												
+VBD-surprised	1	1	b-verb.social	1												
+VBG-sorting	1	1	b-verb.social	1												
+VERB-struggling	1	1	b-verb.social	1												
+VBP-dont	1	1	b-verb.social	1												
+VBG-joining	1	1	b-verb.social	1												
+VBP-invite	1	1	b-verb.social	1												
+VB-hit	1	1	b-verb.social	1												
+VB-take hold	1	1	b-verb.social	1												
+VBN-canceled	1	1	b-verb.social	1												
+VBP-mark	1	1	b-verb.social	1												
+HT-#ff'ed	1	1	b-verb.social	1												
+VBP-cn	1	1	b-verb.social	1												
+VB-support	1	1	b-verb.social	1												
+VBG-preventing	1	1	b-verb.social	1												
+NN-join	1	1	b-verb.social	1												
+VERB-try	1	1	b-verb.social	1												
+VBN-brought	1	1	b-verb.social	1												
+VB-party	1	1	b-verb.social	1												
+VBD-marked	1	1	b-verb.social	1												
+VBP-expose	1	1	b-verb.social	1												
+VBZ-lets	1	1	b-verb.social	1												
+VBN-did	1	1	b-verb.social	1												
+VERB-falling	1	1	b-verb.social	1												
+VB-goof	1	1	b-verb.social	1												
+VERB-get married	1	1	b-verb.social	1												
+VERB-allow	1	1	b-verb.social	1												
+VBZ-joins	1	1	b-verb.social	1												
+VERB-leaves	1	1	b-verb.social	1												
+VBD-failed	1	1	b-verb.social	1												
+VBZ-sponsors	1	1	b-verb.possession	1												
+VBN-found	1	1	b-verb.possession	1												
+VERB-buy	1	1	b-verb.possession	1												
+VBN-gotten	1	1	b-verb.possession	1												
+VBD-earned	1	1	b-verb.possession	1												
+VB-subscribe	1	1	b-verb.possession	1												
+VERB-receives	1	1	b-verb.possession	1												
+VERB-provide	1	1	b-verb.possession	1												
+VB-pay	1	1	b-verb.possession	1												
+VBN-reserved	1	1	b-verb.possession	1												
+VB-provide	1	1	b-verb.possession	1												
+VB-waste	1	1	b-verb.possession	1												
+VBG-shopping	1	1	b-verb.possession	1												
+VBN-sold	1	1	b-verb.possession	1												
+VBD-bought	1	1	b-verb.possession	1												
+VBN-lost	1	1	b-verb.possession	1												
+VERB-hire	1	1	b-verb.possession	1												
+VBZ-donates	1	1	b-verb.possession	1												
+VB-order	1	1	b-verb.possession	1												
+VBG-boycotting	1	1	b-verb.possession	1												
+VBD-donated	1	1	b-verb.possession	1												
+VB-load	1	1	b-verb.possession	1												
+VBD-sold	1	1	b-verb.possession	1												
+VBZ-gives	1	1	b-verb.possession	1												
+VBN-paid	1	1	b-verb.possession	1												
+VBP-buy	1	1	b-verb.possession	1												
+VERB-put	1	1	b-verb.possession	1												
+VBP-purchase	1	1	b-verb.possession	1												
+VB-deliver	1	1	b-verb.possession	1												
+VB-have got	1	1	b-verb.possession	1												
+VBP-finance	1	1	b-verb.possession	1												
+VERB-buying	1	1	b-verb.possession	1												
+VB-receive	1	1	b-verb.possession	1												
+VB-'ve	1	1	b-verb.possession	1												
+NN-of	1	1	b-verb.possession	1												
+VBD-hadd	1	1	b-verb.possession	1												
+VBG-picking	1	1	b-verb.possession	1												
+VB-dispose	1	1	b-verb.possession	1												
+VBN-given	1	1	b-verb.possession	1												
+VBZ-sounds	1	1	b-verb.perception	1												
+VBZ-listens	1	1	b-verb.perception	1												
+VERB-listen	1	1	b-verb.perception	1												
+VBZ-appears	1	1	b-verb.perception	1												
+VBN-watched	1	1	b-verb.perception	1												
+VBZ-stares	1	1	b-verb.perception	1												
+VBD-didnt see	1	1	b-verb.perception	1												
+VBD-heard	1	1	b-verb.perception	1												
+VBN-experienced	1	1	b-verb.perception	1												
+VBN-noticed	1	1	b-verb.perception	1												
+VBG-ringing	1	1	b-verb.perception	1												
+VERB-seen	1	1	b-verb.perception	1												
+VBD-listened	1	1	b-verb.perception	1												
+VBP-c	1	1	b-verb.perception	1												
+VBD-stared	1	1	b-verb.perception	1												
+VERB-showed	1	1	b-verb.perception	1												
+VBZ-seen	1	1	b-verb.perception	1												
+VERB-spied	1	1	b-verb.perception	1												
+VB-hear	1	1	b-verb.perception	1												
+VBD-rang	1	1	b-verb.perception	1												
+VBZ-looks	1	1	b-verb.perception	1												
+VERB-look	1	1	b-verb.perception	1												
+NOUN-#view	1	1	b-verb.perception	1												
+VBP-watch	1	1	b-verb.perception	1												
+VB-ignore	1	1	b-verb.perception	1												
+VBP-check	1	1	b-verb.perception	1												
+VERB-appears	1	1	b-verb.perception	1												
+VBP-hear	1	1	b-verb.perception	1												
+VB-sound	1	1	b-verb.perception	1												
+VBN-looked	1	1	b-verb.perception	1												
+VERB-missing	1	1	b-verb.perception	1												
+VBZ-smells	1	1	b-verb.perception	1												
+VBZ-reeks	1	1	b-verb.perception	1												
+VB-taste	1	1	b-verb.perception	1												
+VBP-pull	1	1	b-verb.motion	1												
+VB-arrive	1	1	b-verb.motion	1												
+VBG-leavin	1	1	b-verb.motion	1												
+VB-rise	1	1	b-verb.motion	1												
+VB-twirlllllllllll	1	1	b-verb.motion	1												
+VBG-tapping	1	1	b-verb.motion	1												
+VBG-shooting	1	1	b-verb.motion	1												
+VBG-gon	1	1	b-verb.motion	1												
+VBP-play	1	1	b-verb.motion	1												
+VB-leav	1	1	b-verb.motion	1												
+VBP-reach	1	1	b-verb.motion	1												
+VBG-pulling	1	1	b-verb.motion	1												
+VB-rock	1	1	b-verb.motion	1												
+VBG-traveling	1	1	b-verb.motion	1												
+VBZ-takes	1	1	b-verb.motion	1												
+VBZ-goes	1	1	b-verb.motion	1												
+VB-dance	1	1	b-verb.motion	1												
+NN-position	1	1	b-verb.motion	1												
+VBP-proceed	1	1	b-verb.motion	1												
+VB-stoop	1	1	b-verb.motion	1												
+VB-ride	1	1	b-verb.motion	1												
+VB-leave	1	1	b-verb.motion	1												
+VERB-gain	1	1	b-verb.motion	1												
+VB-shoot	1	1	b-verb.motion	1												
+VB-kickit	1	1	b-verb.motion	1												
+VBP-move	1	1	b-verb.motion	1												
+VBZ-grinds	1	1	b-verb.motion	1												
+VBP-snuck	1	1	b-verb.motion	1												
+VBP-stop	1	1	b-verb.motion	1												
+VB-walk	1	1	b-verb.motion	1												
+NOUN-#washing	1	1	b-verb.motion	1												
+VBP-fly	1	1	b-verb.motion	1												
+VBN-stuffed	1	1	b-verb.motion	1												
+VBD-landed	1	1	b-verb.motion	1												
+VBD-tumbled	1	1	b-verb.motion	1												
+VERB-slipped	1	1	b-verb.motion	1												
+VERB-move	1	1	b-verb.motion	1												
+VBP-take	1	1	b-verb.motion	1												
+VBP-cross	1	1	b-verb.motion	1												
+VBZ-ships	1	1	b-verb.motion	1												
+VBG-travelling	1	1	b-verb.motion	1												
+VB-fly	1	1	b-verb.motion	1												
+VB-crash	1	1	b-verb.motion	1												
+VBG-chasin	1	1	b-verb.motion	1												
+VBG-leaving	1	1	b-verb.motion	1												
+VBZ-enters	1	1	b-verb.motion	1												
+VB-drive	1	1	b-verb.motion	1												
+VBD-marched	1	1	b-verb.motion	1												
+VBP-arrive	1	1	b-verb.motion	1												
+VBP-*purrs	1	1	b-verb.motion	1												
+VBG-rockin	1	1	b-verb.motion	1												
+VB-cum	1	1	b-verb.motion	1												
+VBG-bringing	1	1	b-verb.motion	1												
+VB-slip	1	1	b-verb.motion	1												
+VERB-hit	1	1	b-verb.motion	1												
+VBG-walking	1	1	b-verb.motion	1												
+VBG-hitting	1	1	b-verb.motion	1												
+VBN-stopped	1	1	b-verb.motion	1												
+VBP-care	1	1	b-verb.emotion	1												
+VBG-trippin	1	1	b-verb.emotion	1												
+VB-freak	1	1	b-verb.emotion	1												
+VBD-excited	1	1	b-verb.emotion	1												
+VBN-thrilled	1	1	b-verb.emotion	1												
+VBG-feelin	1	1	b-verb.emotion	1												
+VBP-shine	1	1	b-verb.emotion	1												
+VB-worry	1	1	b-verb.emotion	1												
+VB-want	1	1	b-verb.emotion	1												
+VBG-wanting	1	1	b-verb.emotion	1												
+VBD-felt	1	1	b-verb.emotion	1												
+VERB-rues	1	1	b-verb.emotion	1												
+VBP-appreciate	1	1	b-verb.emotion	1												
+VBD-liked	1	1	b-verb.emotion	1												
+VERB-fazed	1	1	b-verb.emotion	1												
+VBD-impressed	1	1	b-verb.emotion	1												
+VERB-loving	1	1	b-verb.emotion	1												
+VBN-bored	1	1	b-verb.emotion	1												
+VBG-crying	1	1	b-verb.emotion	1												
+VB-regret	1	1	b-verb.emotion	1												
+VBG-pissing	1	1	b-verb.emotion	1												
+VBP-luvz	1	1	b-verb.emotion	1												
+VBN-worried	1	1	b-verb.emotion	1												
+VB-fck	1	1	b-verb.emotion	1												
+VERB-hurts	1	1	b-verb.emotion	1												
+VERB-inspire	1	1	b-verb.emotion	1												
+VERB-loved	1	1	b-verb.emotion	1												
+VBN-scared	1	1	b-verb.emotion	1												
+VB-spite	1	1	b-verb.emotion	1												
+VERB-heart	1	1	b-verb.emotion	1												
+VBP-heart	1	1	b-verb.emotion	1												
+VBD-enjoyed	1	1	b-verb.emotion	1												
+HT-#hurrt	1	1	b-verb.emotion	1												
+VB-hope	1	1	b-verb.emotion	1												
+VBD-shocked	1	1	b-verb.emotion	1												
+VBN-distracted	1	1	b-verb.emotion	1												
+VBG-cooking	1	1	b-verb.creation	1												
+VERB-perform	1	1	b-verb.creation	1												
+VB-2write	1	1	b-verb.creation	1												
+VBP-write	1	1	b-verb.creation	1												
+VERB-written	1	1	b-verb.creation	1												
+NOUN-prod	1	1	b-verb.creation	1												
+VBZ-causes	1	1	b-verb.creation	1												
+VBD-cooked	1	1	b-verb.creation	1												
+VB-draw	1	1	b-verb.creation	1												
+VBG-makin	1	1	b-verb.creation	1												
+VB-remake	1	1	b-verb.creation	1												
+VERB-do	1	1	b-verb.creation	1												
+VERB-directed	1	1	b-verb.creation	1												
+VERB-plan	1	1	b-verb.creation	1												
+VBD-worked	1	1	b-verb.creation	1												
+VBG-sketching	1	1	b-verb.creation	1												
+VERB-gave	1	1	b-verb.creation	1												
+VBG-configuring	1	1	b-verb.creation	1												
+NNP-draw	1	1	b-verb.creation	1												
+VB-scan	1	1	b-verb.creation	1												
+VB-recapture	1	1	b-verb.creation	1												
+VBG-plotting	1	1	b-verb.creation	1												
+VBN-printed	1	1	b-verb.creation	1												
+VERB-motivated	1	1	b-verb.creation	1												
+VBG-spinning	1	1	b-verb.creation	1												
+VERB-cook	1	1	b-verb.creation	1												
+VBG-baking	1	1	b-verb.creation	1												
+VB-design	1	1	b-verb.creation	1												
+VB-set	1	1	b-verb.creation	1												
+NOUN-dir	1	1	b-verb.creation	1												
+VBN-written	1	1	b-verb.creation	1												
+VBG-building	1	1	b-verb.creation	1												
+VBG-entering	1	1	b-verb.creation	1												
+VBD-typed	1	1	b-verb.creation	1												
+VBG-cookin	1	1	b-verb.creation	1												
+VERB-causes	1	1	b-verb.creation	1												
+VB-setup	1	1	b-verb.creation	1												
+VB-hold	1	1	b-verb.contact	1												
+VBN-marked	1	1	b-verb.contact	1												
+VBP-stick	1	1	b-verb.contact	1												
+VBP-hit	1	1	b-verb.contact	1												
+VBD-hemmed	1	1	b-verb.contact	1												
+VB-close	1	1	b-verb.contact	1												
+VBZ-shoots	1	1	b-verb.contact	1												
+VBZ-bats	1	1	b-verb.contact	1												
+VBG-*throwing	1	1	b-verb.contact	1												
+VB-kiss	1	1	b-verb.contact	1												
+VBG-kissing	1	1	b-verb.contact	1												
+VBN-tamped	1	1	b-verb.contact	1												
+VBN-pressed	1	1	b-verb.contact	1												
+VBN-covered	1	1	b-verb.contact	1												
+VBZ-*kisses	1	1	b-verb.contact	1												
+VBZ-peels	1	1	b-verb.contact	1												
+VBD-picked	1	1	b-verb.contact	1												
+VBN-put	1	1	b-verb.contact	1												
+VBZ-bites	1	1	b-verb.contact	1												
+VBG-spilling	1	1	b-verb.contact	1												
+VB-plant	1	1	b-verb.contact	1												
+VBP-pet	1	1	b-verb.contact	1												
+VBN-pulled	1	1	b-verb.contact	1												
+VB-sit	1	1	b-verb.contact	1												
+VB-lock	1	1	b-verb.contact	1												
+VERB-know	1	1	b-verb.contact	1												
+VB-touch	1	1	b-verb.contact	1												
+VBD-connected	1	1	b-verb.contact	1												
+VBP-eat	1	1	b-verb.consumption	1												
+VB-drink	1	1	b-verb.consumption	1												
+VBZ-eat	1	1	b-verb.consumption	1												
+VERB-tried	1	1	b-verb.consumption	1												
+VBP-power	1	1	b-verb.consumption	1												
+NNPS-eats	1	1	b-verb.consumption	1												
+VB-ate	1	1	b-verb.consumption	1												
+VBG-eatin	1	1	b-verb.consumption	1												
+VERB-served	1	1	b-verb.consumption	1												
+NNP-drink	1	1	b-verb.consumption	1												
+VB-avail	1	1	b-verb.consumption	1												
+VB-compete	1	1	b-verb.competition	1												
+VBZ-scores	1	1	b-verb.competition	1												
+VERB-challenge	1	1	b-verb.competition	1												
+VBG-qualifying	1	1	b-verb.competition	1												
+VBN-charged	1	1	b-verb.competition	1												
+MD-better	1	1	b-verb.competition	1												
+VBN-fired	1	1	b-verb.competition	1												
+VERB-attacked	1	1	b-verb.competition	1												
+VBD-set	1	1	b-verb.competition	1												
+VBD-entered	1	1	b-verb.competition	1												
+VERB-won	1	1	b-verb.competition	1												
+NN-fired	1	1	b-verb.competition	1												
+VERB-scored	1	1	b-verb.competition	1												
+VERB-battling	1	1	b-verb.competition	1												
+VERB-starting	1	1	b-verb.competition	1												
+VBP-untag	1	1	b-verb.communication	1												
+VB-agree	1	1	b-verb.communication	1												
+VB-post	1	1	b-verb.communication	1												
+VBZ-bles	1	1	b-verb.communication	1												
+VB-tag	1	1	b-verb.communication	1												
+VBZ-explains	1	1	b-verb.communication	1												
+VBG-noting	1	1	b-verb.communication	1												
+VBP-agree	1	1	b-verb.communication	1												
+VERB-files	1	1	b-verb.communication	1												
+VERB-shot	1	1	b-verb.communication	1												
+VB-yell	1	1	b-verb.communication	1												
+VBN-named	1	1	b-verb.communication	1												
+VERB-dissuade	1	1	b-verb.communication	1												
+VERB-denies	1	1	b-verb.communication	1												
+VERB-welcome	1	1	b-verb.communication	1												
+VB-criticize	1	1	b-verb.communication	1												
+VBG-teaching	1	1	b-verb.communication	1												
+VB-respond	1	1	b-verb.communication	1												
+VBP-sware	1	1	b-verb.communication	1												
+VBG-requesting	1	1	b-verb.communication	1												
+VERB-vows	1	1	b-verb.communication	1												
+VB-air	1	1	b-verb.communication	1												
+VBG-showing	1	1	b-verb.communication	1												
+VBG-stuntin	1	1	b-verb.communication	1												
+VB-beg	1	1	b-verb.communication	1												
+VBD-responded	1	1	b-verb.communication	1												
+VBZ-bless	1	1	b-verb.communication	1												
+VB-snap	1	1	b-verb.communication	1												
+VBG-playing	1	1	b-verb.communication	1												
+VBP-swear	1	1	b-verb.communication	1												
+VB-tex	1	1	b-verb.communication	1												
+VBD-informed	1	1	b-verb.communication	1												
+VBZ-say	1	1	b-verb.communication	1												
+VBN-qualified	1	1	b-verb.communication	1												
+VBG-defendi	1	1	b-verb.communication	1												
+NNP-wyd	1	1	b-verb.communication	1												
+VBZ-present	1	1	b-verb.communication	1												
+VBZ-tel	1	1	b-verb.communication	1												
+VBZ-says	1	1	b-verb.communication	1												
+VBZ-drops	1	1	b-verb.communication	1												
+VERB-kidding	1	1	b-verb.communication	1												
+VBZ-complains	1	1	b-verb.communication	1												
+VB-thankk	1	1	b-verb.communication	1												
+VBP-look	1	1	b-verb.communication	1												
+VB-sign	1	1	b-verb.communication	1												
+VERB-chats	1	1	b-verb.communication	1												
+VB-ask	1	1	b-verb.communication	1												
+NOUN-#nowplaying	1	1	b-verb.communication	1												
+VB-answer	1	1	b-verb.communication	1												
+VBG-tellin	1	1	b-verb.communication	1												
+VBP-host	1	1	b-verb.communication	1												
+VERB-talking	1	1	b-verb.communication	1												
+VBD-taught	1	1	b-verb.communication	1												
+VBG-telling	1	1	b-verb.communication	1												
+VB-explain	1	1	b-verb.communication	1												
+VB-enlighten	1	1	b-verb.communication	1												
+VERB-redefine	1	1	b-verb.communication	1												
+VERB-called	1	1	b-verb.communication	1												
+VERB-promoting	1	1	b-verb.communication	1												
+VBD-ordered	1	1	b-verb.communication	1												
+VBP-tell	1	1	b-verb.communication	1												
+VBZ-asks	1	1	b-verb.communication	1												
+VBP-compliment	1	1	b-verb.communication	1												
+VBZ-admits	1	1	b-verb.communication	1												
+VBP-present	1	1	b-verb.communication	1												
+VBP-tweet	1	1	b-verb.communication	1												
+VBZ-responds	1	1	b-verb.communication	1												
+VBG-talkin	1	1	b-verb.communication	1												
+VBN-said	1	1	b-verb.communication	1												
+VBD-blessed	1	1	b-verb.communication	1												
+VB-declare	1	1	b-verb.communication	1												
+VB-send	1	1	b-verb.communication	1												
+VBG-responding	1	1	b-verb.communication	1												
+VERB-word	1	1	b-verb.communication	1												
+VBG-cussin	1	1	b-verb.communication	1												
+VBD-posted	1	1	b-verb.communication	1												
+VB-visit	1	1	b-verb.communication	1												
+VB-dictate	1	1	b-verb.communication	1												
+VERB-posting	1	1	b-verb.communication	1												
+VB-speak	1	1	b-verb.communication	1												
+VBD-smiled	1	1	b-verb.communication	1												
+VBG-whispering	1	1	b-verb.communication	1												
+VERB-dismisses	1	1	b-verb.communication	1												
+VB-register4	1	1	b-verb.communication	1												
+VERB-rocking	1	1	b-verb.communication	1												
+VERB-hints	1	1	b-verb.communication	1												
+VBD-confirmed	1	1	b-verb.communication	1												
+VBD-spoke	1	1	b-verb.communication	1												
+VB-confirm	1	1	b-verb.communication	1												
+VBZ-suggests	1	1	b-verb.communication	1												
+VBN-published	1	1	b-verb.communication	1												
+VBD-retweeted	1	1	b-verb.communication	1												
+VBN-tweeted	1	1	b-verb.communication	1												
+VERB-agreed	1	1	b-verb.communication	1												
+VERB-tells	1	1	b-verb.communication	1												
+VERB-chant	1	1	b-verb.communication	1												
+VERB-rescheduled	1	1	b-verb.communication	1												
+VBP-forgave	1	1	b-verb.communication	1												
+VB-preach	1	1	b-verb.communication	1												
+VB-contact	1	1	b-verb.communication	1												
+VBG-investigating	1	1	b-verb.communication	1												
+VBG-showin	1	1	b-verb.communication	1												
+VBZ-refuses	1	1	b-verb.communication	1												
+VERB-sharing	1	1	b-verb.communication	1												
+VBP-text	1	1	b-verb.communication	1												
+VERB-asks	1	1	b-verb.communication	1												
+VERB-announces	1	1	b-verb.communication	1												
+VBZ-opens	1	1	b-verb.communication	1												
+VERB-report	1	1	b-verb.communication	1												
+VBG-calling	1	1	b-verb.communication	1												
+VERB-resume Companion	1	1	b-verb.communication	1												
+VERB-praises	1	1	b-verb.communication	1												
+VERB-set	1	1	b-verb.communication	1												
+VBD-named	1	1	b-verb.communication	1												
+VERB-says	1	1	b-verb.communication	1												
+VBZ-tweet	1	1	b-verb.communication	1												
+VB-reveal	1	1	b-verb.communication	1												
+VBZ-posts	1	1	b-verb.communication	1												
+VERB-count	1	1	b-verb.communication	1												
+VB-sort	1	1	b-verb.cognition	1												
+VBP-forget	1	1	b-verb.cognition	1												
+VBN-classified	1	1	b-verb.cognition	1												
+VBD-forgotten	1	1	b-verb.cognition	1												
+VERB-booked	1	1	b-verb.cognition	1												
+VBP-skip	1	1	b-verb.cognition	1												
+VB-rewind	1	1	b-verb.cognition	1												
+VB-goo	1	1	b-verb.cognition	1												
+VERB-remembering	1	1	b-verb.cognition	1												
+VB-suck	1	1	b-verb.cognition	1												
+VBD-learned	1	1	b-verb.cognition	1												
+VBZ-reads	1	1	b-verb.cognition	1												
+VERB-unconcerned	1	1	b-verb.cognition	1												
+VBG-exploring	1	1	b-verb.cognition	1												
+VBN-impressed	1	1	b-verb.cognition	1												
+VBD-messed	1	1	b-verb.cognition	1												
+VB-trust	1	1	b-verb.cognition	1												
+VBP-remind	1	1	b-verb.cognition	1												
+VBD-reminded	1	1	b-verb.cognition	1												
+VBN-discovered	1	1	b-verb.cognition	1												
+VBG-studying/doing	1	1	b-verb.cognition	1												
+VERB-read	1	1	b-verb.cognition	1												
+VB-review	1	1	b-verb.cognition	1												
+VBG-catching	1	1	b-verb.cognition	1												
+VERB-forget	1	1	b-verb.cognition	1												
+VBP-iguess	1	1	b-verb.cognition	1												
+VBD-remembered	1	1	b-verb.cognition	1												
+VBP-wonder	1	1	b-verb.cognition	1												
+VBD-knew	1	1	b-verb.cognition	1												
+VBP-believe	1	1	b-verb.cognition	1												
+VBN-aimed	1	1	b-verb.cognition	1												
+NNS-punts	1	1	b-verb.cognition	1												
+VBG-studying	1	1	b-verb.cognition	1												
+VBD-realized	1	1	b-verb.cognition	1												
+VB-judge	1	1	b-verb.cognition	1												
+VB-count	1	1	b-verb.cognition	1												
+VBN-overrated	1	1	b-verb.cognition	1												
+VBG-3dreaming	1	1	b-verb.cognition	1												
+VBP-dont know	1	1	b-verb.cognition	1												
+VERB-choosing	1	1	b-verb.cognition	1												
+VBN-realised	1	1	b-verb.cognition	1												
+VBG-knowing	1	1	b-verb.cognition	1												
+VBN-known	1	1	b-verb.cognition	1												
+VB-learn	1	1	b-verb.cognition	1												
+VBP-thinkk	1	1	b-verb.cognition	1												
+VBP-find	1	1	b-verb.cognition	1												
+VB-read	1	1	b-verb.cognition	1												
+VB-feel	1	1	b-verb.cognition	1												
+VBD-intended)	1	1	b-verb.cognition	1												
+VBG-considering	1	1	b-verb.cognition	1												
+VBP-mean	1	1	b-verb.cognition	1												
+VERB-understand	1	1	b-verb.cognition	1												
+VBP-leave	1	1	b-verb.cognition	1												
+VBP-realize	1	1	b-verb.cognition	1												
+VBZ-plans	1	1	b-verb.cognition	1												
+VBG-killing	1	1	b-verb.cognition	1												
+VBN-identified	1	1	b-verb.cognition	1												
+VERB-like	1	1	b-verb.cognition	1												
+VBZ-reminds	1	1	b-verb.cognition	1												
+VB-understand	1	1	b-verb.cognition	1												
+VBD-read	1	1	b-verb.cognition	1												
+NOUN-scapegoating	1	1	b-verb.cognition	1												
+VBG-reviewing	1	1	b-verb.cognition	1												
+VBP-thinks	1	1	b-verb.cognition	1												
+VERB-kno	1	1	b-verb.cognition	1												
+VERB-feels	1	1	b-verb.cognition	1												
+VBG-leading	1	1	b-verb.change	1												
+VERB-drops	1	1	b-verb.change	1												
+VERB-fill	1	1	b-verb.change	1												
+VBG-removing	1	1	b-verb.change	1												
+VBD-broke	1	1	b-verb.change	1												
+VB-welcome	1	1	b-verb.change	1												
+VBD-increased	1	1	b-verb.change	1												
+VBZ-starts	1	1	b-verb.change	1												
+VERB-kills	1	1	b-verb.change	1												
+VBZ-changes	1	1	b-verb.change	1												
+VBG-breaking	1	1	b-verb.change	1												
+VBZ-blows	1	1	b-verb.change	1												
+VERB-coming	1	1	b-verb.change	1												
+VB-upgrade	1	1	b-verb.change	1												
+VBZ-extends	1	1	b-verb.change	1												
+VERB-adapt	1	1	b-verb.change	1												
+VBG-mixing	1	1	b-verb.change	1												
+VBG-tidyin	1	1	b-verb.change	1												
+VBD-began	1	1	b-verb.change	1												
+VERB-boil	1	1	b-verb.change	1												
+VERB-change	1	1	b-verb.change	1												
+VBN-cleared	1	1	b-verb.change	1												
+VB-fill	1	1	b-verb.change	1												
+VERB-ended	1	1	b-verb.change	1												
+VERB-integrate	1	1	b-verb.change	1												
+VBZ-decline	1	1	b-verb.change	1												
+VERB-operate	1	1	b-verb.change	1												
+VERB-defund	1	1	b-verb.change	1												
+VERB-dwindle	1	1	b-verb.change	1												
+VBG-dying	1	1	b-verb.change	1												
+VB-slow	1	1	b-verb.change	1												
+VBN-removed	1	1	b-verb.change	1												
+VBN-fixed	1	1	b-verb.change	1												
+VERB-embark	1	1	b-verb.change	1												
+VERB-grow	1	1	b-verb.change	1												
+VERB-gets	1	1	b-verb.change	1												
+VBD-finished	1	1	b-verb.change	1												
+VBD-froze	1	1	b-verb.change	1												
+VBN-started	1	1	b-verb.change	1												
+VERB-switch	1	1	b-verb.change	1												
+VB-reduce	1	1	b-verb.change	1												
+VBD-changed	1	1	b-verb.change	1												
+VBG-fixing	1	1	b-verb.change	1												
+VB-sync	1	1	b-verb.change	1												
+VBN-changed	1	1	b-verb.change	1												
+VERB-increased	1	1	b-verb.change	1												
+VBN-reached	1	1	b-verb.change	1												
+VB-grow	1	1	b-verb.change	1												
+VBG-startin	1	1	b-verb.change	1												
+VBG-cooling	1	1	b-verb.change	1												
+VB-step	1	1	b-verb.change	1												
+VBN-mixed	1	1	b-verb.change	1												
+VBN-filled	1	1	b-verb.change	1												
+VBD-fucked	1	1	b-verb.change	1												
+VERB-screw	1	1	b-verb.change	1												
+VBG-lettin	1	1	b-verb.change	1												
+VERB-opening	1	1	b-verb.change	1												
+VBD-opened	1	1	b-verb.change	1												
+VBP-crank	1	1	b-verb.change	1												
+VERB-changes	1	1	b-verb.change	1												
+VBG-releasing	1	1	b-verb.change	1												
+VBD-murdered	1	1	b-verb.change	1												
+VB-add	1	1	b-verb.change	1												
+VB-relax	1	1	b-verb.change	1												
+VB-turn	1	1	b-verb.change	1												
+VB-change	1	1	b-verb.change	1												
+VB-put	1	1	b-verb.body	1												
+VB-dress	1	1	b-verb.body	1												
+VBD-laughed	1	1	b-verb.body	1												
+VERB-wear	1	1	b-verb.body	1												
+VBP-wear	1	1	b-verb.body	1												
+VBG-donning	1	1	b-verb.body	1												
+VBP-smile	1	1	b-verb.body	1												
+VBG-relaxin	1	1	b-verb.body	1												
+VBG-maxin	1	1	b-verb.body	1												
+VERB-delivered	1	1	b-verb.body	1												
+NN-cryin	1	1	b-verb.body	1												
+VBP-break	1	1	b-verb.body	1												
+VERB-recovering	1	1	b-verb.body	1												
+VBD-wimped	1	1	b-verb.body	1												
+VBP-spit	1	1	b-verb.body	1												
+VERB-sleep	1	1	b-verb.body	1												
+VBD-belched	1	1	b-verb.body	1												
+VBD-showered	1	1	b-verb.body	1												
+VBD-woke	1	1	b-verb.body	1												
+VBG-resting	1	1	b-verb.body	1												
+VB-chill	1	1	b-verb.body	1												
+NN-follow friday	1	1	b-noun.time	1												
+NN-tomarrow	1	1	b-noun.time	1												
+NN-black friday	1	1	b-noun.time	1												
+NN-today~	1	1	b-noun.time	1												
+NNP-wednesday	1	1	b-noun.time	1												
+NOUN-september	1	1	b-noun.time	1												
+NN-mission Friday	1	1	b-noun.time	1												
+NNP-august	1	1	b-noun.time	1												
+NN-tod	1	1	b-noun.time	1												
+NN-summer	1	1	b-noun.time	1												
+RB-tonight	1	1	b-noun.time	1												
+NOUN-season	1	1	b-noun.time	1												
+NN-sunday	1	1	b-noun.time	1												
+NNP-tue	1	1	b-noun.time	1												
+NNS-calendars	1	1	b-noun.time	1												
+NNP-march	1	1	b-noun.time	1												
+NNP-christmas	1	1	b-noun.time	1												
+NNP-nzst)	1	1	b-noun.time	1												
+NN-daytime	1	1	b-noun.time	1												
+NOUN-sep NUMBER	1	1	b-noun.time	1												
+NNP-livestrong Day	1	1	b-noun.time	1												
+NN-2morrow	1	1	b-noun.time	1												
+NNP-friday Night	1	1	b-noun.time	1												
+NN-tomorrow morning	1	1	b-noun.time	1												
+NOUN-tonight	1	1	b-noun.time	1												
+NOUN-dec NUMBER	1	1	b-noun.time	1												
+NNP-new MUZIK MONDAY	1	1	b-noun.time	1												
+NN-p.m.	1	1	b-noun.time	1												
+NNP-pst	1	1	b-noun.time	1												
+NNS-yrs	1	1	b-noun.time	1												
+HT-#timetogetout	1	1	b-noun.time	1												
+NN-birfday	1	1	b-noun.time	1												
+NUM-number Aug NUMBER	1	1	b-noun.time	1												
+NOUN-years	1	1	b-noun.time	1												
+NN-mid-december	1	1	b-noun.time	1												
+NOUN-tuesday	1	1	b-noun.time	1												
+NNP-eclipse advent calendar	1	1	b-noun.time	1												
+NOUN-months	1	1	b-noun.time	1												
+NN-hair day	1	1	b-noun.time	1												
+NNP-national Taco Day	1	1	b-noun.time	1												
+NNP-sun morn	1	1	b-noun.time	1												
+NNP-breast Cancer Awareness month	1	1	b-noun.time	1												
+NNS-birthdays	1	1	b-noun.time	1												
+NN-past	1	1	b-noun.time	1												
+NNP-new Brew Thursday	1	1	b-noun.time	1												
+NN-evertime/day	1	1	b-noun.time	1												
+NNP-tuesday dollar oyster night	1	1	b-noun.time	1												
+NOUN-time	1	1	b-noun.time	1												
+NOUN-all-time	1	1	b-noun.time	1												
+NN-2night	1	1	b-noun.time	1												
+NN-gym time	1	1	b-noun.time	1												
+NOUN-childhood	1	1	b-noun.time	1												
+NNP-june	1	1	b-noun.time	1												
+NN-tomorrow night	1	1	b-noun.time	1												
+NN-b Day	1	1	b-noun.time	1												
+NN-deadline	1	1	b-noun.time	1												
+NOUN-wednesday NUMBER	1	1	b-noun.time	1												
+RB-today	1	1	b-noun.time	1												
+NN-mobile era	1	1	b-noun.time	1												
+NNP-friday night	1	1	b-noun.time	1												
+NOUN-playtime	1	1	b-noun.time	1												
+NOUN-work week	1	1	b-noun.time	1												
+NNP-wed	1	1	b-noun.time	1												
+NN-friday	1	1	b-noun.time	1												
+NN-coupla days	1	1	b-noun.time	1												
+NN-1day	1	1	b-noun.time	1												
+NNP-love Your Library Month	1	1	b-noun.time	1												
+NOUN-seconds	1	1	b-noun.time	1												
+NNP-sunday night	1	1	b-noun.time	1												
+NNP-constitution Day	1	1	b-noun.time	1												
+NNP-pisces/aries DAY	1	1	b-noun.time	1												
+NOUN-wednesday Sep-25-2013 NUMBER PDT	1	1	b-noun.time	1												
+NN-nyt	1	1	b-noun.time	1												
+NUM-number End Date	1	1	b-noun.time	1												
+NNP-friday nyt	1	1	b-noun.time	1												
+NNP-poetry Sunday	1	1	b-noun.time	1												
+NN-tomorrow noon	1	1	b-noun.time	1												
+NN-vegetarian Day	1	1	b-noun.time	1												
+NN-bday	1	1	b-noun.time	1												
+NNP-friday afternoon	1	1	b-noun.time	1												
+NOUN-thursday	1	1	b-noun.time	1												
+NOUN-christmas Day	1	1	b-noun.time	1												
+NOUN-thanksgiving	1	1	b-noun.time	1												
+NN-week end	1	1	b-noun.time	1												
+NNP-butterfly SATURDAYS	1	1	b-noun.time	1												
+NOUN-monday morning	1	1	b-noun.time	1												
+NOUN-wednesday Sep-25-2013	1	1	b-noun.time	1												
+NN-nigh	1	1	b-noun.time	1												
+NNP-taco| P-Dogs Cruise Night	1	1	b-noun.time	1												
+NN-delay	1	1	b-noun.time	1												
+NN-order	1	1	b-noun.time	1												
+NNP-valentines Day	1	1	b-noun.time	1												
+NN-t-minus	1	1	b-noun.time	1												
+NN-improv comedy night	1	1	b-noun.time	1												
+NN-spring	1	1	b-noun.time	1												
+NNP-fire Prevention Week	1	1	b-noun.time	1												
+NOUN-tomorrow	1	1	b-noun.time	1												
+NNS-mintues	1	1	b-noun.time	1												
+NN-month anniversary	1	1	b-noun.time	1												
+NNP-wednesday NITES	1	1	b-noun.time	1												
+NN-t'day	1	1	b-noun.time	1												
+NNP-saturday morning	1	1	b-noun.time	1												
+NN-opening day	1	1	b-noun.time	1												
+NN-wait	1	1	b-noun.time	1												
+NN-school today	1	1	b-noun.time	1												
+NN-nite	1	1	b-noun.time	1												
+NN-fall	1	1	b-noun.time	1												
+NN-snow day	1	1	b-noun.time	1												
+NN-air	1	1	b-noun.substance	1												
+NOUN-#water	1	1	b-noun.substance	1												
+NN-snow	1	1	b-noun.substance	1												
+NN-vitamin	1	1	b-noun.substance	1												
+NN-venom	1	1	b-noun.substance	1												
+NN-ice	1	1	b-noun.substance	1												
+NN-waste	1	1	b-noun.substance	1												
+NOUN-protein	1	1	b-noun.substance	1												
+VB-fail	1	1	b-noun.state	1												
+NOUN-security	1	1	b-noun.state	1												
+NOUN-luck	1	1	b-noun.state	1												
+NNS-possibilities	1	1	b-noun.state	1												
+NN-cold	1	1	b-noun.state	1												
+NNP-atmosphere	1	1	b-noun.state	1												
+NOUN-estate agency insolvencies	1	1	b-noun.state	1												
+NOUN-safety	1	1	b-noun.state	1												
+NNS-somethings	1	1	b-noun.state	1												
+NNP-adhd	1	1	b-noun.state	1												
+NOUN-chaos	1	1	b-noun.state	1												
+NOUN-lack	1	1	b-noun.state	1												
+NOUN-disease	1	1	b-noun.state	1												
+NOUN-cancer	1	1	b-noun.state	1												
+NNS-stages	1	1	b-noun.state	1												
+NOUN-rain chances	1	1	b-noun.state	1												
+NN-injury	1	1	b-noun.state	1												
+NN-romance	1	1	b-noun.state	1												
+NN-peace	1	1	b-noun.state	1												
+NOUN-lyme disease	1	1	b-noun.state	1												
+NOUN-climate	1	1	b-noun.state	1												
+NOUN-bankruptcy	1	1	b-noun.state	1												
+NOUN-aurora Soul Sessions Showcase	1	1	b-noun.state	1												
+NN-problem	1	1	b-noun.state	1												
+NOUN-adhd	1	1	b-noun.state	1												
+NN-bruise	1	1	b-noun.state	1												
+NN-okay	1	1	b-noun.state	1												
+NN-living	1	1	b-noun.state	1												
+NN-halt	1	1	b-noun.state	1												
+NN-inclusion	1	1	b-noun.state	1												
+NN-daily downer	1	1	b-noun.state	1												
+NN-crappyness	1	1	b-noun.state	1												
+NOUN-life	1	1	b-noun.state	1												
+NN-funk	1	1	b-noun.state	1												
+NN-sta	1	1	b-noun.state	1												
+NN-public Health Disasters	1	1	b-noun.state	1												
+NOUN-climate models	1	1	b-noun.state	1												
+NNP-liberty	1	1	b-noun.state	1												
+NOUN-constraints	1	1	b-noun.state	1												
+NOUN-chance	1	1	b-noun.state	1												
+NNP-ball	1	1	b-noun.shape	1												
+NOUN-pyramid	1	1	b-noun.shape	1												
+NN-portion	1	1	b-noun.relation	1												
+NN-trouble	1	1	b-noun.relation	1												
+NN-attitude	1	1	b-noun.relation	1												
+NN-version	1	1	b-noun.relation	1												
+NOUN-differences	1	1	b-noun.relation	1												
+NOUN-brotherhood's	1	1	b-noun.relation	1												
+NN-relationship	1	1	b-noun.relation	1												
+NOUN-partnership	1	1	b-noun.relation	1												
+NN-promotion	1	1	b-noun.relation	1												
+NN-customer	1	1	b-noun.relation	1												
+NN-intrest	1	1	b-noun.relation	1												
+NN-track	1	1	b-noun.relation	1												
+NOUN-accountant	1	1	b-noun.relation	1												
+NN-service	1	1	b-noun.relation	1												
+NOUN-nothing	1	1	b-noun.quantity	1												
+NNS-degrees	1	1	b-noun.quantity	1												
+NN-5x	1	1	b-noun.quantity	1												
+NUM-4	1	1	b-noun.quantity	1												
+NUM-million	1	1	b-noun.quantity	1												
+NN-low	1	1	b-noun.quantity	1												
+NN-reduced	1	1	b-noun.quantity	1												
+NNS-lbs	1	1	b-noun.quantity	1												
+NN-yen	1	1	b-noun.quantity	1												
+NNP-yellow	1	1	b-noun.quantity	1												
+NUM-number MILLION	1	1	b-noun.quantity	1												
+NN-sumthing	1	1	b-noun.quantity	1												
+NUM-number followers	1	1	b-noun.quantity	1												
+NN-quantity	1	1	b-noun.quantity	1												
+NNS-tons	1	1	b-noun.quantity	1												
+NUM-two	1	1	b-noun.quantity	1												
+NNS-thousands	1	1	b-noun.quantity	1												
+NN-km	1	1	b-noun.quantity	1												
+NN-dozen	1	1	b-noun.quantity	1												
+NNS-scores	1	1	b-noun.quantity	1												
+NN-download limit	1	1	b-noun.quantity	1												
+NUM-thirty	1	1	b-noun.quantity	1												
+NN-15%	1	1	b-noun.quantity	1												
+NOUN-mile	1	1	b-noun.quantity	1												
+NNS-many	1	1	b-noun.quantity	1												
+NN-dose	1	1	b-noun.quantity	1												
+NOUN-one	1	1	b-noun.quantity	1												
+NN-mg	1	1	b-noun.quantity	1												
+NOUN-birth	1	1	b-noun.process	1												
+NN-birth	1	1	b-noun.process	1												
+NN-development	1	1	b-noun.process	1												
+NNP-friday news dump	1	1	b-noun.process	1												
+NNS-meltdowns	1	1	b-noun.process	1												
+NOUN-donations	1	1	b-noun.possession	1												
+NNP-california Home Sales	1	1	b-noun.possession	1												
+NNS-$7	1	1	b-noun.possession	1												
+NNS-rates	1	1	b-noun.possession	1												
+NOUN-millions Jackpot	1	1	b-noun.possession	1												
+NN-mortgage	1	1	b-noun.possession	1												
+NNS-resources	1	1	b-noun.possession	1												
+NNS-proceeds	1	1	b-noun.possession	1												
+NNP-big 12 Rookie	1	1	b-noun.possession	1												
+NN-bday money	1	1	b-noun.possession	1												
+NN-interest rates	1	1	b-noun.possession	1												
+NNS-benefits	1	1	b-noun.possession	1												
+NOUN-award	1	1	b-noun.possession	1												
+NN-real estate	1	1	b-noun.possession	1												
+NN-bill	1	1	b-noun.possession	1												
+NOUN-money	1	1	b-noun.possession	1												
+NOUN-cash	1	1	b-noun.possession	1												
+NNP-forbidden Fruit	1	1	b-noun.plant	1												
+NN-tree	1	1	b-noun.plant	1												
+NN-lightening	1	1	b-noun.phenomenon	1												
+NNP-autumn	1	1	b-noun.phenomenon	1												
+NNP-florida heat	1	1	b-noun.phenomenon	1												
+NNP-force	1	1	b-noun.phenomenon	1												
+NN-power	1	1	b-noun.phenomenon	1												
+NOUN-wake	1	1	b-noun.phenomenon	1												
+NNS-temperatures	1	1	b-noun.phenomenon	1												
+NN-luck	1	1	b-noun.phenomenon	1												
+NN-haze	1	1	b-noun.phenomenon	1												
+NN-thunder	1	1	b-noun.phenomenon	1												
+NNP-reflection Nebula	1	1	b-noun.phenomenon	1												
+NN-weather	1	1	b-noun.phenomenon	1												
+NNP-karam	1	1	b-noun.phenomenon	1												
+NN-storm	1	1	b-noun.phenomenon	1												
+NOUN-temazo	1	1	b-noun.person	1												
+NNP-alli	1	1	b-noun.person	1												
+NNP-gaga	1	1	b-noun.person	1												
+NNP-keppinger	1	1	b-noun.person	1												
+NNP-elliot Miner	1	1	b-noun.person	1												
+NNP-me..parlae	1	1	b-noun.person	1												
+NOUN-inspectors	1	1	b-noun.person	1												
+NNP-chukchansi	1	1	b-noun.person	1												
+NOUN-kraigg Brathwaite	1	1	b-noun.person	1												
+NOUN-missy Elliott	1	1	b-noun.person	1												
+NN-fan	1	1	b-noun.person	1												
+NNS-clowns	1	1	b-noun.person	1												
+NNS-empls	1	1	b-noun.person	1												
+NN-teen who	1	1	b-noun.person	1												
+NOUN-boys	1	1	b-noun.person	1												
+NN-college Student	1	1	b-noun.person	1												
+NOUN-runners	1	1	b-noun.person	1												
+NNP-amir	1	1	b-noun.person	1												
+NNP-bianca	1	1	b-noun.person	1												
+NNP-fabi	1	1	b-noun.person	1												
+NOUN-#hnic #HNIC Rodgers	1	1	b-noun.person	1												
+NNP-ash	1	1	b-noun.person	1												
+NNP-nicki MINAJ	1	1	b-noun.person	1												
+NOUN-cosmo Baker	1	1	b-noun.person	1												
+NOUN-howard	1	1	b-noun.person	1												
+NNP-cj	1	1	b-noun.person	1												
+NOUN-mr. Perfect	1	1	b-noun.person	1												
+NNP-wingo	1	1	b-noun.person	1												
+NNP-hien	1	1	b-noun.person	1												
+NNS-monsters	1	1	b-noun.person	1												
+NNP-bono Mack	1	1	b-noun.person	1												
+NOUN-bret Hart	1	1	b-noun.person	1												
+NOUN-valon Behrami	1	1	b-noun.person	1												
+NN-dork	1	1	b-noun.person	1												
+NNP-pouliot	1	1	b-noun.person	1												
+NOUN-girl	1	1	b-noun.person	1												
+NOUN-#karlie #Kloss	1	1	b-noun.person	1												
+NN-reporter	1	1	b-noun.person	1												
+NNS-ninjas	1	1	b-noun.person	1												
+NN-offensive player	1	1	b-noun.person	1												
+NN-husband	1	1	b-noun.person	1												
+NNP-eduardo Surita	1	1	b-noun.person	1												
+NNP-kay	1	1	b-noun.person	1												
+NNP-downs	1	1	b-noun.person	1												
+NOUN-benjamin Sir	1	1	b-noun.person	1												
+NOUN-ceo	1	1	b-noun.person	1												
+NN-judge	1	1	b-noun.person	1												
+NNP-friggg	1	1	b-noun.person	1												
+NN-surgeon	1	1	b-noun.person	1												
+NOUN-loudoun Firefighters	1	1	b-noun.person	1												
+NNP-justin	1	1	b-noun.person	1												
+NNS-fellas	1	1	b-noun.person	1												
+NNS-coasters	1	1	b-noun.person	1												
+NOUN-philip Pullman	1	1	b-noun.person	1												
+NNP-josh	1	1	b-noun.person	1												
+NOUN-joey Bada$$	1	1	b-noun.person	1												
+NNP-princess Lover OVA	1	1	b-noun.person	1												
+NNP-doug	1	1	b-noun.person	1												
+NNP-indian Prime Minister	1	1	b-noun.person	1												
+NNP-st	1	1	b-noun.person	1												
+NNP-sam	1	1	b-noun.person	1												
+NNP-anna	1	1	b-noun.person	1												
+NOUN-correspondents	1	1	b-noun.person	1												
+NNS-cuhzans	1	1	b-noun.person	1												
+NOUN-avicii	1	1	b-noun.person	1												
+NOUN-kiessling	1	1	b-noun.person	1												
+NNP-memphis man	1	1	b-noun.person	1												
+NNP-rhea	1	1	b-noun.person	1												
+NN-ones	1	1	b-noun.person	1												
+HT-#teamkatstacksbitch	1	1	b-noun.person	1												
+NNP-joe	1	1	b-noun.person	1												
+NN-boss	1	1	b-noun.person	1												
+NNP-f__and__e	1	1	b-noun.person	1												
+NNP-unc	1	1	b-noun.person	1												
+NNS-complainers	1	1	b-noun.person	1												
+NOUN-brodus Clay	1	1	b-noun.person	1												
+NNS-owners	1	1	b-noun.person	1												
+NN-friends	1	1	b-noun.person	1												
+NOUN-#adult	1	1	b-noun.person	1												
+NNP-rp	1	1	b-noun.person	1												
+NN-bitch boy	1	1	b-noun.person	1												
+HT-#meteopau	1	1	b-noun.person	1												
+NN-doc	1	1	b-noun.person	1												
+NNP-paul Levit'z	1	1	b-noun.person	1												
+NN-human being	1	1	b-noun.person	1												
+NOUN-swizzbeatz	1	1	b-noun.person	1												
+NOUN-hague	1	1	b-noun.person	1												
+NNS-gals	1	1	b-noun.person	1												
+NOUN-ceos	1	1	b-noun.person	1												
+NOUN-love interests	1	1	b-noun.person	1												
+NNP-rep	1	1	b-noun.person	1												
+NN-eachother	1	1	b-noun.person	1												
+NNP-belieber	1	1	b-noun.person	1												
+NOUN-k-dawg	1	1	b-noun.person	1												
+HT-#askev	1	1	b-noun.person	1												
+NNP-darrell Williams	1	1	b-noun.person	1												
+NOUN-bitch	1	1	b-noun.person	1												
+NNP-top Followers/Fans	1	1	b-noun.person	1												
+NN-barefoot Student)	1	1	b-noun.person	1												
+NNS-boys	1	1	b-noun.person	1												
+NNP-goddddd	1	1	b-noun.person	1												
+NNS-parents	1	1	b-noun.person	1												
+NOUN-#hnic #HNIC Xavi	1	1	b-noun.person	1												
+NNP-double Diaomond	1	1	b-noun.person	1												
+NN-loser	1	1	b-noun.person	1												
+NN-brother	1	1	b-noun.person	1												
+NNP-nick Jonas	1	1	b-noun.person	1												
+NN-child minder who	1	1	b-noun.person	1												
+NOUN-wim denijs	1	1	b-noun.person	1												
+NN-bro	1	1	b-noun.person	1												
+NN-lawyer	1	1	b-noun.person	1												
+NOUN-efa	1	1	b-noun.person	1												
+NOUN-femi Kuti	1	1	b-noun.person	1												
+NOUN-alessandra Kamaile	1	1	b-noun.person	1												
+NOUN-aliciapomares	1	1	b-noun.person	1												
+NNP-sarah	1	1	b-noun.person	1												
+NN-sis	1	1	b-noun.person	1												
+NNS-women	1	1	b-noun.person	1												
+NNP-lexis	1	1	b-noun.person	1												
+NN-brat	1	1	b-noun.person	1												
+NNP-belanger	1	1	b-noun.person	1												
+NNP-pope Benedict	1	1	b-noun.person	1												
+NOUN-george	1	1	b-noun.person	1												
+NNP-brittany	1	1	b-noun.person	1												
+NOUN-sunmobi	1	1	b-noun.person	1												
+NNP-emily rodriguez	1	1	b-noun.person	1												
+NN-mommy	1	1	b-noun.person	1												
+NOUN-charlie Rose	1	1	b-noun.person	1												
+NNP-icarly	1	1	b-noun.person	1												
+NN-neice	1	1	b-noun.person	1												
+NOUN-liz W	1	1	b-noun.person	1												
+NOUN-nsa agents	1	1	b-noun.person	1												
+NNP-giles Deacon	1	1	b-noun.person	1												
+VB-fan-girl	1	1	b-noun.person	1												
+NN-guest	1	1	b-noun.person	1												
+NOUN-tr Cutler	1	1	b-noun.person	1												
+NN-book blogger	1	1	b-noun.person	1												
+NN-ppl	1	1	b-noun.person	1												
+NN-*puss	1	1	b-noun.person	1												
+NOUN-slovakia international	1	1	b-noun.person	1												
+NNP-ca	1	1	b-noun.person	1												
+NOUN-jam Master Jay's	1	1	b-noun.person	1												
+NNP-jackie	1	1	b-noun.person	1												
+NOUN-tomic's dad	1	1	b-noun.person	1												
+NNP-jpn	1	1	b-noun.person	1												
+NNS-noobs	1	1	b-noun.person	1												
+NN-chick	1	1	b-noun.person	1												
+NN-trailer	1	1	b-noun.person	1												
+NNP-onew	1	1	b-noun.person	1												
+NNP-stephen	1	1	b-noun.person	1												
+NOUN-apple Insider	1	1	b-noun.person	1												
+NOUN-saban's	1	1	b-noun.person	1												
+NNP-ray rice	1	1	b-noun.person	1												
+NOUN-g-dragon	1	1	b-noun.person	1												
+NOUN-john Wooden	1	1	b-noun.person	1												
+NNP-ben	1	1	b-noun.person	1												
+NNP-colt Brennan	1	1	b-noun.person	1												
+NOUN-housemates	1	1	b-noun.person	1												
+NOUN-baines	1	1	b-noun.person	1												
+NNP-salsa caliente	1	1	b-noun.person	1												
+NN-everybody	1	1	b-noun.person	1												
+NNP-kc	1	1	b-noun.person	1												
+NNP-lil Ronnie	1	1	b-noun.person	1												
+NNP-trisha	1	1	b-noun.person	1												
+NNP-majestic	1	1	b-noun.person	1												
+NOUN-miguel	1	1	b-noun.person	1												
+NNP-tanya	1	1	b-noun.person	1												
+NNP-jeff	1	1	b-noun.person	1												
+NOUN-fishermen	1	1	b-noun.person	1												
+NOUN-leaders	1	1	b-noun.person	1												
+NNP-mark MEISMER	1	1	b-noun.person	1												
+NNP-jim Rohn	1	1	b-noun.person	1												
+NOUN-jill Konrath	1	1	b-noun.person	1												
+NOUN-seth Godin	1	1	b-noun.person	1												
+NNP-benitez	1	1	b-noun.person	1												
+NOUN-cory	1	1	b-noun.person	1												
+NOUN-lea	1	1	b-noun.person	1												
+NNP-jobs	1	1	b-noun.person	1												
+NOUN-coaches	1	1	b-noun.person	1												
+NN-nigga	1	1	b-noun.person	1												
+NN-preacher	1	1	b-noun.person	1												
+NN-inshallah	1	1	b-noun.person	1												
+NNS-tweeps	1	1	b-noun.person	1												
+NOUN-ted Cruz	1	1	b-noun.person	1												
+NOUN-fellaini	1	1	b-noun.person	1												
+NNP-murkowski	1	1	b-noun.person	1												
+NOUN-customers	1	1	b-noun.person	1												
+NN-som1	1	1	b-noun.person	1												
+NOUN-hamsik	1	1	b-noun.person	1												
+NNP-simone	1	1	b-noun.person	1												
+NNP-friday barbiez	1	1	b-noun.person	1												
+NNS-drivers	1	1	b-noun.person	1												
+NNP-snoop	1	1	b-noun.person	1												
+NN-somebodys	1	1	b-noun.person	1												
+NNP-london Ladies	1	1	b-noun.person	1												
+NNP-ayman Mohyeldin	1	1	b-noun.person	1												
+VBN-jj	1	1	b-noun.person	1												
+NNP-leah Mason	1	1	b-noun.person	1												
+NN-grandma	1	1	b-noun.person	1												
+NOUN-messi	1	1	b-noun.person	1												
+NNS-others	1	1	b-noun.person	1												
+NNP-deborah L	1	1	b-noun.person	1												
+NNP-mariel Concepcion	1	1	b-noun.person	1												
+NNP-kenneth Cole	1	1	b-noun.person	1												
+NOUN-celebritites	1	1	b-noun.person	1												
+NNP-andy Kaufman	1	1	b-noun.person	1												
+NOUN-hearts fan	1	1	b-noun.person	1												
+HT-#zodiacfacts	1	1	b-noun.person	1												
+NNP-sid	1	1	b-noun.person	1												
+NNP-may	1	1	b-noun.person	1												
+NOUN-bendtner	1	1	b-noun.person	1												
+NOUN-lady Gaga	1	1	b-noun.person	1												
+NNP-christine O'Donnell	1	1	b-noun.person	1												
+NNP-nk Fam	1	1	b-noun.person	1												
+NOUN-karlie Kloss	1	1	b-noun.person	1												
+NOUN-single	1	1	b-noun.person	1												
+NN-partier	1	1	b-noun.person	1												
+NNP-anna Wintor	1	1	b-noun.person	1												
+NNP-jack	1	1	b-noun.person	1												
+NNP-jan Bloom	1	1	b-noun.person	1												
+NN-boyfriend	1	1	b-noun.person	1												
+NOUN-david Guetta	1	1	b-noun.person	1												
+NNP-snooki	1	1	b-noun.person	1												
+NNP-levin	1	1	b-noun.person	1												
+NOUN-george Bernard Shaw	1	1	b-noun.person	1												
+NNP-pagan	1	1	b-noun.person	1												
+NNP-spencer	1	1	b-noun.person	1												
+NNP-candy Coated	1	1	b-noun.person	1												
+NNP-saints R	1	1	b-noun.person	1												
+NOUN-#hokies	1	1	b-noun.person	1												
+NOUN-kids	1	1	b-noun.person	1												
+NNP-matiin lampu	1	1	b-noun.person	1												
+NNP-lady GAGA	1	1	b-noun.person	1												
+NNS-niggas	1	1	b-noun.person	1												
+NN-rock star	1	1	b-noun.person	1												
+NOUN-kevin Wakeford	1	1	b-noun.person	1												
+NNS-amateurs	1	1	b-noun.person	1												
+NOUN-danity Kane's	1	1	b-noun.person	1												
+NNS-masturbators	1	1	b-noun.person	1												
+NN-writer	1	1	b-noun.person	1												
+NNP-fda Commissioner Margaret Hamburg	1	1	b-noun.person	1												
+NNP-~stephen Girard~	1	1	b-noun.person	1												
+NNP-gates	1	1	b-noun.person	1												
+NOUN-susan Comrie	1	1	b-noun.person	1												
+NNS-partners	1	1	b-noun.person	1												
+NNP-flyin pilot	1	1	b-noun.person	1												
+NNP-jopulse	1	1	b-noun.person	1												
+NOUN-manuelgross/management	1	1	b-noun.person	1												
+NOUN-guzan	1	1	b-noun.person	1												
+NNP-chris	1	1	b-noun.person	1												
+HT-#aries	1	1	b-noun.person	1												
+NOUN-#shemales	1	1	b-noun.person	1												
+NOUN-jack	1	1	b-noun.person	1												
+NN-state committe chairman	1	1	b-noun.person	1												
+NN-home buyer	1	1	b-noun.person	1												
+NNP-carly	1	1	b-noun.person	1												
+NNS-friends	1	1	b-noun.person	1												
+NNP-rachelle	1	1	b-noun.person	1												
+NOUN-key Security Locksmiths	1	1	b-noun.person	1												
+NNP-brett Favre	1	1	b-noun.person	1												
+HT-#oneofmyfollowers	1	1	b-noun.person	1												
+NN-player	1	1	b-noun.person	1												
+NOUN-democrat Michelle Diggles	1	1	b-noun.person	1												
+NN-dentist	1	1	b-noun.person	1												
+NN-coach	1	1	b-noun.person	1												
+NN-goonie	1	1	b-noun.person	1												
+NN-cross country runner Matt Brooker	1	1	b-noun.person	1												
+NOUN-pune film students	1	1	b-noun.person	1												
+NN-volleyball player Stephanie Rogers	1	1	b-noun.person	1												
+NOUN-bestoftheworsti	1	1	b-noun.person	1												
+NOUN-rodgers	1	1	b-noun.person	1												
+NNP-broski	1	1	b-noun.person	1												
+NNP-s.f. Rabbis	1	1	b-noun.person	1												
+NNS-homies	1	1	b-noun.person	1												
+NNS-guiseeeee	1	1	b-noun.person	1												
+NNP-dierks Bentley	1	1	b-noun.person	1												
+NOUN-#gurmmeet Singh	1	1	b-noun.person	1												
+NNP-kid Cudi	1	1	b-noun.person	1												
+NNP-scooter Braun	1	1	b-noun.person	1												
+NOUN-fr Jonathan McLaughlin	1	1	b-noun.person	1												
+NNS-cowboys	1	1	b-noun.person	1												
+NN-guest Editor Warren Ellis	1	1	b-noun.person	1												
+NNP-megan	1	1	b-noun.person	1												
+NN-cancer survivor	1	1	b-noun.person	1												
+NNP-vinny	1	1	b-noun.person	1												
+NOUN-aaron Paul's	1	1	b-noun.person	1												
+NNP-wesley Snipes	1	1	b-noun.person	1												
+NN-member	1	1	b-noun.person	1												
+NNP-wood	1	1	b-noun.person	1												
+NNP-marcus Bentley	1	1	b-noun.person	1												
+NOUN-kendrick Lamar	1	1	b-noun.person	1												
+NNP-john Henry Newman	1	1	b-noun.person	1												
+NNS-brothers	1	1	b-noun.person	1												
+NN-individual	1	1	b-noun.person	1												
+NN-desert dweller	1	1	b-noun.person	1												
+NN-somebody	1	1	b-noun.person	1												
+NOUN-itsguirodrigues	1	1	b-noun.person	1												
+NNP-david MARIL	1	1	b-noun.person	1												
+NNP-crazy Steve	1	1	b-noun.person	1												
+NNP-paul McCartney	1	1	b-noun.person	1												
+NNS-beggers	1	1	b-noun.person	1												
+NNP-patricia M	1	1	b-noun.person	1												
+NNP-lil WAYNE	1	1	b-noun.person	1												
+NNS-[haters	1	1	b-noun.person	1												
+NOUN-narendra Modi	1	1	b-noun.person	1												
+NOUN-di Resta	1	1	b-noun.person	1												
+NOUN-#vilsack	1	1	b-noun.person	1												
+NNP-phil	1	1	b-noun.person	1												
+NN-cardiologist	1	1	b-noun.person	1												
+NOUN-christian	1	1	b-noun.person	1												
+NNP-mike McCarthy	1	1	b-noun.person	1												
+NOUN-angra	1	1	b-noun.person	1												
+NN-college students	1	1	b-noun.person	1												
+NN-graduate student	1	1	b-noun.person	1												
+NOUN-shemales	1	1	b-noun.person	1												
+NOUN-barry Sergeant's	1	1	b-noun.person	1												
+NNP-hope Larson	1	1	b-noun.person	1												
+NNP-jacquelin	1	1	b-noun.person	1												
+NNS-bestfriends	1	1	b-noun.person	1												
+NNP-g	1	1	b-noun.person	1												
+NOUN-greg Kadel	1	1	b-noun.person	1												
+NOUN-actor/wwe Superstar	1	1	b-noun.person	1												
+NN-pet Sitter	1	1	b-noun.person	1												
+NNS-daughters	1	1	b-noun.person	1												
+NN-father	1	1	b-noun.person	1												
+NN-wife Cath	1	1	b-noun.person	1												
+NOUN-#amateur	1	1	b-noun.person	1												
+NNP-joaquin Phoenix	1	1	b-noun.person	1												
+NOUN-man	1	1	b-noun.person	1												
+NN-p-i-m-p	1	1	b-noun.person	1												
+NOUN-dilbert	1	1	b-noun.person	1												
+NOUN-accountant/financial controller(ACCA	1	1	b-noun.person	1												
+NNP-amber Le Bon	1	1	b-noun.person	1												
+NNP-barbara Boxer	1	1	b-noun.person	1												
+NOUN-#ceo	1	1	b-noun.person	1												
+NOUN-lenny Bonsignore	1	1	b-noun.person	1												
+NNP-djs	1	1	b-noun.person	1												
+NNP-rocks	1	1	b-noun.person	1												
+NNP-mariaelena	1	1	b-noun.person	1												
+NNP-drama	1	1	b-noun.person	1												
+NNP-clowe	1	1	b-noun.person	1												
+NNS-aquarians	1	1	b-noun.person	1												
+NNS-kidz	1	1	b-noun.person	1												
+NNP-lindsay Lohan	1	1	b-noun.person	1												
+NNP-michael Kraus	1	1	b-noun.person	1												
+NN-winner	1	1	b-noun.person	1												
+NNP-ally Hilfiger	1	1	b-noun.person	1												
+NNP-sweet Transvestite	1	1	b-noun.person	1												
+NNP-j John	1	1	b-noun.person	1												
+NN-director Nigel Cole	1	1	b-noun.person	1												
+NNP-deena	1	1	b-noun.person	1												
+NNP-mike	1	1	b-noun.person	1												
+NNP-dee	1	1	b-noun.person	1												
+NN-dietician	1	1	b-noun.person	1												
+NN-aunt	1	1	b-noun.person	1												
+HT-#monsterlove	1	1	b-noun.person	1												
+NN-girl	1	1	b-noun.person	1												
+NOUN-rlloria	1	1	b-noun.person	1												
+NN-loved one	1	1	b-noun.person	1												
+NNP-cedarville SUBWAY Athetes	1	1	b-noun.person	1												
+NN-ground	1	1	b-noun.object	1												
+NN-diamond	1	1	b-noun.object	1												
+NN-mainland	1	1	b-noun.object	1												
+NN-lake	1	1	b-noun.object	1												
+NOUN-mars	1	1	b-noun.object	1												
+NOUN-ocean	1	1	b-noun.object	1												
+NN-sun	1	1	b-noun.object	1												
+NNS-reasons	1	1	b-noun.motive	1												
+NN-time Home Buyer Incentives	1	1	b-noun.motive	1												
+NN-time home buyer incentives	1	1	b-noun.motive	1												
+NN-wish	1	1	b-noun.motive	1												
+NN-lunchroom	1	1	b-noun.location	1												
+NNP-sw 67th Ave	1	1	b-noun.location	1												
+NNP-st Johns	1	1	b-noun.location	1												
+NNP-paris	1	1	b-noun.location	1												
+NN-source	1	1	b-noun.location	1												
+NOUN-oxford	1	1	b-noun.location	1												
+NNP-cathedral of Learning G24	1	1	b-noun.location	1												
+NN-gump	1	1	b-noun.location	1												
+NOUN-zurich	1	1	b-noun.location	1												
+NNP-christchurch	1	1	b-noun.location	1												
+NOUN-loudoun County winemaker	1	1	b-noun.location	1												
+NNP-nyc	1	1	b-noun.location	1												
+NOUN-ca	1	1	b-noun.location	1												
+NOUN-#brazil	1	1	b-noun.location	1												
+NN-leve	1	1	b-noun.location	1												
+NN-zoo	1	1	b-noun.location	1												
+NNP-alderwood	1	1	b-noun.location	1												
+NOUN-portugal	1	1	b-noun.location	1												
+NNP-dayton NJ	1	1	b-noun.location	1												
+NOUN-michigan	1	1	b-noun.location	1												
+NN-inside	1	1	b-noun.location	1												
+NNP-portland	1	1	b-noun.location	1												
+NNP-roll And Go Quality Kitchen	1	1	b-noun.location	1												
+NNP-louisville	1	1	b-noun.location	1												
+NNP-bpa	1	1	b-noun.location	1												
+NN-heaven	1	1	b-noun.location	1												
+NNP-ashvegas	1	1	b-noun.location	1												
+NN-location	1	1	b-noun.location	1												
+NNP-london	1	1	b-noun.location	1												
+NN-town	1	1	b-noun.location	1												
+NNP-sf	1	1	b-noun.location	1												
+NOUN-singapore	1	1	b-noun.location	1												
+NNP-long Beach	1	1	b-noun.location	1												
+NNP-p-d	1	1	b-noun.location	1												
+NN-sky	1	1	b-noun.location	1												
+NNP-nashville	1	1	b-noun.location	1												
+HT-#eritrea	1	1	b-noun.location	1												
+NN-boardroom	1	1	b-noun.location	1												
+HT-#metropcs	1	1	b-noun.location	1												
+NNP-brighton	1	1	b-noun.location	1												
+NNP-ak	1	1	b-noun.location	1												
+NNP-fishbowl	1	1	b-noun.location	1												
+NNP-famous Daves	1	1	b-noun.location	1												
+NOUN-damascus	1	1	b-noun.location	1												
+NNP-manchester	1	1	b-noun.location	1												
+NNP-europe	1	1	b-noun.location	1												
+NNP-columbus	1	1	b-noun.location	1												
+NNP-onfb	1	1	b-noun.location	1												
+NN-psych ward	1	1	b-noun.location	1												
+NN-front	1	1	b-noun.location	1												
+NNP-oklahoma State	1	1	b-noun.location	1												
+NNP-mellow Mushroom	1	1	b-noun.location	1												
+NNP-camarillo shelter	1	1	b-noun.location	1												
+NOUN-theme parks	1	1	b-noun.location	1												
+NNP-kyoto	1	1	b-noun.location	1												
+NNP-shreveport	1	1	b-noun.location	1												
+NOUN-creamfields	1	1	b-noun.location	1												
+NNP-ga	1	1	b-noun.location	1												
+NN-archery range	1	1	b-noun.location	1												
+NOUN-oz	1	1	b-noun.location	1												
+NN-site	1	1	b-noun.location	1												
+NNP-cinemark	1	1	b-noun.location	1												
+NNP-equinox	1	1	b-noun.location	1												
+NNP-berkeley	1	1	b-noun.location	1												
+NNS-forests	1	1	b-noun.location	1												
+HT-#fancyflow	1	1	b-noun.location	1												
+NNP-norfolk Mall Swiss Chalet	1	1	b-noun.location	1												
+NN-hair salon	1	1	b-noun.location	1												
+NN-section	1	1	b-noun.location	1												
+HT-#ryerson	1	1	b-noun.location	1												
+NNS-hospital	1	1	b-noun.location	1												
+NNP-east Africa	1	1	b-noun.location	1												
+NNP-winn-dixie	1	1	b-noun.location	1												
+NOUN-switzerland	1	1	b-noun.location	1												
+NNP-1st AVE	1	1	b-noun.location	1												
+NNP-lucilles	1	1	b-noun.location	1												
+NN-field	1	1	b-noun.location	1												
+NNP-the Standard	1	1	b-noun.location	1												
+NNP-montclair	1	1	b-noun.location	1												
+NN-region	1	1	b-noun.location	1												
+NOUN-mt	1	1	b-noun.location	1												
+NOUN-port	1	1	b-noun.location	1												
+NNP-ky	1	1	b-noun.location	1												
+NNP-israel	1	1	b-noun.location	1												
+NOUN-malaga	1	1	b-noun.location	1												
+HT-#mainbuilding ROOM	1	1	b-noun.location	1												
+NN-hotel room	1	1	b-noun.location	1												
+NNP-dc	1	1	b-noun.location	1												
+NNP-wrawby	1	1	b-noun.location	1												
+NN-frat house Hattiesburg	1	1	b-noun.location	1												
+NNP-barbados	1	1	b-noun.location	1												
+NNP-costa Lounge	1	1	b-noun.location	1												
+NNP-st Louis	1	1	b-noun.location	1												
+NNP-uk	1	1	b-noun.location	1												
+NN-twitter	1	1	b-noun.location	1												
+NNP-surf Coast	1	1	b-noun.location	1												
+NNP-cpr	1	1	b-noun.location	1												
+NN-country	1	1	b-noun.location	1												
+NOUN-end	1	1	b-noun.location	1												
+NNP-la Fitness	1	1	b-noun.location	1												
+HT-#dallas	1	1	b-noun.location	1												
+NN-lobby	1	1	b-noun.location	1												
+NNP-liquids	1	1	b-noun.location	1												
+NNP-america	1	1	b-noun.location	1												
+NN-living room	1	1	b-noun.location	1												
+NNP-hills	1	1	b-noun.location	1												
+NNP-north Rift	1	1	b-noun.location	1												
+NNP-tahrir Sq	1	1	b-noun.location	1												
+NNP-belles mansion	1	1	b-noun.location	1												
+NNP-green HARTS	1	1	b-noun.location	1												
+HT-#egypt	1	1	b-noun.location	1												
+NN-paradise	1	1	b-noun.location	1												
+NNP-maldives	1	1	b-noun.location	1												
+NOUN-mascotte	1	1	b-noun.location	1												
+NN-street	1	1	b-noun.location	1												
+NOUN-yopungstown	1	1	b-noun.location	1												
+NOUN-billings	1	1	b-noun.location	1												
+NN-studio	1	1	b-noun.location	1												
+NOUN-l.a	1	1	b-noun.location	1												
+NNP-jfk	1	1	b-noun.location	1												
+NNP-lot	1	1	b-noun.location	1												
+NNP-n.j.	1	1	b-noun.location	1												
+NNP-happyzone	1	1	b-noun.location	1												
+NNP-south Gate	1	1	b-noun.location	1												
+NNP-chicago	1	1	b-noun.location	1												
+NNP-asu Step Gallery	1	1	b-noun.location	1												
+NNP-herold square	1	1	b-noun.location	1												
+NOUN-sri Lanka's west coast	1	1	b-noun.location	1												
+NNP-edge	1	1	b-noun.location	1												
+NNP-texas	1	1	b-noun.location	1												
+NNP-wisconsin	1	1	b-noun.location	1												
+NNP-ugly Mug	1	1	b-noun.location	1												
+NNP-kolb	1	1	b-noun.location	1												
+NOUN-mumbai	1	1	b-noun.location	1												
+NNP-alabama	1	1	b-noun.location	1												
+NOUN-cedar Park	1	1	b-noun.location	1												
+NN-housetonight	1	1	b-noun.location	1												
+NNP-marriott	1	1	b-noun.location	1												
+NNP-windsor	1	1	b-noun.location	1												
+NNP-birmingham	1	1	b-noun.location	1												
+NOUN-#damascus	1	1	b-noun.location	1												
+NOUN-#syria	1	1	b-noun.location	1												
+HT-#atlanta	1	1	b-noun.location	1												
+NOUN-atlanta	1	1	b-noun.location	1												
+NNP-decatur	1	1	b-noun.location	1												
+NNP-st Luke	1	1	b-noun.location	1												
+NNP-d	1	1	b-noun.location	1												
+NNP-t	1	1	b-noun.location	1												
+NNP-st Paul	1	1	b-noun.location	1												
+NN-origin	1	1	b-noun.location	1												
+NN-spot	1	1	b-noun.location	1												
+NNP-metropcs	1	1	b-noun.location	1												
+NN-direction	1	1	b-noun.location	1												
+NNP-gainesville	1	1	b-noun.location	1												
+NNS-locations	1	1	b-noun.location	1												
+NNP-8th Ave	1	1	b-noun.location	1												
+NNP-temecula	1	1	b-noun.location	1												
+NN-distance	1	1	b-noun.location	1												
+NNP-route	1	1	b-noun.location	1												
+NNP-drm	1	1	b-noun.group	1												
+NOUN-google	1	1	b-noun.group	1												
+NOUN-vt	1	1	b-noun.group	1												
+NOUN-sihuan Pharmaceutical	1	1	b-noun.group	1												
+NNS-whoopsies	1	1	b-noun.group	1												
+NNP-pxleyes	1	1	b-noun.group	1												
+NOUN-advanced Imaging Society	1	1	b-noun.group	1												
+NOUN-homeowner association	1	1	b-noun.group	1												
+NNP-america's...	1	1	b-noun.group	1												
+NNP-scrubs fans	1	1	b-noun.group	1												
+NOUN-target	1	1	b-noun.group	1												
+NNP-american Professional Football Association	1	1	b-noun.group	1												
+NN-company	1	1	b-noun.group	1												
+NNP-seahawks	1	1	b-noun.group	1												
+NNP-wild	1	1	b-noun.group	1												
+NNP-navy	1	1	b-noun.group	1												
+NOUN-un	1	1	b-noun.group	1												
+NN-everybody WHO	1	1	b-noun.group	1												
+NNS-soldiers	1	1	b-noun.group	1												
+NNP-tin Lizzie	1	1	b-noun.group	1												
+NNP-dt fans	1	1	b-noun.group	1												
+NOUN-teens	1	1	b-noun.group	1												
+NNP-thedc	1	1	b-noun.group	1												
+NOUN-countries	1	1	b-noun.group	1												
+NNP-eyeopener	1	1	b-noun.group	1												
+NNP-cocofunka	1	1	b-noun.group	1												
+NN-jv soccer	1	1	b-noun.group	1												
+NNP-at Issue panel	1	1	b-noun.group	1												
+NOUN-nube NUMBER	1	1	b-noun.group	1												
+NOUN-philarmonic	1	1	b-noun.group	1												
+NNS-businesses	1	1	b-noun.group	1												
+NOUN-fiorentina	1	1	b-noun.group	1												
+NN-overweight category	1	1	b-noun.group	1												
+NNS-lions	1	1	b-noun.group	1												
+NOUN-un inspectors	1	1	b-noun.group	1												
+NNP-calcio	1	1	b-noun.group	1												
+NNP-pg&lt;e	1	1	b-noun.group	1												
+NNP-a7x	1	1	b-noun.group	1												
+NOUN-#us	1	1	b-noun.group	1												
+NOUN-school board	1	1	b-noun.group	1												
+NNP-wb WILDCATS	1	1	b-noun.group	1												
+NOUN-d'tunes	1	1	b-noun.group	1												
+NNP-pitt University	1	1	b-noun.group	1												
+NN-government	1	1	b-noun.group	1												
+NNP-serie A	1	1	b-noun.group	1												
+NNS-markets	1	1	b-noun.group	1												
+NOUN-egyptians	1	1	b-noun.group	1												
+NOUN-apple's	1	1	b-noun.group	1												
+NN-production company	1	1	b-noun.group	1												
+NN-2nd	1	1	b-noun.group	1												
+NNP-techcrunch	1	1	b-noun.group	1												
+NNP-ryerson Quidditch team	1	1	b-noun.group	1												
+NNS-cruisers	1	1	b-noun.group	1												
+NOUN-#ibm	1	1	b-noun.group	1												
+NNP-the Sunshine Band	1	1	b-noun.group	1												
+NNP-nfl)	1	1	b-noun.group	1												
+NN-bench	1	1	b-noun.group	1												
+NOUN-tena	1	1	b-noun.group	1												
+NOUN-west Ham	1	1	b-noun.group	1												
+NNP-society	1	1	b-noun.group	1												
+NOUN-la Liga	1	1	b-noun.group	1												
+NOUN-royal BAYREUTH	1	1	b-noun.group	1												
+NNS-twitfriends	1	1	b-noun.group	1												
+NNP-mls	1	1	b-noun.group	1												
+NOUN-u.n.	1	1	b-noun.group	1												
+NNP-tea Party	1	1	b-noun.group	1												
+NNS-protesters	1	1	b-noun.group	1												
+NOUN-gmc/chevy/hummer/buick/saturn/	1	1	b-noun.group	1												
+NN-animal kingdom	1	1	b-noun.group	1												
+NNP-three Days Grace	1	1	b-noun.group	1												
+NNP-flowtown	1	1	b-noun.group	1												
+NOUN-ibm Software India	1	1	b-noun.group	1												
+NNP-green Bay Packers	1	1	b-noun.group	1												
+NOUN-tally	1	1	b-noun.group	1												
+NNP-sb1070	1	1	b-noun.group	1												
+NOUN-music Industry	1	1	b-noun.group	1												
+NNP-fayette County	1	1	b-noun.group	1												
+NNS-artists	1	1	b-noun.group	1												
+NOUN-leicester City	1	1	b-noun.group	1												
+NOUN-weapons team	1	1	b-noun.group	1												
+NN-family	1	1	b-noun.group	1												
+NOUN-soccer FANS	1	1	b-noun.group	1												
+NOUN-ladies	1	1	b-noun.group	1												
+NOUN-#redgage	1	1	b-noun.group	1												
+NNP-nhl Betting Picks	1	1	b-noun.group	1												
+NNP-congress	1	1	b-noun.group	1												
+NNP-boise State	1	1	b-noun.group	1												
+HT-#nfl	1	1	b-noun.group	1												
+NOUN-lazio	1	1	b-noun.group	1												
+NNP-ahfa	1	1	b-noun.group	1												
+NOUN-lt	1	1	b-noun.group	1												
+NOUN-group	1	1	b-noun.group	1												
+NOUN-peachtree	1	1	b-noun.group	1												
+HT-#astros	1	1	b-noun.group	1												
+NOUN-premier League	1	1	b-noun.group	1												
+NOUN-#soccerfans	1	1	b-noun.group	1												
+NOUN-teen TOP	1	1	b-noun.group	1												
+NOUN-ssf	1	1	b-noun.group	1												
+NNP-kilkenny	1	1	b-noun.group	1												
+NNP-kfc	1	1	b-noun.group	1												
+NNP-hbcu	1	1	b-noun.group	1												
+NN-cast	1	1	b-noun.group	1												
+NNP-bruins	1	1	b-noun.group	1												
+NOUN-pacific Transload Systems	1	1	b-noun.group	1												
+NNS-men	1	1	b-noun.group	1												
+NOUN-albion	1	1	b-noun.group	1												
+NNP-pedigree	1	1	b-noun.group	1												
+NNS-woman	1	1	b-noun.group	1												
+NOUN-villa	1	1	b-noun.group	1												
+NNP-acf Friday Large Group	1	1	b-noun.group	1												
+NNS-varieties	1	1	b-noun.group	1												
+NOUN-party	1	1	b-noun.group	1												
+NOUN-ballina	1	1	b-noun.group	1												
+NN-males	1	1	b-noun.group	1												
+NNP-college REPUBLICAN TAILGATE	1	1	b-noun.group	1												
+NOUN-unemployed	1	1	b-noun.group	1												
+NOUN-police	1	1	b-noun.group	1												
+NOUN-cred Communications	1	1	b-noun.group	1												
+NNP-2 Steps Back	1	1	b-noun.group	1												
+NNP-fall Out Boy	1	1	b-noun.group	1												
+NNPS-monsters	1	1	b-noun.group	1												
+NN-familia	1	1	b-noun.group	1												
+NNP-afl	1	1	b-noun.group	1												
+NN-record company	1	1	b-noun.group	1												
+NNP-amazon U.K.	1	1	b-noun.group	1												
+NNS-ladies	1	1	b-noun.group	1												
+NOUN-precious Communications	1	1	b-noun.group	1												
+NOUN-tts	1	1	b-noun.group	1												
+NN-lingerie football league	1	1	b-noun.group	1												
+NOUN-business Standard	1	1	b-noun.group	1												
+NNP-linkin Park	1	1	b-noun.group	1												
+NOUN-#expertsenterprise	1	1	b-noun.group	1												
+NOUN-yelp	1	1	b-noun.group	1												
+NOUN-crowds	1	1	b-noun.group	1												
+NNS-pisces	1	1	b-noun.group	1												
+HT-#oyster fans	1	1	b-noun.group	1												
+NNP-wanderers	1	1	b-noun.group	1												
+NOUN-dreamyard's	1	1	b-noun.group	1												
+NNP-loop PRODUCTION	1	1	b-noun.group	1												
+NNS-companies	1	1	b-noun.group	1												
+NNS-elfs	1	1	b-noun.group	1												
+HT-#padres	1	1	b-noun.group	1												
+NN-household	1	1	b-noun.group	1												
+NNP-hollywood AZZ RAPPERS	1	1	b-noun.group	1												
+NN-bcom class	1	1	b-noun.group	1												
+NOUN-snipers	1	1	b-noun.group	1												
+NNP-community	1	1	b-noun.group	1												
+NOUN-#management	1	1	b-noun.group	1												
+NOUN-winners	1	1	b-noun.group	1												
+NN-bacon cereal	1	1	b-noun.food	1												
+NN-soup	1	1	b-noun.food	1												
+NNS-cookies	1	1	b-noun.food	1												
+NN-chocolate milkshake	1	1	b-noun.food	1												
+NOUN-tako Salad	1	1	b-noun.food	1												
+NN-egg rolls	1	1	b-noun.food	1												
+NOUN-ponzu sauce	1	1	b-noun.food	1												
+NN-fastfood	1	1	b-noun.food	1												
+NNS-yummies	1	1	b-noun.food	1												
+NNS-oranges	1	1	b-noun.food	1												
+NN-lunch	1	1	b-noun.food	1												
+NN-chitlins	1	1	b-noun.food	1												
+NNS-pizzas	1	1	b-noun.food	1												
+NNP-coke	1	1	b-noun.food	1												
+NN-dog Food	1	1	b-noun.food	1												
+NNS-wings	1	1	b-noun.food	1												
+NN-bacon	1	1	b-noun.food	1												
+NNP-bubble	1	1	b-noun.food	1												
+NNP-chinese food	1	1	b-noun.food	1												
+NNP-white Russians	1	1	b-noun.food	1												
+NNP-sour Patch kids	1	1	b-noun.food	1												
+NN-candy	1	1	b-noun.food	1												
+NNS-cocktails	1	1	b-noun.food	1												
+NN-favourite	1	1	b-noun.food	1												
+NN-drink Specials	1	1	b-noun.food	1												
+NNS-donuts	1	1	b-noun.food	1												
+NN-pinot	1	1	b-noun.food	1												
+NOUN-blueberry muffin	1	1	b-noun.food	1												
+NNP-bogo	1	1	b-noun.food	1												
+NN-alcohol energy drink	1	1	b-noun.food	1												
+NN-crust	1	1	b-noun.food	1												
+NN-donut	1	1	b-noun.food	1												
+NNP-kahlua	1	1	b-noun.food	1												
+NN-breakfast	1	1	b-noun.food	1												
+NNP-cherry	1	1	b-noun.food	1												
+NOUN-octopus	1	1	b-noun.food	1												
+NNS-roasts	1	1	b-noun.food	1												
+NNP-coffee	1	1	b-noun.food	1												
+NNP-merlot	1	1	b-noun.food	1												
+NOUN-cucumber salad	1	1	b-noun.food	1												
+NN-beer	1	1	b-noun.food	1												
+NNP-pepsi	1	1	b-noun.food	1												
+NN-food	1	1	b-noun.food	1												
+NNS-leftovers	1	1	b-noun.food	1												
+NOUN-sandwich	1	1	b-noun.food	1												
+NN-vodka	1	1	b-noun.food	1												
+NN-ambivalence	1	1	b-noun.feeling	1												
+NN-feeling	1	1	b-noun.feeling	1												
+NN-fragile	1	1	b-noun.feeling	1												
+NN-anger	1	1	b-noun.feeling	1												
+NN-pain	1	1	b-noun.feeling	1												
+NOUN-desire	1	1	b-noun.feeling	1												
+NOUN-love	1	1	b-noun.feeling	1												
+NN-pet peeve	1	1	b-noun.feeling	1												
+NN-kick	1	1	b-noun.feeling	1												
+NNP-clemson party	1	1	b-noun.event	1												
+NNP-tree	1	1	b-noun.event	1												
+NOUN-technology Award	1	1	b-noun.event	1												
+NN-evangelist revival mass	1	1	b-noun.event	1												
+HT-#freebiefriday	1	1	b-noun.event	1												
+NNP-thinkmobile	1	1	b-noun.event	1												
+NN-epic wave	1	1	b-noun.event	1												
+NNP-bong	1	1	b-noun.event	1												
+NN-lunch break	1	1	b-noun.event	1												
+NNP-30stm concerts	1	1	b-noun.event	1												
+NN-throwback	1	1	b-noun.event	1												
+NN-bday Bash	1	1	b-noun.event	1												
+NN-pow wow	1	1	b-noun.event	1												
+NNP-xmas	1	1	b-noun.event	1												
+NN-tailgate	1	1	b-noun.event	1												
+VBG-feeding time	1	1	b-noun.event	1												
+NOUN-@user Art Launch Party	1	1	b-noun.event	1												
+NOUN-automotive Refinish Coatings Market	1	1	b-noun.event	1												
+NNP-indiesent Exposure	1	1	b-noun.event	1												
+NOUN-collision	1	1	b-noun.event	1												
+NN-ending	1	1	b-noun.event	1												
+NN-quake	1	1	b-noun.event	1												
+HT-#flavafridays	1	1	b-noun.event	1												
+NNP-london fashion week	1	1	b-noun.event	1												
+NOUN-trip	1	1	b-noun.event	1												
+NOUN-match	1	1	b-noun.event	1												
+NOUN-grassroots Tsunami	1	1	b-noun.event	1												
+NOUN-kcon	1	1	b-noun.event	1												
+NN-practice session	1	1	b-noun.event	1												
+NOUN-farm road crash	1	1	b-noun.event	1												
+NNP-cutie Patootie Contest	1	1	b-noun.event	1												
+NNP-twice Loved Boutique Breast Cancer Awareness Bag Sale Savings Event	1	1	b-noun.event	1												
+NOUN-vma's	1	1	b-noun.event	1												
+NN-death	1	1	b-noun.event	1												
+NN-overnight	1	1	b-noun.event	1												
+NNP-jordan shoe lottery	1	1	b-noun.event	1												
+HT-#sbleurope	1	1	b-noun.event	1												
+NNP-jfk campaign	1	1	b-noun.event	1												
+NNS-events	1	1	b-noun.event	1												
+NN-car accident	1	1	b-noun.event	1												
+NNP-greek Festival	1	1	b-noun.event	1												
+NN-beginning	1	1	b-noun.event	1												
+NOUN-#ecomusic	1	1	b-noun.event	1												
+NNP-photography Contest	1	1	b-noun.event	1												
+NNP-auburn party	1	1	b-noun.event	1												
+NN-explosion	1	1	b-noun.event	1												
+NOUN-referendum	1	1	b-noun.event	1												
+NOUN-thigh muscle injury	1	1	b-noun.event	1												
+NN-shower time	1	1	b-noun.event	1												
+NN-cocktail friday	1	1	b-noun.event	1												
+NN-bday party	1	1	b-noun.event	1												
+NOUN-tap	1	1	b-noun.event	1												
+NN-daaaaay	1	1	b-noun.event	1												
+NN-dance party	1	1	b-noun.event	1												
+NNP-new African Soul Event	1	1	b-noun.event	1												
+NOUN-fire	1	1	b-noun.event	1												
+NNP-sony/bud Light 3D tailgate parties	1	1	b-noun.event	1												
+NOUN-two-horse race	1	1	b-noun.event	1												
+NN-race	1	1	b-noun.event	1												
+NN-country fair today	1	1	b-noun.event	1												
+NN-fall festival	1	1	b-noun.event	1												
+HT-#the1906andpearlsshow	1	1	b-noun.event	1												
+NOUN-event	1	1	b-noun.event	1												
+NNP-park(ing	1	1	b-noun.event	1												
+NN-autumn	1	1	b-noun.event	1												
+NOUN-expo	1	1	b-noun.event	1												
+NOUN-video Music Awards Reunion	1	1	b-noun.event	1												
+NOUN-summerslam NUMBER	1	1	b-noun.event	1												
+NN-bonfire	1	1	b-noun.event	1												
+NNP-cali's BDAY BASH	1	1	b-noun.event	1												
+NN-football game	1	1	b-noun.event	1												
+NOUN-movie Night	1	1	b-noun.event	1												
+NOUN-ganeshotsav	1	1	b-noun.event	1												
+NNP-ravens game	1	1	b-noun.event	1												
+NOUN-airplane Fire	1	1	b-noun.event	1												
+NNP-christmas Event	1	1	b-noun.event	1												
+NOUN-#beachparty	1	1	b-noun.event	1												
+NN-sale	1	1	b-noun.event	1												
+NOUN-clash	1	1	b-noun.event	1												
+NN-win	1	1	b-noun.event	1												
+NN-beat	1	1	b-noun.event	1												
+NNS-eventsandholidays	1	1	b-noun.event	1												
+NOUN-social Media	1	1	b-noun.communication	1												
+NN-official	1	1	b-noun.communication	1												
+NOUN-horror/wresting	1	1	b-noun.communication	1												
+NNS-emails	1	1	b-noun.communication	1												
+NOUN-tweet	1	1	b-noun.communication	1												
+NNP-paranormal Activity	1	1	b-noun.communication	1												
+NN-read	1	1	b-noun.communication	1												
+NOUN-loveint	1	1	b-noun.communication	1												
+NN-sigh	1	1	b-noun.communication	1												
+NNS-songs	1	1	b-noun.communication	1												
+NOUN-gay Marriage Legislation	1	1	b-noun.communication	1												
+NNP-grand Ole Opry	1	1	b-noun.communication	1												
+NOUN-software	1	1	b-noun.communication	1												
+NN-interview	1	1	b-noun.communication	1												
+NNP-prairie Wildflower Greeting Card	1	1	b-noun.communication	1												
+NOUN-secret	1	1	b-noun.communication	1												
+NN-episode	1	1	b-noun.communication	1												
+NNP-not a Genuine Black Man	1	1	b-noun.communication	1												
+NNP-nicki album	1	1	b-noun.communication	1												
+NNP-time Warner Cable	1	1	b-noun.communication	1												
+NN-subject	1	1	b-noun.communication	1												
+HT-#starwars #TheCloneWars	1	1	b-noun.communication	1												
+NNP-march issue	1	1	b-noun.communication	1												
+NNP-baby'...even	1	1	b-noun.communication	1												
+NN-portfolio	1	1	b-noun.communication	1												
+NOUN-walking Dead Season	1	1	b-noun.communication	1												
+NNS-phones	1	1	b-noun.communication	1												
+VB-livestream	1	1	b-noun.communication	1												
+NNP-netflix	1	1	b-noun.communication	1												
+NOUN-recipe today	1	1	b-noun.communication	1												
+NN-lol	1	1	b-noun.communication	1												
+NOUN-killuminati Pt	1	1	b-noun.communication	1												
+HT-#bornthisway	1	1	b-noun.communication	1												
+NN-headline	1	1	b-noun.communication	1												
+NN-illustration job	1	1	b-noun.communication	1												
+NN-text	1	1	b-noun.communication	1												
+NNP-face	1	1	b-noun.communication	1												
+HT-#battlestargalactica	1	1	b-noun.communication	1												
+NN-follow FRIDAY	1	1	b-noun.communication	1												
+NOUN-youtube	1	1	b-noun.communication	1												
+NN-music Video	1	1	b-noun.communication	1												
+NNP-easter egg color shower Easter cards	1	1	b-noun.communication	1												
+NNS-films	1	1	b-noun.communication	1												
+NNP-youtube video	1	1	b-noun.communication	1												
+NNP-showbiz Tonight	1	1	b-noun.communication	1												
+NOUN-rumor	1	1	b-noun.communication	1												
+NNP-idwt	1	1	b-noun.communication	1												
+NOUN-data	1	1	b-noun.communication	1												
+NOUN-tips	1	1	b-noun.communication	1												
+NNS-songs Named	1	1	b-noun.communication	1												
+NN-word	1	1	b-noun.communication	1												
+NOUN-carpet Report	1	1	b-noun.communication	1												
+NNS-arts show	1	1	b-noun.communication	1												
+NOUN-phone BOOK	1	1	b-noun.communication	1												
+NNP-winter	1	1	b-noun.communication	1												
+NN-shoutout	1	1	b-noun.communication	1												
+NNS-papers	1	1	b-noun.communication	1												
+NNP-pumpkin Moonshine	1	1	b-noun.communication	1												
+NNS-congrats	1	1	b-noun.communication	1												
+HT-#speech	1	1	b-noun.communication	1												
+NNP-requiem for a Dream	1	1	b-noun.communication	1												
+NN-software	1	1	b-noun.communication	1												
+NNP-green Newsfeed	1	1	b-noun.communication	1												
+NNP-the Wanted	1	1	b-noun.communication	1												
+NNP-fb status	1	1	b-noun.communication	1												
+NNP-coventry Rugby	1	1	b-noun.communication	1												
+NOUN-agrinews	1	1	b-noun.communication	1												
+NNP-family Guy	1	1	b-noun.communication	1												
+NN-labels	1	1	b-noun.communication	1												
+NN-shore	1	1	b-noun.communication	1												
+NNP-youtube channel	1	1	b-noun.communication	1												
+NNP-nyt story	1	1	b-noun.communication	1												
+NOUN-star Online	1	1	b-noun.communication	1												
+NNS-interviews	1	1	b-noun.communication	1												
+NN-comic book cover designs	1	1	b-noun.communication	1												
+NOUN-results	1	1	b-noun.communication	1												
+NOUN-documents	1	1	b-noun.communication	1												
+NN-assignment	1	1	b-noun.communication	1												
+NN-copy	1	1	b-noun.communication	1												
+NOUN-#soccernews	1	1	b-noun.communication	1												
+NOUN-trappedoutseries	1	1	b-noun.communication	1												
+NN-feature	1	1	b-noun.communication	1												
+NN-tv schedule	1	1	b-noun.communication	1												
+NOUN-note	1	1	b-noun.communication	1												
+NNP-break	1	1	b-noun.communication	1												
+NN-issue	1	1	b-noun.communication	1												
+NOUN-elucidatings	1	1	b-noun.communication	1												
+NOUN-outcry	1	1	b-noun.communication	1												
+NN-badge	1	1	b-noun.communication	1												
+NN-bestseller	1	1	b-noun.communication	1												
+NNP-scm	1	1	b-noun.communication	1												
+NOUN-tickets	1	1	b-noun.communication	1												
+NOUN-#ibmcloud	1	1	b-noun.communication	1												
+NN-win2bet	1	1	b-noun.communication	1												
+NOUN-music	1	1	b-noun.communication	1												
+NN-website	1	1	b-noun.communication	1												
+NOUN-appeal	1	1	b-noun.communication	1												
+NNP-october Iron Range eNews	1	1	b-noun.communication	1												
+NNS-labels	1	1	b-noun.communication	1												
+NN-mention	1	1	b-noun.communication	1												
+NOUN-snub	1	1	b-noun.communication	1												
+NNP-private Practice	1	1	b-noun.communication	1												
+NNP-the DeAndre Way	1	1	b-noun.communication	1												
+NNP-sister LOVERS TONIGHT	1	1	b-noun.communication	1												
+NN-convo	1	1	b-noun.communication	1												
+NOUN-terror threats	1	1	b-noun.communication	1												
+NOUN-breaking Bad	1	1	b-noun.communication	1												
+NN-pin #	1	1	b-noun.communication	1												
+NNP-dc Comics	1	1	b-noun.communication	1												
+NN-understatement	1	1	b-noun.communication	1												
+NN-link	1	1	b-noun.communication	1												
+NOUN-tricks	1	1	b-noun.communication	1												
+NOUN-linkedin	1	1	b-noun.communication	1												
+NNS-vids	1	1	b-noun.communication	1												
+NNP-ip-man 2	1	1	b-noun.communication	1												
+NN-k	1	1	b-noun.communication	1												
+NN-status'.	1	1	b-noun.communication	1												
+NNS-books	1	1	b-noun.communication	1												
+NN-ep	1	1	b-noun.communication	1												
+NNP-epix Movie Channel	1	1	b-noun.communication	1												
+NOUN-signs	1	1	b-noun.communication	1												
+NOUN-song	1	1	b-noun.communication	1												
+NOUN-@user video	1	1	b-noun.communication	1												
+NNS-pics	1	1	b-noun.communication	1												
+HT-#bgc	1	1	b-noun.communication	1												
+NOUN-concert KCON NUMBER	1	1	b-noun.communication	1												
+NN-line	1	1	b-noun.communication	1												
+NN-fuck43	1	1	b-noun.communication	1												
+NOUN-panhandling Ban	1	1	b-noun.communication	1												
+NOUN-response	1	1	b-noun.communication	1												
+NNS-shows	1	1	b-noun.communication	1												
+NNP-the big lebowski	1	1	b-noun.communication	1												
+NN-loop	1	1	b-noun.communication	1												
+NN-presentation	1	1	b-noun.communication	1												
+NNP-haunted Hearts	1	1	b-noun.communication	1												
+NN-message	1	1	b-noun.communication	1												
+NN-film	1	1	b-noun.communication	1												
+NOUN-zombie News	1	1	b-noun.communication	1												
+NNP-assassins creed	1	1	b-noun.communication	1												
+NN-national anthem	1	1	b-noun.communication	1												
+NNS-shouts	1	1	b-noun.communication	1												
+NNP-cstvt	1	1	b-noun.communication	1												
+NN-world record	1	1	b-noun.communication	1												
+NN-cable	1	1	b-noun.communication	1												
+NNS-terms	1	1	b-noun.communication	1												
+NNP-starwars movies	1	1	b-noun.communication	1												
+NOUN-paper	1	1	b-noun.communication	1												
+NNS-records	1	1	b-noun.communication	1												
+NOUN-radio NUMBER	1	1	b-noun.communication	1												
+NNP-red':	1	1	b-noun.communication	1												
+NN-follow	1	1	b-noun.communication	1												
+NOUN-niliria	1	1	b-noun.communication	1												
+NNP-flow 93.5	1	1	b-noun.communication	1												
+NN-shout outs	1	1	b-noun.communication	1												
+NOUN-music Monday	1	1	b-noun.communication	1												
+NOUN-twitter	1	1	b-noun.communication	1												
+NN-teaser pic	1	1	b-noun.communication	1												
+NN-social networks	1	1	b-noun.communication	1												
+NN-entendre	1	1	b-noun.communication	1												
+NN-bullshit	1	1	b-noun.communication	1												
+NN-lineup	1	1	b-noun.communication	1												
+NNP-gigli	1	1	b-noun.communication	1												
+NNP-mtv	1	1	b-noun.communication	1												
+NNP-glee	1	1	b-noun.communication	1												
+NOUN-cubase NUMBER Patch	1	1	b-noun.communication	1												
+NN-reply	1	1	b-noun.communication	1												
+NNP-gray Horses	1	1	b-noun.communication	1												
+NOUN-#warning	1	1	b-noun.communication	1												
+HT-#foi	1	1	b-noun.communication	1												
+NOUN-articles	1	1	b-noun.communication	1												
+NN-preorder	1	1	b-noun.communication	1												
+NN-event listings	1	1	b-noun.communication	1												
+NOUN-dictionaries	1	1	b-noun.communication	1												
+NNS-instructions	1	1	b-noun.communication	1												
+NN-signup form	1	1	b-noun.communication	1												
+NN-@reply	1	1	b-noun.communication	1												
+NOUN-praise	1	1	b-noun.communication	1												
+NN-season premiere	1	1	b-noun.communication	1												
+NNP-monk	1	1	b-noun.communication	1												
+NN-eurovision	1	1	b-noun.communication	1												
+NOUN-insta	1	1	b-noun.communication	1												
+NNP-tmz	1	1	b-noun.communication	1												
+NNP-500 days of summer	1	1	b-noun.communication	1												
+NOUN-podcast	1	1	b-noun.communication	1												
+NN-rap-rock'.	1	1	b-noun.communication	1												
+NNP-egypt tweet	1	1	b-noun.communication	1												
+NOUN-russia's October NUMBER issue	1	1	b-noun.communication	1												
+NN-music video	1	1	b-noun.communication	1												
+NNS-postings	1	1	b-noun.communication	1												
+NNP-ultimate Magic playtest	1	1	b-noun.communication	1												
+NN-lecture	1	1	b-noun.communication	1												
+NN-usb drivers	1	1	b-noun.communication	1												
+NN-coverage	1	1	b-noun.communication	1												
+NN-https://owensoto.wordpress.com/	1	1	b-noun.communication	1												
+NNP-october issue	1	1	b-noun.communication	1												
+NNP-ahhhhnold movie	1	1	b-noun.communication	1												
+NOUN-los Angeles Times	1	1	b-noun.communication	1												
+NN-secret	1	1	b-noun.communication	1												
+NOUN-fancams	1	1	b-noun.communication	1												
+NN-somethin	1	1	b-noun.communication	1												
+NOUN-american	1	1	b-noun.communication	1												
+NN-song	1	1	b-noun.communication	1												
+NN-cliche	1	1	b-noun.communication	1												
+NNP-bills	1	1	b-noun.communication	1												
+NNP-the Inbetweeners	1	1	b-noun.communication	1												
+NNP-envy	1	1	b-noun.communication	1												
+NN-shout	1	1	b-noun.communication	1												
+NNP-hannah Montana	1	1	b-noun.communication	1												
+NNP-k-on	1	1	b-noun.communication	1												
+NNP-ufc	1	1	b-noun.communication	1												
+HT-#fact	1	1	b-noun.communication	1												
+NN-commercial	1	1	b-noun.communication	1												
+NNS-specials	1	1	b-noun.communication	1												
+NN-job applications	1	1	b-noun.communication	1												
+NOUN-instagram	1	1	b-noun.communication	1												
+NOUN-quiz	1	1	b-noun.communication	1												
+NOUN-evernote	1	1	b-noun.communication	1												
+NN-detective show	1	1	b-noun.communication	1												
+NOUN-google+	1	1	b-noun.communication	1												
+NN-track names	1	1	b-noun.communication	1												
+NOUN-news URL	1	1	b-noun.communication	1												
+NNP-sym-bionic Titan	1	1	b-noun.communication	1												
+NNP-dallas Cowboys News	1	1	b-noun.communication	1												
+NNS-picks	1	1	b-noun.communication	1												
+NN-status updates	1	1	b-noun.communication	1												
+NNP-yahoo	1	1	b-noun.communication	1												
+NNP-top	1	1	b-noun.communication	1												
+NOUN-reasons	1	1	b-noun.communication	1												
+NNS-albums	1	1	b-noun.communication	1												
+NN-tweet	1	1	b-noun.communication	1												
+NOUN-media	1	1	b-noun.communication	1												
+NN-home prevention guidelines	1	1	b-noun.communication	1												
+NN-cheer	1	1	b-noun.communication	1												
+NOUN-assault	1	1	b-noun.communication	1												
+NOUN-telegraph	1	1	b-noun.communication	1												
+NNS-brands	1	1	b-noun.communication	1												
+VB-puff puff pass	1	1	b-noun.communication	1												
+NNP-hp6	1	1	b-noun.communication	1												
+HT-#supernatural	1	1	b-noun.communication	1												
+HT-#concerts	1	1	b-noun.communication	1												
+NOUN-thriller	1	1	b-noun.communication	1												
+NOUN-#usopen credential	1	1	b-noun.communication	1												
+NN-bit	1	1	b-noun.communication	1												
+NN-hint	1	1	b-noun.communication	1												
+NOUN-books	1	1	b-noun.communication	1												
+NN-performance	1	1	b-noun.communication	1												
+NN-mortgage Advice	1	1	b-noun.communication	1												
+NNP-ditr REI Update	1	1	b-noun.communication	1												
+NNP-pretty Little Liars	1	1	b-noun.communication	1												
+NNP-good Love	1	1	b-noun.communication	1												
+NN-newspaper	1	1	b-noun.communication	1												
+NOUN-memo	1	1	b-noun.communication	1												
+NN-event coverage	1	1	b-noun.communication	1												
+NN-blog Posts	1	1	b-noun.communication	1												
+NN-application	1	1	b-noun.communication	1												
+NNP-the Town	1	1	b-noun.communication	1												
+NOUN-music Video	1	1	b-noun.communication	1												
+NNS-words	1	1	b-noun.communication	1												
+NNP-piranha 3D	1	1	b-noun.communication	1												
+NOUN-darkside Teaser	1	1	b-noun.communication	1												
+NN-status	1	1	b-noun.communication	1												
+NN-clip	1	1	b-noun.communication	1												
+NNP-vma pre-show	1	1	b-noun.communication	1												
+NN-email	1	1	b-noun.communication	1												
+NN-title	1	1	b-noun.communication	1												
+NN-shot	1	1	b-noun.cognition	1												
+NN-goal	1	1	b-noun.cognition	1												
+VERB-checkout	1	1	b-noun.cognition	1												
+NOUN-program	1	1	b-noun.cognition	1												
+NN-draft choice	1	1	b-noun.cognition	1												
+NNS-issues	1	1	b-noun.cognition	1												
+NN-theory	1	1	b-noun.cognition	1												
+NN-day dreams	1	1	b-noun.cognition	1												
+NOUN-kind	1	1	b-noun.cognition	1												
+NOUN-detection	1	1	b-noun.cognition	1												
+NN-form	1	1	b-noun.cognition	1												
+NOUN-evil	1	1	b-noun.cognition	1												
+NN-nightmare	1	1	b-noun.cognition	1												
+NN-fantasy	1	1	b-noun.cognition	1												
+HT-#education	1	1	b-noun.cognition	1												
+NOUN-cognitive Biases	1	1	b-noun.cognition	1												
+NOUN-autism	1	1	b-noun.cognition	1												
+NN-option	1	1	b-noun.cognition	1												
+NOUN-#leadership	1	1	b-noun.cognition	1												
+NOUN-experience	1	1	b-noun.cognition	1												
+NN-history homework	1	1	b-noun.cognition	1												
+NN-doubt	1	1	b-noun.cognition	1												
+NN-birthday party ideas	1	1	b-noun.cognition	1												
+NN-art	1	1	b-noun.cognition	1												
+NN-habit	1	1	b-noun.cognition	1												
+NN-100%	1	1	b-noun.cognition	1												
+NN-unseen	1	1	b-noun.cognition	1												
+NN-rule	1	1	b-noun.cognition	1												
+NOUN-idea	1	1	b-noun.cognition	1												
+NOUN-history	1	1	b-noun.cognition	1												
+NOUN-key Factors	1	1	b-noun.cognition	1												
+NN-call	1	1	b-noun.cognition	1												
+NNP-follow Friday Train	1	1	b-noun.cognition	1												
+NN-hunch	1	1	b-noun.cognition	1												
+NN-note	1	1	b-noun.cognition	1												
+NOUN-music Think Tank	1	1	b-noun.cognition	1												
+NOUN-fantasy	1	1	b-noun.cognition	1												
+NN-thought process	1	1	b-noun.cognition	1												
+NN-murder plot	1	1	b-noun.cognition	1												
+NN-weekend plans	1	1	b-noun.cognition	1												
+NN-view	1	1	b-noun.cognition	1												
+NOUN-mind	1	1	b-noun.cognition	1												
+NOUN-pike	1	1	b-noun.cognition	1												
+NN-idea	1	1	b-noun.cognition	1												
+NOUN-source	1	1	b-noun.cognition	1												
+NOUN-key	1	1	b-noun.cognition	1												
+NN-video schedules	1	1	b-noun.cognition	1												
+NNS-braids	1	1	b-noun.body	1												
+NOUN-butt	1	1	b-noun.body	1												
+NOUN-fingertips	1	1	b-noun.body	1												
+NN-womb	1	1	b-noun.body	1												
+NN-kid voice*	1	1	b-noun.body	1												
+NN-hip	1	1	b-noun.body	1												
+NOUN-blood	1	1	b-noun.body	1												
+NN-boo-boo	1	1	b-noun.body	1												
+NNS-legs	1	1	b-noun.body	1												
+NN-arm	1	1	b-noun.body	1												
+NN-pussyy	1	1	b-noun.body	1												
+NNS-ears	1	1	b-noun.body	1												
+NN-facee	1	1	b-noun.body	1												
+NN-upper body	1	1	b-noun.body	1												
+NOUN-hand	1	1	b-noun.body	1												
+NN-eye	1	1	b-noun.body	1												
+VB-*smiles	1	1	b-noun.body	1												
+NNS-nails	1	1	b-noun.body	1												
+NN-body	1	1	b-noun.body	1												
+NNS-tears	1	1	b-noun.body	1												
+NNS-hands	1	1	b-noun.body	1												
+NN-back	1	1	b-noun.body	1												
+NN-acne	1	1	b-noun.body	1												
+NN-d@ck	1	1	b-noun.body	1												
+NOUN-#health	1	1	b-noun.body	1												
+NOUN-business agility	1	1	b-noun.attribute	1												
+NN-fat	1	1	b-noun.attribute	1												
+VERB-mending	1	1	b-noun.attribute	1												
+NNS-morals	1	1	b-noun.attribute	1												
+NN-wireless	1	1	b-noun.attribute	1												
+NNS-sexiness	1	1	b-noun.attribute	1												
+NOUN-blue Mark sewing	1	1	b-noun.attribute	1												
+NOUN-advantage	1	1	b-noun.attribute	1												
+NOUN-barefoot	1	1	b-noun.attribute	1												
+NUM-number Hudson Sedan	1	1	b-noun.attribute	1												
+NNS-characters	1	1	b-noun.attribute	1												
+NOUN-traits	1	1	b-noun.attribute	1												
+NN-advantage	1	1	b-noun.attribute	1												
+NN-inevitability	1	1	b-noun.attribute	1												
+NN-tolerance	1	1	b-noun.attribute	1												
+NN-sustainability	1	1	b-noun.attribute	1												
+NN-none	1	1	b-noun.attribute	1												
+NNP-social Media Sin	1	1	b-noun.attribute	1												
+NNP-jamaica Badness	1	1	b-noun.attribute	1												
+NOUN-screen/gps/dvd/ipod/bt/mp3/usb/rd	1	1	b-noun.attribute	1												
+NOUN-grades	1	1	b-noun.attribute	1												
+NOUN-national Dance Day NUMBER	1	1	b-noun.attribute	1												
+HT-#twitter age	1	1	b-noun.attribute	1												
+NN-retardation	1	1	b-noun.attribute	1												
+NN-upgrade	1	1	b-noun.attribute	1												
+NOUN-shape	1	1	b-noun.attribute	1												
+NN-boringness	1	1	b-noun.attribute	1												
+NN-intelligence	1	1	b-noun.attribute	1												
+NN-original	1	1	b-noun.attribute	1												
+NN-name	1	1	b-noun.attribute	1												
+NN-high	1	1	b-noun.attribute	1												
+NNS-faces	1	1	b-noun.attribute	1												
+NOUN-#500px	1	1	b-noun.attribute	1												
+NN-sainthood	1	1	b-noun.attribute	1												
+NNS-limits	1	1	b-noun.attribute	1												
+NN-honesty	1	1	b-noun.attribute	1												
+NOUN-way	1	1	b-noun.attribute	1												
+NOUN-international NUMBER	1	1	b-noun.attribute	1												
+NOUN-price	1	1	b-noun.attribute	1												
+NOUN-gen NUMBER	1	1	b-noun.attribute	1												
+NNS-skills	1	1	b-noun.attribute	1												
+NOUN-temperatures	1	1	b-noun.attribute	1												
+NN-style	1	1	b-noun.attribute	1												
+NNP-intellectual	1	1	b-noun.attribute	1												
+NN-travel size	1	1	b-noun.attribute	1												
+NN-mag	1	1	b-noun.attribute	1												
+NOUN-abrsm Scale Practice Charts	1	1	b-noun.artifact	1												
+NNP-juniper	1	1	b-noun.artifact	1												
+NN-table	1	1	b-noun.artifact	1												
+NN-model'$$	1	1	b-noun.artifact	1												
+NOUN-flyaudio GPS/DVD/IPOD/BT/USB/RADIO/AV /Navigation	1	1	b-noun.artifact	1												
+NNS-jeans	1	1	b-noun.artifact	1												
+NOUN-drugs	1	1	b-noun.artifact	1												
+NNS-rooms	1	1	b-noun.artifact	1												
+NN-blanket	1	1	b-noun.artifact	1												
+NNP-inc	1	1	b-noun.artifact	1												
+NOUN-app	1	1	b-noun.artifact	1												
+NN-sweat pants	1	1	b-noun.artifact	1												
+NOUN-palace	1	1	b-noun.artifact	1												
+NN-college ID	1	1	b-noun.artifact	1												
+NNS-pastimedesigns	1	1	b-noun.artifact	1												
+NOUN-dishwasher	1	1	b-noun.artifact	1												
+NN-backpackkk	1	1	b-noun.artifact	1												
+VERB-wake	1	1	b-noun.artifact	1												
+NOUN-visa Gift Card	1	1	b-noun.artifact	1												
+NNP-venice	1	1	b-noun.artifact	1												
+NNP-bope	1	1	b-noun.artifact	1												
+NOUN-motion tracking	1	1	b-noun.artifact	1												
+NNS-headphones	1	1	b-noun.artifact	1												
+NNP-irish	1	1	b-noun.artifact	1												
+NOUN-business book	1	1	b-noun.artifact	1												
+NN-stool	1	1	b-noun.artifact	1												
+NN-set list	1	1	b-noun.artifact	1												
+VBP-comp	1	1	b-noun.artifact	1												
+NOUN-weapons	1	1	b-noun.artifact	1												
+NNS-venues	1	1	b-noun.artifact	1												
+NNS-earphones	1	1	b-noun.artifact	1												
+NN-jail	1	1	b-noun.artifact	1												
+NOUN-beagle Rescue gear	1	1	b-noun.artifact	1												
+NNP-groovy GIRLS PRINCESS SERAPHINA Doll	1	1	b-noun.artifact	1												
+NN-ipod	1	1	b-noun.artifact	1												
+NN-picture	1	1	b-noun.artifact	1												
+NOUN-obo	1	1	b-noun.artifact	1												
+NNS-pubs	1	1	b-noun.artifact	1												
+NOUN-picture	1	1	b-noun.artifact	1												
+NOUN-audition Tape	1	1	b-noun.artifact	1												
+NNP-bb Bold	1	1	b-noun.artifact	1												
+NNP-ibgp	1	1	b-noun.artifact	1												
+NOUN-autograph Card	1	1	b-noun.artifact	1												
+NOUN-leadership Toolbox	1	1	b-noun.artifact	1												
+NNS-condoms	1	1	b-noun.artifact	1												
+NN-tv channels	1	1	b-noun.artifact	1												
+NOUN-warehouses	1	1	b-noun.artifact	1												
+NNS-clothes	1	1	b-noun.artifact	1												
+NN-pronto	1	1	b-noun.artifact	1												
+NN-box	1	1	b-noun.artifact	1												
+NN-cigarette	1	1	b-noun.artifact	1												
+NOUN-vintage ads	1	1	b-noun.artifact	1												
+NNP-cisco	1	1	b-noun.artifact	1												
+NN-drive Thru Window	1	1	b-noun.artifact	1												
+NN-account	1	1	b-noun.artifact	1												
+NNS-guns	1	1	b-noun.artifact	1												
+NN-egg	1	1	b-noun.artifact	1												
+NNS-iphones	1	1	b-noun.artifact	1												
+NNS-drugs	1	1	b-noun.artifact	1												
+NNP-empire State Building	1	1	b-noun.artifact	1												
+NN-boogie Shoes	1	1	b-noun.artifact	1												
+NUM-number Package-	1	1	b-noun.artifact	1												
+NN-mine	1	1	b-noun.artifact	1												
+NNS-hoodies	1	1	b-noun.artifact	1												
+NOUN-distributions Centers	1	1	b-noun.artifact	1												
+NOUN-video submission area	1	1	b-noun.artifact	1												
+NOUN-vaccine	1	1	b-noun.artifact	1												
+NN-gallery	1	1	b-noun.artifact	1												
+NNP-gen pen	1	1	b-noun.artifact	1												
+NOUN-comic	1	1	b-noun.artifact	1												
+NOUN-mini Cooper Convertible one	1	1	b-noun.artifact	1												
+NOUN-windows crap Phone	1	1	b-noun.artifact	1												
+NOUN-boot	1	1	b-noun.artifact	1												
+NN-phone	1	1	b-noun.artifact	1												
+NN-tee shirt everyone	1	1	b-noun.artifact	1												
+NN-isp	1	1	b-noun.artifact	1												
+NNP-apollo	1	1	b-noun.artifact	1												
+NN-bar	1	1	b-noun.artifact	1												
+NNP-mls Cup loser berth	1	1	b-noun.artifact	1												
+NN-bubble bath	1	1	b-noun.artifact	1												
+NOUN-#photo	1	1	b-noun.artifact	1												
+NNS-sweepstakes	1	1	b-noun.artifact	1												
+NOUN-crm system	1	1	b-noun.artifact	1												
+NOUN-v6-	1	1	b-noun.artifact	1												
+NNP-hdmi plug	1	1	b-noun.artifact	1												
+NOUN-images	1	1	b-noun.artifact	1												
+NNP-betsey Johnson necklaces today	1	1	b-noun.artifact	1												
+NN-edit buttons	1	1	b-noun.artifact	1												
+NOUN-leisure #bra	1	1	b-noun.artifact	1												
+NN-antenna	1	1	b-noun.artifact	1												
+NNP-sd2	1	1	b-noun.artifact	1												
+NN-hoodie	1	1	b-noun.artifact	1												
+NNP-mississippi Museum	1	1	b-noun.artifact	1												
+NOUN-pancake Pantry	1	1	b-noun.artifact	1												
+NNP-liason	1	1	b-noun.artifact	1												
+NNS-brooms	1	1	b-noun.artifact	1												
+NOUN-flyaudio NUMBER	1	1	b-noun.artifact	1												
+NNP-iht	1	1	b-noun.artifact	1												
+NN-medication	1	1	b-noun.artifact	1												
+NNS-mines	1	1	b-noun.artifact	1												
+NNS-bars	1	1	b-noun.artifact	1												
+NN-clearance items	1	1	b-noun.artifact	1												
+NOUN-suv	1	1	b-noun.artifact	1												
+NN-confetti*	1	1	b-noun.artifact	1												
+NOUN-start Screen	1	1	b-noun.artifact	1												
+NN-tent	1	1	b-noun.artifact	1												
+NN-cure	1	1	b-noun.artifact	1												
+NNP-steelers	1	1	b-noun.artifact	1												
+NNP-niles	1	1	b-noun.artifact	1												
+NN-iphone	1	1	b-noun.artifact	1												
+NN-truck	1	1	b-noun.artifact	1												
+NNS-gates	1	1	b-noun.artifact	1												
+NN-fast forward buttons	1	1	b-noun.artifact	1												
+NNP-dr	1	1	b-noun.artifact	1												
+NN-costume	1	1	b-noun.artifact	1												
+NNP-esb	1	1	b-noun.artifact	1												
+NNP-apr Chocolate Toy Poodle Pups	1	1	b-noun.artifact	1												
+NN-ball	1	1	b-noun.artifact	1												
+NN-desk	1	1	b-noun.artifact	1												
+NN-jersey	1	1	b-noun.artifact	1												
+NNP-pepsi truck	1	1	b-noun.artifact	1												
+NOUN-zoo	1	1	b-noun.artifact	1												
+NOUN-touch Screens	1	1	b-noun.artifact	1												
+NN-copy Protection Schemes	1	1	b-noun.artifact	1												
+NOUN-sun-bonnet Babies	1	1	b-noun.artifact	1												
+NNP-sun Cleaners	1	1	b-noun.artifact	1												
+NOUN-outfits	1	1	b-noun.artifact	1												
+NNP-bacon swishers	1	1	b-noun.artifact	1												
+NOUN-recaro Seats-	1	1	b-noun.artifact	1												
+NN-movie DVD	1	1	b-noun.artifact	1												
+NOUN-wwi photos	1	1	b-noun.artifact	1												
+NUM-number Chevy Lumina-	1	1	b-noun.artifact	1												
+NOUN-#pantyhose	1	1	b-noun.artifact	1												
+NNP-tvguide.ca/soaps poll	1	1	b-noun.artifact	1												
+NNS-clubs	1	1	b-noun.artifact	1												
+NOUN-#app	1	1	b-noun.artifact	1												
+NOUN-nissan Terrano	1	1	b-noun.artifact	1												
+NNP-youtube	1	1	b-noun.artifact	1												
+NN-syringe	1	1	b-noun.artifact	1												
+NN-foot cheese grater today	1	1	b-noun.artifact	1												
+NN-audio	1	1	b-noun.artifact	1												
+NNP-jersey Shore	1	1	b-noun.artifact	1												
+NNP-alice wig	1	1	b-noun.artifact	1												
+NN-dryer	1	1	b-noun.artifact	1												
+NN-airplane	1	1	b-noun.artifact	1												
+NNS-boots	1	1	b-noun.artifact	1												
+NN-tl	1	1	b-noun.artifact	1												
+NNP-mac	1	1	b-noun.artifact	1												
+VBD-flipboard	1	1	b-noun.artifact	1												
+NNP-metal Container	1	1	b-noun.artifact	1												
+NNS-meds	1	1	b-noun.artifact	1												
+HT-#vh1	1	1	b-noun.artifact	1												
+NN-auto URL shortening	1	1	b-noun.artifact	1												
+NN-art Garden	1	1	b-noun.artifact	1												
+NN-controller	1	1	b-noun.artifact	1												
+NNS-routers	1	1	b-noun.artifact	1												
+NN-clump	1	1	b-noun.artifact	1												
+NN-pizzeria	1	1	b-noun.artifact	1												
+NNP-itunes	1	1	b-noun.artifact	1												
+HT-#books	1	1	b-noun.artifact	1												
+NNP-scrubs	1	1	b-noun.artifact	1												
+NN-foto	1	1	b-noun.artifact	1												
+NN-bathroom window sill	1	1	b-noun.artifact	1												
+NN-shirt	1	1	b-noun.artifact	1												
+NN-pull out	1	1	b-noun.artifact	1												
+NN-bus	1	1	b-noun.artifact	1												
+NN-saggy pants	1	1	b-noun.artifact	1												
+NNS-pampers	1	1	b-noun.artifact	1												
+NNS-helmets	1	1	b-noun.artifact	1												
+NNS-towels	1	1	b-noun.artifact	1												
+NNP-h-e-b Plus	1	1	b-noun.artifact	1												
+NNP-ba	1	1	b-noun.artifact	1												
+NN-lip junkie	1	1	b-noun.artifact	1												
+NNS-medications	1	1	b-noun.artifact	1												
+HT-#purpleglasses	1	1	b-noun.artifact	1												
+NNP-skins	1	1	b-noun.artifact	1												
+NOUN-accessories	1	1	b-noun.artifact	1												
+NOUN-piano	1	1	b-noun.artifact	1												
+NNP-nokia	1	1	b-noun.artifact	1												
+NOUN-ipad	1	1	b-noun.artifact	1												
+NN-guitar	1	1	b-noun.artifact	1												
+NNP-manchester Salver	1	1	b-noun.artifact	1												
+RB-bike	1	1	b-noun.artifact	1												
+NNP-valentine Photo	1	1	b-noun.artifact	1												
+NN-knife	1	1	b-noun.artifact	1												
+NNS-elements	1	1	b-noun.artifact	1												
+NNP-blackberry	1	1	b-noun.artifact	1												
+NN-homwork	1	1	b-noun.artifact	1												
+NOUN-#fragrance	1	1	b-noun.artifact	1												
+NNS-bucks	1	1	b-noun.artifact	1												
+NNS-items	1	1	b-noun.artifact	1												
+NNP-carbo	1	1	b-noun.artifact	1												
+NNP-googletv	1	1	b-noun.artifact	1												
+NN-chair	1	1	b-noun.artifact	1												
+NNP-j #6 jersey	1	1	b-noun.artifact	1												
+NN-pump Handle]	1	1	b-noun.artifact	1												
+NOUN-honda Civic NUMBER	1	1	b-noun.artifact	1												
+NN-guest list	1	1	b-noun.artifact	1												
+NN-window	1	1	b-noun.artifact	1												
+NN-bumper stickers	1	1	b-noun.artifact	1												
+NN-store	1	1	b-noun.artifact	1												
+NN-lap top	1	1	b-noun.artifact	1												
+NOUN-school Supplies	1	1	b-noun.artifact	1												
+NNS-doodles	1	1	b-noun.artifact	1												
+NN-internet	1	1	b-noun.artifact	1												
+NNS-submarines	1	1	b-noun.artifact	1												
+NN-makeup	1	1	b-noun.artifact	1												
+NN-book covers	1	1	b-noun.artifact	1												
+NN-customer hardware	1	1	b-noun.artifact	1												
+NN-bike	1	1	b-noun.artifact	1												
+NOUN-#vehicles	1	1	b-noun.artifact	1												
+NOUN-#spotify	1	1	b-noun.artifact	1												
+NNP-santa hat	1	1	b-noun.artifact	1												
+NOUN-pantyhose	1	1	b-noun.artifact	1												
+NN-mcdonalds	1	1	b-noun.artifact	1												
+NOUN-photos	1	1	b-noun.artifact	1												
+NOUN-cricket bat	1	1	b-noun.artifact	1												
+NNP-marie Clair	1	1	b-noun.artifact	1												
+NNS-rings	1	1	b-noun.artifact	1												
+NN-webcam	1	1	b-noun.artifact	1												
+NOUN-a7	1	1	b-noun.artifact	1												
+NN-mute buttons	1	1	b-noun.artifact	1												
+NNP-hdcp copy protection scheme	1	1	b-noun.artifact	1												
+NNP-ebgp	1	1	b-noun.artifact	1												
+NNP-penguin	1	1	b-noun.animal	1												
+NNP-lions	1	1	b-noun.animal	1												
+NOUN-panda Cub	1	1	b-noun.animal	1												
+NN-pigeon	1	1	b-noun.animal	1												
+NNS-claws	1	1	b-noun.animal	1												
+NOUN-cub	1	1	b-noun.animal	1												
+NN-cockatoo	1	1	b-noun.animal	1												
+NOUN-cows Arse	1	1	b-noun.animal	1												
+NN-chihuahua puppy	1	1	b-noun.animal	1												
+NN-pard	1	1	b-noun.animal	1												
+NOUN-stillborn	1	1	b-noun.animal	1												
+NNP-sunshine	1	1	b-noun.animal	1												
+NOUN-cat	1	1	b-noun.animal	1												
+NN-kitten	1	1	b-noun.animal	1												
+NN-spider	1	1	b-noun.animal	1												
+NOUN-panda	1	1	b-noun.animal	1												
+NOUN-bacterium	1	1	b-noun.animal	1												
+NNP-luna	1	1	b-noun.animal	1												
+NN-meter shark	1	1	b-noun.animal	1												
+NN-stomach bug	1	1	b-noun.animal	1												
+NNP-unicorns	1	1	b-noun.animal	1												
+NNS-duckies	1	1	b-noun.animal	1												
+NNS-butterflies	1	1	b-noun.animal	1												
+NOUN-fence lizard	1	1	b-noun.animal	1												
+NN-whale	1	1	b-noun.animal	1												
+NOUN-dragon	1	1	b-noun.animal	1												
+NNS-caterpillars	1	1	b-noun.animal	1												
+NN-insult	1	1	b-noun.act	1												
+NN-breath	1	1	b-noun.act	1												
+NN-bestfriend&lt;ride	1	1	b-noun.act	1												
+NOUN-baseball	1	1	b-noun.act	1												
+NOUN-#trade	1	1	b-noun.act	1												
+NNS-nights stay	1	1	b-noun.act	1												
+NNS-games	1	1	b-noun.act	1												
+NN-entry	1	1	b-noun.act	1												
+NOUN-sneak Peek	1	1	b-noun.act	1												
+NOUN-d	1	1	b-noun.act	1												
+NN-street team promotion	1	1	b-noun.act	1												
+NN-sex	1	1	b-noun.act	1												
+NN-mythmaking	1	1	b-noun.act	1												
+NN-action	1	1	b-noun.act	1												
+NNP-mkt exam	1	1	b-noun.act	1												
+NN-sit up	1	1	b-noun.act	1												
+NOUN-instructional Master Class	1	1	b-noun.act	1												
+NOUN-feature	1	1	b-noun.act	1												
+NNP-friday night missions	1	1	b-noun.act	1												
+NN-photo shoot	1	1	b-noun.act	1												
+NNP-fys	1	1	b-noun.act	1												
+NN-jeopardy	1	1	b-noun.act	1												
+NN-bookkeeping	1	1	b-noun.act	1												
+NN-shopping spree	1	1	b-noun.act	1												
+NN-intervention	1	1	b-noun.act	1												
+NN-dating show	1	1	b-noun.act	1												
+NN-fun	1	1	b-noun.act	1												
+NNS-solutions	1	1	b-noun.act	1												
+NNS-tests	1	1	b-noun.act	1												
+NNP-roh shows	1	1	b-noun.act	1												
+NN-tennis practice	1	1	b-noun.act	1												
+NN-election	1	1	b-noun.act	1												
+NN-event	1	1	b-noun.act	1												
+NOUN-lifelock Survey	1	1	b-noun.act	1												
+NOUN-entry	1	1	b-noun.act	1												
+NNP-korean War spy rivalries	1	1	b-noun.act	1												
+NNP-pope Benedict trip	1	1	b-noun.act	1												
+NNS-weights	1	1	b-noun.act	1												
+NN-cocaine Use	1	1	b-noun.act	1												
+NOUN-marketing	1	1	b-noun.act	1												
+NNP-spring Break Your Heart Tour	1	1	b-noun.act	1												
+NN-book club selection	1	1	b-noun.act	1												
+NN-threesum	1	1	b-noun.act	1												
+NN-war	1	1	b-noun.act	1												
+NOUN-one Lives	1	1	b-noun.act	1												
+NOUN-training	1	1	b-noun.act	1												
+NN-webinar	1	1	b-noun.act	1												
+NNP-psychotherapy	1	1	b-noun.act	1												
+NNP-new Groove rampage	1	1	b-noun.act	1												
+NNP-saturday PARTY	1	1	b-noun.act	1												
+NN-hockey	1	1	b-noun.act	1												
+NN-bday dinner	1	1	b-noun.act	1												
+NN-hour trip	1	1	b-noun.act	1												
+NNP-halo Reach	1	1	b-noun.act	1												
+NOUN-weapon use	1	1	b-noun.act	1												
+NN-night email-athon	1	1	b-noun.act	1												
+NOUN-listening Session	1	1	b-noun.act	1												
+NOUN-marriage	1	1	b-noun.act	1												
+NN-web Design	1	1	b-noun.act	1												
+NN-table tennis	1	1	b-noun.act	1												
+NNP-picspam	1	1	b-noun.act	1												
+NNP-patty 's Day Party	1	1	b-noun.act	1												
+NNP-gamechangers Tour	1	1	b-noun.act	1												
+HT-#coaching	1	1	b-noun.act	1												
+NN-b-day	1	1	b-noun.act	1												
+NNS-signups	1	1	b-noun.act	1												
+NOUN-robot Adoption	1	1	b-noun.act	1												
+NN-deal	1	1	b-noun.act	1												
+NN-giveaway	1	1	b-noun.act	1												
+NN-cooking	1	1	b-noun.act	1												
+NN-roller coaster ride	1	1	b-noun.act	1												
+NN-break	1	1	b-noun.act	1												
+NOUN-avenues	1	1	b-noun.act	1												
+NOUN-#cotton payments	1	1	b-noun.act	1												
+NNP-the Rocky Horror Picture Show	1	1	b-noun.act	1												
+NNP-dirty Work Tour	1	1	b-noun.act	1												
+NN-nighter	1	1	b-noun.act	1												
+NN-hairdresser	1	1	b-noun.act	1												
+NN-record	1	1	b-noun.act	1												
+NOUN-use	1	1	b-noun.act	1												
+NNS-steps	1	1	b-noun.act	1												
+NNP-lady Gaga Tour	1	1	b-noun.act	1												
+NN-drug Toss	1	1	b-noun.act	1												
+NN-drug test	1	1	b-noun.act	1												
+NOUN-post	1	1	b-noun.act	1												
+NOUN-ways	1	1	b-noun.act	1												
+NOUN-performances	1	1	b-noun.act	1												
+NN-purchase	1	1	b-noun.act	1												
+NNP-atlantic CITY SHOW	1	1	b-noun.act	1												
+NOUN-service	1	1	b-noun.act	1												
+NN-power nap	1	1	b-noun.act	1												
+NNP-made in Dagenham Q__AND__A	1	1	b-noun.act	1												
+NOUN-job Search	1	1	b-noun.act	1												
+NN-keyword research	1	1	b-noun.act	1												
+NNP-friday Fucking	1	1	b-noun.act	1												
+NN-countdown	1	1	b-noun.act	1												
+NN-slab show	1	1	b-noun.act	1												
+NN-tally	1	1	b-noun.act	1												
+NN-market	1	1	b-noun.act	1												
+NN-choice	1	1	b-noun.act	1												
+NNP-emporer	1	1	b-noun.act	1												
+NN-brunch crawl	1	1	b-noun.act	1												
+NN-math	1	1	b-noun.act	1												
+NOUN-course	1	1	b-noun.act	1												
+NN-tweet game	1	1	b-noun.act	1												
+NN-fault	1	1	b-noun.act	1												
+NN-surgery	1	1	b-noun.act	1												
+NNP-consumer Electronics Show	1	1	b-noun.act	1												
+NN-orientation	1	1	b-noun.act	1												
+NN-gig	1	1	b-noun.act	1												
+NN-courtesy	1	1	b-noun.act	1												
+NNP-tenth Amendment	1	1	b-noun.act	1												
+NOUN-obamacare	1	1	b-noun.act	1												
+NN-test	1	1	b-noun.act	1												
+NOUN-money Maker Deal	1	1	b-noun.act	1												
+NN-strike	1	1	b-noun.act	1												
+NN-preparation	1	1	b-noun.act	1												
+NNP-obamacare	1	1	b-noun.act	1												
+NN-antique shows	1	1	b-noun.act	1												
+NNP-lhs games	1	1	b-noun.act	1												
+HT-#hellomornings	1	1	b-noun.act	1												
+NOUN-homage	1	1	b-noun.act	1												
+NN-birthday party	1	1	b-noun.act	1												
+NNP-sage Award	1	1	b-noun.act	1												
+NNP-dj set	1	1	b-noun.act	1												
+NOUN-cricket	1	1	b-noun.act	1												
+NN-dance*	1	1	b-noun.act	1												
+NN-surprise	1	1	b-noun.act	1												
+HT-#wku homecoming	1	1	b-noun.act	1												
+NOUN-action	1	1	b-noun.act	1												
+NN-program	1	1	b-noun.act	1												
+NOUN-shot	1	1	b-noun.act	1												
+NOUN-business process management	1	1	b-noun.act	1												
+NN-unfollowing spree	1	1	b-noun.act	1												
+NN-shoegasm	1	1	b-noun.act	1												
+NN-class today	1	1	b-noun.act	1												
+NNS-kisses	1	1	b-noun.act	1												
+NN-stop	1	1	b-noun.act	1												
+NN-hurling	1	1	b-noun.act	1												
+NNS-results roundup	1	1	b-noun.act	1												
+NOUN-curbs	1	1	b-noun.act	1												
+NN-volleyball	1	1	b-noun.act	1												

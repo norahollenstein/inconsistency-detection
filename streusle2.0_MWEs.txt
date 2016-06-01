@@ -1,0 +1,2085 @@
+#MWE	PoS-sequence	annotated	not-annotated
+small_town	JJ NN	1	1
+had_to	VBD TO	18	17
+next_to	JJ IN	1	3
+feel_about	RB IN	1	1
+put_it	VBN RB	1	1
+yelled_at	VBD IN	1	1
+satisfied_with	JJ IN	1	4
+trust_me	VB PRP	1	2
+looked_at	VBD IN	1	1
+to_the_point	DT IN DT	1	1
+the_point	DT NN	1	2
+on_staff	IN NN	1	1
+did_it	VBD PRP	1	3
+3_star	CD NN	1	2
+when_it_comes_to	PRP IN TO WRB	1	1
+not~even	RB RB	1	10
+went~in	VBD RB	1	3
+looking_for	VBG IN	11	9
+had_it	VBD PRP	1	4
+ve_been_to	VBP VBN IN	1	4
+even_though	RB IN	3	8
+pleased_with	JJ IN	8	2
+no_problem	DT NN	1	1
+went_in	VBD RB	3	3
+because_of	IN IN	6	4
+going_back	VBG RB	1	5
+came_in	VBD RB	9	1
+feel_good	VB JJ	1	2
+cares_about	VBZ IN	1	1
+due_to	IN IN	9	1
+moved_in	VBD RB	1	3
+took_on	VBD RP	1	1
+to_see	TO TO	1	27
+according_to	VBG IN	2	1
+around~the~corner	IN DT NN	2	1
+not_only	RB RB	4	10
+disappointed_with	JJ IN	1	2
+took_off	VBN RP	1	1
+	VBG RB	3	1
+say_no	VB UH	1	1
+make_the	DT VB	1	1
+way_to_go	NN TO VB	1	1
+going_to	VBG TO	4	16
+top~quality	JJ NN	1	1
+impressed_with	JJ IN	1	4
+walk_out	VB RB	1	1
+back~in	RB RB	3	6
+must~be~doing~something~right	MD VB VBG NN RB	1	1
+no~problem	DT NN	1	1
+been_to	VBN IN	1	9
+as_far_as	RB RB IN	1	1
+a_treat	DT NN	1	1
+and_now	CC RB	1	7
+five_stars	CD NNS	1	1
+pleasantly~surprised	RB VBN	2	2
+closing~time	NN NN	1	1
+in_that	IN DT	1	1
+or_so	CC RB	2	7
+out_ta	IN IN	1	1
+such_as	JJ IN	1	1
+come_back	VB RB	1	2
+along_with	IN IN	2	1
+had_on	VBD RB	1	5
+have_to_say	VBP TO VB	1	1
+rip_off	NN NN	1	1
+in_the_middle_of	RB DT IN DT	1	3
+work~hard	VB RB	1	1
+local_business	JJ NN	1	2
+comment_on	VBP IN	1	1
+walked_away	VBD RB	1	1
+are_into	VBP IN	1	1
+even_tho	RB IN	1	8
+so_that	WDT IN	1	7
+coupled_with	IN VBN	1	1
+outside_of	IN IN	1	1
+were_going_to	VBD VBG TO	1	2
+is_about	VBZ IN	1	2
+on_time	NN IN	10	1
+came_up	VBD RB	1	1
+pretty~good	RB JJ	1	1
+be_sure	VB JJ	1	1
+take_on	IN VB	1	1
+spoken_to	TO TO	3	1
+for_example	IN IN	1	1
+well_done	RB VBN	4	1
+a_pleasure	DT DT	1	1
+the_hilton	DT DT	1	1
+buying_from	VBG IN	1	2
+each_other	DT JJ	1	1
+paying_for	VBG IN	1	2
+worked_with	VBD IN	10	1
+good~fun	JJ NN	1	1
+gon_na	VBG TO	1	1
+going_on	VBG RP	2	1
+t_'s	NNP POS	1	73
+worth_it	PRP JJ	3	2
+to_do	TO VB	1	24
+in_fact	IN NN	7	1
+have_to	VBP TO	27	16
+not~that~great	RB RB JJ	1	1
+medical_school	JJ NN	1	1
+nothing_but	NN IN	1	3
+is_going_to	VBZ TO VBZ	1	1
+wedding_day	NN NN	2	1
+if_ever	IN RB	1	2
+put_in	VBN IN	1	2
+good~work	JJ NN	1	1
+great~job	JJ NN	1	9
+moved~in	VBD RB	1	3
+spoke_to	VBD IN	1	1
+take_of	VBP IN	1	1
+write_reviews	VBP NNS	1	2
+g_1	NN CD	1	1
+even_if	RB IN	1	8
+based_on	VBN IN	1	1
+these~guys	DT NNS	2	15
+have_been	VBP VBN	1	50
+the_same	DT DT	1	32
+for_sure	IN JJ	2	1
+have_yet_to	VBP RB TO	1	1
+get_it	VB PRP	2	5
+in_town	IN NN	8	1
+work_on	VB IN	2	3
+a_little	DT NN	16	10
+lack_of	NN IN	1	6
+u_of_r	NNP IN NNP	1	1
+out_of	IN IN	6	9
+thanks_again	NN RB	3	2
+as_well_as	RB RB RB	4	2
+compared_to	VBN IN	2	4
+criminal_attorney	JJ NN	1	1
+look_at	VBP IN	1	2
+how_to	WRB TO	1	6
+go_with	VB IN	1	1
+all_over	RB IN	2	4
+walked_out	VBD RB	2	2
+stay_away	VB RB	2	5
+fast~and~friendly	JJ CC JJ	1	1
+#_1	NN CD	2	2
+more_than	JJR IN	1	7
+close_to	JJ IN	2	5
+thanks_guys	NN NNS	1	1
+that_said	DT VBN	1	2
+at_all	RB RB	4	12
+back~for~more	VBP IN	1	1
+the_real_thing	DT JJ NN	1	1
+went_through	VBD IN	1	1
+some_place	DT NN	1	1
+a_ton	DT NN	1	1
+when_in	WRB IN	1	1
+not~so	RB RB	1	5
+the_grill	DT NNP	1	3
+make_sure	VB JJ	7	1
+at_that	IN DT	1	2
+work_done	NN VBN	1	2
+can_be_assured	VB MD VB	1	1
+working_with	VBG IN	3	1
+dental_work	JJ NN	1	1
+sort_of	RB RB	1	2
+and_yet	CC CC	1	2
+the_fact_that	DT NN IN	2	3
+all_about	RB IN	2	1
+as~possible	RB IN	2	3
+was_about_to	VBD JJ TO	1	1
+highly~recommended	RB VBN	14	1
+nice~and~quiet	JJ CC JJ	1	1
+know_what_they_'re_doing	PRP VB WP PRP VBP	1	1
+good_job	JJ NN	1	2
+talk_to	TO VB	1	2
+got_to	VBD IN	3	3
+trust~me	VB PRP	1	2
+turning_to	IN TO	1	1
+a_couple	DT DT	13	2
+to_go	TO TO	1	32
+i_figure	PRP VBP	1	2
+would_like~to~thank	MD VB TO VB	1	1
+supposed_to	TO VBN	1	6
+as_to	IN IN	2	20
+dine_in	VB RB	1	2
+aside_from	RB IN	1	1
+not~sure	RB JJ	1	1
+felt_like	VBD IN	1	3
+apart_from	RB IN	2	1
+listened_to	VBD IN	2	2
+go~in	VBP RB	1	2
+was_going_to	VBD VBG TO	4	3
+of_course	RB RB	5	1
+too_much	RB JJ	1	5
+looks_like	VBZ IN	1	2
+have_been_to	VBP VBN IN	6	2
+go_over	VB IN	2	1
+talking_to	VBG IN	1	1
+a_few	DT JJ	13	12
+involved_in	VBN IN	1	1
+thank_you	VBP PRP	26	2
+so_long	RB RB	1	1
+used_to	VBD TO	7	9
+not_even	RB RB	2	10
+go_to	IN VB	1	28
+on_business	IN IN	1	1
+kind_of	RB RB	1	14
+sales_man	NNS NN	1	1
+just_about	RB RB	1	3
+off_of	IN IN	1	2
+not_to_mention	RB TO VB	3	1
+first_time	JJ NN	1	10
+lace_up	VB RP	1	1
+a~long~time	DT JJ NN	1	2
+came_to	VBD TO	1	3
+seems_like	VBZ IN	1	2
+nice~and	JJ CC	1	11
+no_one	DT CD	3	2
+wrong_with	JJ IN	2	2
+work_with	VBP IN	12	1
+a_shame	DT NN	2	1
+interested_in	JJ IN	5	1
+speak_to	TO VB	1	1
+having_to	VBG TO	4	1
+on_top_of	IN NN IN	2	1
+at_first	RB RBS	1	1
+count_on	VB IN	1	3
+make_it	VB PRP	1	4
+you~guys	PRP NNS	2	3
+you_guys	PRP NNS	3	3
+at_night	IN NN	1	2
+come_to	VBN TO	1	3
+less_than	JJR IN	1	7
+referred_to	TO VBN	1	3
+auto_repair	NN NN	1	2
+as_well	RB RB	7	9
+that_being_said	DT VBG VBN	1	1
+problem_with	NN IN	1	2
+want_to	VB TO	1	23
+go_back	VB RB	1	15
+of~the~year	IN DT NNP	4	2
+out_there	RB RB	1	3
+on_campus	IN NN	1	1
+family_fun	NN NN	1	1
+deal_with	VB IN	9	1
+looking_to	IN VBG	1	5
+been_going_to	VBN VBG IN	3	1
+high~quality	JJ NN	1	2
+get_into	VB IN	1	1
+a_bit	DT NN	12	4
+like_it	VBP PRP	1	9
+the_usual	DT JJ	1	5
+asked_for	VBD IN	5	6
+listen_to	TO VB	1	3
+as_long_as	RB RB RB	1	1
+ask_for	VB IN	3	3
+pizza_place	NN NN	1	2
+coming~from	VBG IN	1	3
+come_on	VB RP	1	1
+have_to~say	VBP TO VB	1	1
+money_back	NN RB	1	1
+gets_busy	VBZ JJ	1	1
+sales_manager	NNS NN	1	1
+has_to	VBZ TO	3	1
+had_time	VBD NN	1	1
+attention_to_detail	NN IN NN	2	1
+happy_with	JJ IN	5	4
+at_least	RB RBS	10	2
+cost~effective	NN JJ	1	1
+came_back	VBD RB	3	2
+highly~recommend	RB VB	30	3
+instead_of	RB IN	2	3
+daily~specials	JJ NNS	1	1
+well~worth_it	RB JJ PRP	1	1
+wait_for	VB IN	2	3
+coming_in	RB IN JJR	1	1
+beware_of	VB IN	1	1
+help_with	VB IN	1	1
+use_to	VBD TO	1	4
+proud_of	JJ IN	1	1
+far_from	RB IN	1	1
+a_lot	DT DT	33	0
+customer_service	NN NN	31	0
+year_old	NN JJ	10	0
+by_far	IN RB	8	0
+oil_change	NN NN	7	0
+came_out	VBD RB	7	0
+took_the_time	NN VBD DT	7	0
+take_care_of	IN VB NN	7	0
+front_desk	JJ NN	7	0
+top_notch	JJ NN	6	0
+pick_up	VB RP	6	0
+at_best	RB RBS	6	0
+wait_staff	NN NN	5	0
+last_minute	JJ NN	5	0
+worth_every_penny	JJ DT NN	5	0
+dealing_with	VBG IN	5	0
+check_out	VB RP	5	0
+ended_up	VBD RP	5	0
+5_star	CD NN	5	0
+over_the_phone	IN DT NN	4	0
+5_stars	CD NNS	4	0
+show_up	VB RP	4	0
+dr._shady	NNP NNP	4	0
+phone_call	NN NN	4	0
+so_far	RB RB	4	0
+set_up	VB RP	4	0
+in_front_of	IN NN IN	4	0
+gave_up	VBD RP	4	0
+taken_care_of	VBN NN IN	4	0
+up_front	RB RB	4	0
+santa_fe	NNP NNP	4	0
+second_home	JJ NN	4	0
+over_priced	GW JJ	4	0
+take_the_time	VB DT NN	4	0
+in_stock	IN NN	4	0
+mezza_luna	NN NN	4	0
+cleaned_up	VBN RP	4	0
+dealt_with	VBN IN	4	0
+a_number_of	DT NN IN	4	0
+stop_in	VB VBP	4	0
+all_the_time	PDT DT NN	4	0
+call_back	VB RP	4	0
+new_jersey	NNP NNP	3	0
+thanks_to	NN IN	3	0
+month_old	NN JJ	3	0
+in_business	IN NN	3	0
+parking_lot	NN NN	3	0
+oil_changes	NN NNS	3	0
+dr._romanick	NNP NNP	3	0
+west_indian	JJ JJ	3	0
+wheel_lock	NN NN	3	0
+quite~a_bit	DT PDT DT	3	0
+no_matter	RB RB	3	0
+garage_door	NN NN	3	0
+auto_towing	NNP NNP	3	0
+sales_guy	NNS NN	3	0
+new_york	NNP NNP	3	0
+stop_by	VBP IN	3	0
+credit_card	NN NN	3	0
+is_a_joke	VBZ DT NN	3	0
+out_of_business	IN IN NN	3	0
+night_out	NN RB	3	0
+lake_forest_tots	NNP NNP NNPS	3	0
+check_in	VB RP	3	0
+home_delivery_service	NNP NNP NNP	3	0
+hands_down	NNS RB	3	0
+worked_on	VBD IN	3	0
+fast_food	NN JJ	3	0
+high_end	JJ NN	3	0
+just_autos	NNP NNPS	3	0
+line_up	NN NN	3	0
+the_laundry_tub	DT NNP NNP	3	0
+high_school	JJ NN	3	0
+went_out	VBD RP	3	0
+turned_out	VBD RP	3	0
+hidden~gem	JJ NN	3	0
+take_out	NN NN	3	0
+doctor_hank	NNP NNP	3	0
+come_across	VB RB	3	0
+paid_for	VBD IN	3	0
+dr._mann	NNP NNP	3	0
+carry_out	VB RP	3	0
+texas_roadhouse	NNP NNP	3	0
+right_away	RB RB	3	0
+for~some~reason	IN DT NN	3	0
+test_drive	NN NN	3	0
+showed_up	VBD RP	3	0
+mental_health	JJ NN	3	0
+07_ford_fusion	CD NNP NNP	2	0
+graphic_design	JJ NN	2	0
+boys_in_blue	NNS IN JJ	2	0
+endo_sushi	NNP NNP	2	0
+search_engine_optimization	NN NN NN	2	0
+to_boot	TO VB	2	0
+one_bit	CD NN	2	0
+radison_warwick	NNP NNP	2	0
+decor_and_you	NNP CC NNP	2	0
+as_if	IN IN	2	0
+video_cable	NN NN	2	0
+china_delight	NNP NNP	2	0
+go_-_to	VB HYPH IN	2	0
+foie_gras	NN NN	2	0
+full_price	JJ NN	2	0
+over_the_years	DT IN DT	2	0
+the_real_deal	DT JJ NN	2	0
+fitness_unlimited	NNP NNP	2	0
+are_going_to	VBP VBG TO	2	0
+up~and~down	RB CC RB	2	0
+on_duty	IN NN	2	0
+dropped_off	VBD RP	2	0
+filled_with	VBN IN	2	0
+fraiser_'s	NNP POS	2	0
+back_pain	NN NN	2	0
+2001_nissan_frontier	CD NNP NNP	2	0
+argue_with	VB IN	2	0
+figure_out	VB RP	2	0
+by_the_way	IN DT NN	2	0
+chest_of_drawers	IN NN IN	2	0
+in_general	IN JJ	2	0
+over_cooked	AFX VBN	2	0
+tire_gooroo	NNP NNP	2	0
+talk_down_to	VBP RB IN	2	0
+cuban_coffee	JJ NN	2	0
+la_jolla	NNP NNP	2	0
+let_alone	VB RB	2	0
+main_room	JJ NN	2	0
+picking_up	VBG RP	2	0
+picked_up	VBD RP	2	0
+fort_worth	NNP NNP	2	0
+you_get_what_you_pay_for	PRP PRP VBP WP PRP PRP	2	0
+comfort_zone	NNP NNP	2	0
+mind_blowing	NN VBG	2	0
+working_out	VBG RP	2	0
+one_-_on_-_one	CD CD HYPH HYPH IN	2	0
+enrolled_in	VBN IN	2	0
+are_to_die_for	VBP TO VB IN	2	0
+ham_s	NNP POS	2	0
+bring_in	VB RB	2	0
+dr_david_nelson	NNP NNP NNP	2	0
+check_card	NN NN	2	0
+come_in	VB RB	2	0
+sales_men	NNS NNS	2	0
+room_temperature	NN NN	2	0
+from~start~to~finish	IN NN IN NN	2	0
+air_conditioning	NN NN	2	0
+go_to_school	TO VB IN	2	0
+look_forward_to	VBP RB IN	2	0
+el_paradero	NNP NNP	2	0
+passed_away	VBD RB	2	0
+rittenhouse_square	NNP NNP	2	0
+do_business	VB NN	2	0
+road_test	NN NN	2	0
+rear_window	JJ NN	2	0
+jazz_club	NNP NNP	2	0
+first_class	JJ NN	2	0
+checking_out	VBG RP	2	0
+grew_up	VBD RP	2	0
+prominent_builders	NNP NNPS	2	0
+attended_to	VBN IN	2	0
+checked_out	VBN RP	2	0
+health_care_proxy	NNP NNP NNP	2	0
+in_between	IN IN	2	0
+garage_pros	NNP NNPS	2	0
+physical~address	JJ NN	2	0
+many~thanks	JJ NNS	2	0
+mixed_bag	JJ NN	2	0
+range_rover_sport	NNP NNP NNP	2	0
+eagle_transmission	NNP NNP	2	0
+at_this_point	IN DT NN	2	0
+bloody_mary	JJ NN	2	0
+save~yourself~the~trouble	VB PRP DT NN	2	0
+property_management	NN NN	2	0
+sweet_potato	JJ NN	2	0
+ripped_off	VBN RP	2	0
+dr_nelson	NNP NNP	2	0
+alan_'s	NNP POS	2	0
+hickory_furniture_mart	NNP NNP NNP	2	0
+client_base	NN NN	2	0
+web_site	NN NN	2	0
+deep_tissue	JJ NN	2	0
+mama_mia_'s	NNP NNP POS	2	0
+found_out	VBD RP	2	0
+came_through	VBD RB	2	0
+signs_of_saltford	NNPS IN NNP	2	0
+in_person	IN NN	2	0
+farrell_electric	NNP NNP	2	0
+home_team	NN NN	2	0
+brickell_honda	NNP NNP	2	0
+next_door	JJ NN	2	0
+watch_out_for	VB RP IN	2	0
+criminal_defense_lawyer	JJ NN NN	2	0
+run_down	VBN RP	2	0
+home_inspector	NN NN	2	0
+social_media	JJ NN	2	0
+waiting_for	VBG IN	2	0
+tax_payers	NN NNS	2	0
+family_bagels	NNP NNPS	2	0
+san_antonio	NNP NNP	2	0
+one_-_star	HYPH CD HYPH	2	0
+waiting_staff	NN NN	2	0
+bottom_line	JJ NN	2	0
+strip_mall	NN NN	2	0
+emissions_test	NNS NN	2	0
+up_and_running	CC RB CC	2	0
+first_of_all	RB IN PDT	2	0
+tap_water	NN NN	2	0
+out_of_town	IN IN NN	2	0
+ingrown_toenail	JJ NN	2	0
+check_-_out	VB HYPH RP	2	0
+slice_pizza	NNP NNP	2	0
+collection_agency	NN NN	2	0
+moving_out	VBG RP	2	0
+warner_family	NNP NNP	2	0
+hard_work	JJ NN	2	0
+your_self	GW PRP	2	0
+gift_certificate	NN NN	2	0
+dr._wallen	NNP NNP	2	0
+sent_over	VBN RB	2	0
+ripped_out	VBD RP	2	0
+dr._ruona	NNP NNP	2	0
+shows_up	VBZ RP	2	0
+cheap_hotel_rome	NNP NNP NNP	2	0
+both~sides	DT NNS	2	0
+come_over	VBP RB	2	0
+bother_with	VB IN	2	0
+max_'s	NNP POS	2	0
+pad_thai	NNP NNP	2	0
+years_old	NNS JJ	2	0
+doctor_gonzales	NNP NNP	2	0
+for_free	IN JJ	2	0
+dr._taylor	NNP NNP	2	0
+bj_s	NNP POS	2	0
+big_bucks	JJ NNS	2	0
+stopped_in	VBD RB	2	0
+a_bunch	DT NN	2	0
+exhaust~motor	NN NN	2	0
+medical_care	JJ NN	2	0
+all_the_way	PDT DT NN	2	0
+north_county	NNP NNP	2	0
+make_up	VBP RP	2	0
+dining_room	NN NN	2	0
+signed_up	VBD RP	2	0
+hom_-_excel	NNP HYPH NNP	2	0
+in~the~world	DT IN DT	2	0
+jana_kueck	NNP NNP	2	0
+make_up_for	VB RP IN	2	0
+home_made	NN VBN	2	0
+car_dealer	NN NN	2	0
+09_xf	CD NNP	2	0
+lab_coats	JJ NNS	2	0
+telephone_number	NN NN	2	0
+do~n't~forget	VBP RB VB	2	0
+dr._aster	NNP NNP	2	0
+lovely_nails	NNP NNP	2	0
+gear_box	NN NN	2	0
+a_/_c	NN HYPH NN	2	0
+state_inspection	NN NN	2	0
+end_up	VB RP	2	0
+price_range	NN NN	2	0
+ray_'s_pizza	NNP POS NNP	2	0
+jiu_-_jitsu	NN HYPH NN	2	0
+called_in	VBD RP	2	0
+kitchen_aid	NNP NNP	2	0
+follow_-_up	NN HYPH NN	2	0
+never_mind	RB VB	2	0
+every_thing	DT NN	2	0
+spread_the_word	VB DT NN	2	0
+dr._liau	NNP NNP	2	0
+spay_and_neuter	NN CC NN	2	0
+once_again	RB RB	2	0
+from_the_outside	IN DT NN	1	0
+detail~job	NN NN	1	0
+black_beans	JJ NNS	1	0
+supreme_beings	JJ NNS	1	0
+of_all_time	IN DT NN	1	0
+catch_up_with	VB VB RP	1	0
+google_maps	NNP NNPS	1	0
+barrett_motor_cars_of_san_antonio	NNP NNP NNPS IN NNP NNP	1	0
+well_-_being	RB HYPH NN	1	0
+energy~saving	NN NN	1	0
+antipasto_misto	NN NN	1	0
+up_to_par	IN IN NN	1	0
+spoke_with	VBD IN	1	0
+rang_it_up	VBD PRP RP	1	0
+raging_taco_&_raging_burrito	VBG VBG NNP CC VBG VBG NNP NNP	1	0
+done_wonders_for	VBN NNS IN	1	0
+dr._dorn	NNP NNP	1	0
+east_bay	NNP NNP	1	0
+soup~and~salad	NN CC NN	1	0
+hit_and_miss	NN CC NN	1	0
+a_pair	DT NN	1	0
+down_to_earth	RB IN NN	1	0
+perfect~in_every_way	JJ IN DT NN	1	0
+traffic_light	NN NN	1	0
+in_need	IN NN	1	0
+did~one~on~us	VBD CD IN PRP	1	0
+ca~n't~be~beat	MD RB VB VBN	1	0
+smoker_s_haven	NN POS NN	1	0
+bus~route	NN NN	1	0
+parisian_croissants	JJ NNS	1	0
+keep_in_mind	VB IN NN	1	0
+customer_relations	NN NNS	1	0
+animal~lover	NN NN	1	0
+add_on	VB RP	1	0
+work_out	VBP RP	1	0
+barton_car_wash	NNP NNP NNP	1	0
+dr._ghassemlou	NNP NNP	1	0
+doctor_'s_office	NN POS NN	1	0
+yellow_curry	JJ NN	1	0
+put_in_charge	VBN IN NN	1	0
+middle_-_eastern	JJ HYPH JJ	1	0
+fancy_flowers	NNP NNPS	1	0
+14th_street	NNP NNP	1	0
+leaving_no_stone_unturned	VBG DT NN JJ	1	0
+capable_of	JJ IN	1	0
+fidelity_leasing	NNP NNP	1	0
+phone_numbers	NN NNS	1	0
+double_beds	JJ NNS	1	0
+all_inclusive	RB JJ	1	0
+hard_drive	JJ NN	1	0
+camps_bay	NNP NNPS	1	0
+seth_bloom	NNP NNP	1	0
+u._penn	NNP NNP	1	0
+caught_in_traffic	VBN IN NN	1	0
+ca_n't_go_wrong	MD RB VB RB	1	0
+wine_tastings	NN NNS	1	0
+turned_on	VBD RP	1	0
+mini_cooper	NNP NNP	1	0
+urgent_care	JJ NN	1	0
+800_number	CD NN	1	0
+do_better	VB RBR	1	0
+of_late	IN RB	1	0
+to_be_found	TO VB VBN	1	0
+hormel_'s_chili	NN NNP POS	1	0
+the_rest_was_history	DT NN VBD NN	1	0
+what~a~joke	DT WP DT	1	0
+corona_dryers	NNP NNS	1	0
+in~the~words~of	IN DT NNS IN	1	0
+sense_of_humor	NN IN NN	1	0
+waste_time	VB NN	1	0
+teacup_chihuahua	NN NN	1	0
+wing~night	NN NN	1	0
+life~threatening	NN VBG	1	0
+james_bateman	NNP NNP	1	0
+had_in_mind	VBD IN NN	1	0
+dr._deters	NNP NNP	1	0
+valentine_s	NNP POS	1	0
+came_away_from	VBD RB IN	1	0
+crab_rangoon	NN NN	1	0
+green_buffet	NNP NNP	1	0
+piping_hot	VBG JJ	1	0
+pop_-_up	VB HYPH RP	1	0
+hair~cut	NN NN	1	0
+look_at_it	VB IN PRP	1	0
+dr._obina	NNP NNP	1	0
+see_the_sun	VB DT NN	1	0
+could~n't~be~farther~from~the~truth	MD RB VB RBR IN DT NN	1	0
+talk_with	VB IN	1	0
+honest_wrok	JJ NN	1	0
+trader_joe_'s	NNP NNP POS	1	0
+chances_are	NNS VBP	1	0
+chamberlain_road_hull	NNP NNP NNP	1	0
+every_one	DT NN	1	0
+modell_'s	NNP POS	1	0
+popped_in	VBD RB	1	0
+sales_ladies	NNS NNS	1	0
+when_it_came_to	WRB PRP VBD IN	1	0
+straight_edge	JJ NN	1	0
+shooting_the_breeze	DT VBG DT	1	0
+burger_king	NNP NNP	1	0
+credit_cards	NN NNS	1	0
+sun_devil_auto	NNP NNP NNP	1	0
+barbara_quimba	NNP NNP	1	0
+goes_out	VBZ RP	1	0
+lewiston~,~ny	NNP , NNP	1	0
+filled_up	VBD RP	1	0
+convenience_store	NN NN	1	0
+rather_then	RB IN	1	0
+bait_and_switching	VB CC VBG	1	0
+sit~and~wait_around	VB CC VB RB	1	0
+after_all	RB RB	1	0
+made_for	VBD IN	1	0
+fuji_sushi	NNP NNP	1	0
+flat_-_screen_tv	HYPH HYPH JJ HYPH	1	0
+five_-_star	CD HYPH NN	1	0
+early_on	RB RB	1	0
+shut_off	VBN RP	1	0
+stony_point	NNP NNP	1	0
+la_hacienda	NNP NNP	1	0
+in_other_words	IN JJ NNS	1	0
+liberty_construction	NNP NNP	1	0
+n't_budge	RB VB	1	0
+mind_-_blowing	NN HYPH JJ	1	0
+jimmy_rigged	NN VBD	1	0
+blown_away	VBN RB	1	0
+gone_down_hill	VBN GW RB	1	0
+high_-_end	JJ HYPH NN	1	0
+go_cry	VB VB	1	0
+time_spent	NN VBN	1	0
+rip_-_off	NN HYPH NN	1	0
+increase_in	NN IN	1	0
+dr._rohatgi	NNP NNP	1	0
+across_the_board	IN DT NN	1	0
+the_fan	DT DT	1	0
+push_customers	VB NNS	1	0
+rescue_puppy	NN NN	1	0
+take_pride	VBP NN	1	0
+malcolm_smith_motorsports	NNP NNP NNPS	1	0
+come_through	VBN RB	1	0
+find_out	VB RP	1	0
+compact_'s	NNP POS	1	0
+mark_up	NN NN	1	0
+take_the_plunge_with	VB DT NN IN	1	0
+gave_the_go_ahead	DT DT DT VBD	1	0
+big_box_store	NN JJ NN	1	0
+nyc_pizza	NNP NN	1	0
+finger_licking	NN VBG	1	0
+make_due	VB VB	1	0
+nyc_style_pizza	NNP NN NN	1	0
+break_down_and	CC VB RP	1	0
+come_with	VB IN	1	0
+big_rig	JJ NN	1	0
+thankful_for	JJ IN	1	0
+country_girl	NN NN	1	0
+old_fashioned	JJ JJ	1	0
+nick_'s	NNP POS	1	0
+steak_house	NN NN	1	0
+yelling_at	VBG IN	1	0
+whole_foods	NNP NNP	1	0
+tension~and~worries	CC CC CC	1	0
+get_discounts	VB VB	1	0
+days_inn	NNPS NNP	1	0
+child_molesters	NN NNS	1	0
+pool_service	NN NN	1	0
+angry_lobster	JJ NN	1	0
+massage_therapist	NN NN	1	0
+rented_out	VBD RP	1	0
+moved_out	VBD RP	1	0
+blue_cross_/_blue_shield	NNP NNP NNP HYPH NNP NNP NNP	1	0
+using~on	VBG IN	1	0
+wine_glasses	NN NNS	1	0
+on~the~street	IN DT NN	1	0
+co_workers	AFX NNS	1	0
+barry_s_auto_tech	NNP POS NNP NNP	1	0
+dr._white	NNP NNP	1	0
+trio_'s	NNP POS	1	0
+car_washes	NN NNS	1	0
+mobile_mechanics	JJ NNS	1	0
+lucky_panda	NNP NNP	1	0
+taco_mac	NNP NNP	1	0
+blue_water_bridge_duty_free	NNP NNP NNP NNP NNP	1	0
+complimented_on	VBN IN	1	0
+get_into_an_accident	VBP IN DT NN	1	0
+yoga~studio	NN NN	1	0
+pat_tested	NNP NN	1	0
+child_predators	NN NNS	1	0
+at_one_point	IN CD NN	1	0
+dr_greenwalt	NNP NNP	1	0
+went_wrong	VBD JJ	1	0
+scrummy_yummy	NNP NNP	1	0
+end_up_with	VBP RP IN	1	0
+wunderbar_pet_sitting	NN NNP NNP	1	0
+student_body	NN NN	1	0
+pretty~sure	RB JJ	1	0
+pain_meds	NN NNS	1	0
+stick_with	VB IN	1	0
+little_farmer	NNP NNP	1	0
+kung_pao_chicken	NN NN NN	1	0
+gone_off	VBN RP	1	0
+pizza_rolls	NN NNS	1	0
+fall_for	VB IN	1	0
+yellow_lab	JJ NN	1	0
+17th_street	NN NN	1	0
+wrapping_paper	NN NN	1	0
+i_hate_to_say	PRP VBP TO VB	1	0
+pay_attention	VB NN	1	0
+in_search_of	IN NN IN	1	0
+faced_with	VBN IN	1	0
+do~n't~get_caught_up_in~the~hype	VB RB VB VBN RP IN DT NN	1	0
+best_of_the_best	DT JJS JJS IN	1	0
+jim_smith	NNP NNP	1	0
+yards_brewery	NNP NNP	1	0
+common_room	JJ NN	1	0
+blood_pressure	NN NN	1	0
+cross_examined	VB VBD	1	0
+old_school	JJ NN	1	0
+has~to~say	VBZ TO VB	1	0
+am_made_to	VBP VBN TO	1	0
+karla_ferguson_-_granger	NNP NNP HYPH NNP	1	0
+spot_-_on	JJ HYPH JJ	1	0
+over_proofed	RB JJ	1	0
+sign_in	VB RP	1	0
+first_-_time	JJ HYPH NN	1	0
+standing_around	VBG RB	1	0
+puts_out	VBZ RB	1	0
+salad_bar	NN NN	1	0
+ice_cream	NN NN	1	0
+saucey_'s	NNP POS	1	0
+scented_flowers	VBN NNS	1	0
+is_a_pain	VBZ DT NN	1	0
+on_and_on	CC RB RB	1	0
+came_over	VBD RB	1	0
+getting_used_to	TO TO VBG	1	0
+full_-_time	HYPH JJ HYPH	1	0
+fall_in_love	VB IN NN	1	0
+felt_the_need	VBN DT NN	1	0
+am_going_to	TO VBP VBG	1	0
+then~again	RB RB	1	0
+regardless_of	RB IN	1	0
+long_beach	NNP NNP	1	0
+toilet_seat	NN NN	1	0
+life_coach	NN NN	1	0
+have_a_bite	VBP DT NN	1	0
+came_by	VBD RB	1	0
+blow_dry	VB VBP	1	0
+cayuga_st.	NNP NNP	1	0
+a_slice_of_heaven	DT NN IN NN	1	0
+sinking_feeling	NN NN	1	0
+heart~pounded	NN VBD	1	0
+made_friends	VBD NNS	1	0
+mrs._lynda_mcmanus	NNP NNP NNP	1	0
+never~again	RB RB	1	0
+put_down	VB RP	1	0
+rt_1	NNP CD	1	0
+the_thing_is	DT NN VBZ	1	0
+cranmore_dental_and_implant_clinic	NNP NNP CC NNP NNP	1	0
+mi_pueblo	NNP NNP	1	0
+liquor~license	NN NN	1	0
+doctor_stout	NNP NNP	1	0
+in~&~out	RB CC RB	1	0
+san_jose	NNP NNP	1	0
+pizza_roll	NN NN	1	0
+eggs_benedict	NNS NN	1	0
+month_olds	NN NNS	1	0
+dr._lucy_nichols	NNP NNP NNP	1	0
+eternally~grateful	RB JJ	1	0
+i_-_24	PRP NNP HYPH	1	0
+moo_shu	NN NN	1	0
+refer_to	VBP IN	1	0
+quick~and~timely	JJ CC JJ	1	0
+alan_grissom	NNP NNP	1	0
+goes_out_the_door	DT VBZ IN DT	1	0
+cowboy_boots	NN NNS	1	0
+luv_always	NN RB	1	0
+dr._cooper	NNP NNP	1	0
+french_fries	JJ NNS	1	0
+out_ta_this_world	IN IN DT NN	1	0
+kumon_parents	NNP NNPS	1	0
+morse~red_line	NNP NNP NNP	1	0
+world_series	NN NNS	1	0
+well_fed	RB VBN	1	0
+split_,_croatia	NNP , NNP	1	0
+creekside_apartments	NNP NNPS	1	0
+go_skiing	VB VBG	1	0
+in_time	IN NN	1	0
+dinner_plates	NN NN	1	0
+years_to_come	NNS TO VB	1	0
+bay_view	NNP NNP	1	0
+on_the_lookout	IN DT NN	1	0
+woken_up	VBN RP	1	0
+on_the_spot	DT IN DT	1	0
+birthday_card	NN NN	1	0
+compare_to	VBN IN	1	0
+faith_in	NN IN	1	0
+under_warranty	IN NN	1	0
+in_the_mean_time	IN DT GW NN	1	0
+deb_watson	NNP NNP	1	0
+bait_and_switch	NN CC NN	1	0
+check_-_in	NN HYPH NN	1	0
+cesar_gracie	NNP NNP	1	0
+inspection~sticker	NN NN	1	0
+plan_on	VBP IN	1	0
+do~n't~give_a_darn	VBP RB VB DT NN	1	0
+price_quote	NN NN	1	0
+right_off_the_bat	RB IN DT NN	1	0
+family_emergency	NN NN	1	0
+fitness_center	NN NN	1	0
+new_providence	NNP NNP	1	0
+flea_market	NN NN	1	0
+gustavo_guerra	NNP NNP	1	0
+turned_into	VBD IN	1	0
+sear's_automotives	NNP NNP	1	0
+criminal_defense_attorney	JJ NN NN	1	0
+hop_city	NNP NNP	1	0
+bad~for~business	JJ IN NN	1	0
+who_would_have~guessed	VBP WP MD VB	1	0
+kick_back	VB RB	1	0
+old_fashion	JJ NN	1	0
+st._thomas_the_apostle	NNP NNP DT NNP	1	0
+niche_market	NN NN	1	0
+beginning_yoga_with_brittany	NN NN IN NNP	1	0
+stock_up	VBP RP	1	0
+on_purpose	IN NN	1	0
+been_there_/_done_that	VBN RB XX VBN DT	1	0
+bradley_food_and_beverage	CC NNP NNP CC	1	0
+planning_on	VBG IN	1	0
+pork~and~rice	NN CC NN	1	0
+bright_futures	NNP NNPS	1	0
+jaw_dropped	NN VBD	1	0
+in_limbo	IN NN	1	0
+out_-_of_-_town	IN IN HYPH HYPH IN	1	0
+cn_tower	NNP NNP	1	0
+ruth_chris	NNP NNP	1	0
+thank_-_you	VBP HYPH PRP	1	0
+top_to_bottom	NN IN NN	1	0
+had_the_audacity	DT VBD DT	1	0
+works_for_me	VBZ IN PRP	1	0
+sushi_bar	NN NN	1	0
+dental_care	JJ NN	1	0
+alta_moda	NNP NNP	1	0
+sam_mones	NNP NNP	1	0
+britt_'s_pizza	NNP POS NNP	1	0
+introduced_to	VBN IN	1	0
+in_no_time	IN DT NN	1	0
+fitness_500	NNP NNP	1	0
+r._morris	NNP NNP	1	0
+knights_inn	NNPS NNP	1	0
+hole_in_the_wall	IN NN IN DT	1	0
+played_dumb	VBD JJ	1	0
+tiger_heating_and_air	NNP NNP CC NNP	1	0
+go_above_and_beyond	VBP RB CC RB	1	0
+by~far	IN RB	1	0
+will_and_grace	NNP CC NNP	1	0
+m_going_to	TO IN VBP	1	0
+have~to~offer	TO TO VBP	1	0
+queen_bed	NN NN	1	0
+great_ear	JJ NN	1	0
+do~n't~judge~a~book~by~its~cover	VB RB VB DT NN IN PRP$ NN	1	0
+crap_hole	NN NN	1	0
+are~you~kidding~me	VBP PRP VBG PRP	1	0
+chicken_salad	NNP NN	1	0
+do_yourself_a_favor	VB PRP DT NN	1	0
+dave_terrell	NNP NNP	1	0
+have_fun	VB NN	1	0
+tried_on	VBD RP	1	0
+anna_maria_jose_mudo	NNP NNP NNP NNP	1	0
+pushed_in	VBN RP	1	0
+home_-_cooked	NN HYPH VBN	1	0
+win_in	GW IN	1	0
+dr_mcdonald	NNP NNP	1	0
+pay_attention_to	VB NN IN	1	0
+to_show_for	TO VB IN	1	0
+pardon_my_french	VB PRP$ NNP	1	0
+second_hand_smoke	JJ NN NN	1	0
+le_petit	NNP NNP	1	0
+trade_-_in	NN HYPH NN	1	0
+crust_on_broad	NNP IN NNP	1	0
+2_star	CD NN	1	0
+lack_-_luster	JJ HYPH JJ	1	0
+sister_-_in_-_law	NN HYPH HYPH IN HYPH HYPH NN	1	0
+tip_top	JJ JJ	1	0
+tracked_down	VBD RP	1	0
+took_forever	VBD RB	1	0
+the_libido_band	DT NN NN	1	0
+pass_up	VB RP	1	0
+go_to_heck	VB IN NN	1	0
+morningside_road	NNP NNP	1	0
+asking_to	VBG TO	1	0
+who_-_knows_-_what	WP HYPH HYPH VBZ HYPH HYPH WP	1	0
+providence_aesthetics_and_medical_spa	NNP NNPS CC NNP NNP	1	0
+did_so	VBD RB	1	0
+high_tech	JJ NN	1	0
+dr_joseph	NNP NNP	1	0
+eco_friendly	AFX JJ	1	0
+highly~recomended	RB VBN	1	0
+one_-_way_street	CD HYPH NN NN	1	0
+take_heed	VB NN	1	0
+hair_by_nivine	NNP IN NNP	1	0
+goes_clear_through	VBZ RB RB	1	0
+st._charles_mall	NNP NNP NNP	1	0
+award_dance_centre	NNP NNP NNP	1	0
+ca_n't_get_enough	MD RB VB JJ	1	0
+same_old	JJ JJ	1	0
+ladies_room	NNS NN	1	0
+below_zero	IN CD	1	0
+have_the_pleasure	VB DT NN	1	0
+non_refundable	AFX JJ	1	0
+in_addition	IN NN	1	0
+purple_hull_peas	JJ NN NNS	1	0
+noonan_'s_liquor	NNP POS NNP	1	0
+go_to_the_bathroom	VBP IN DT NN	1	0
+get_up	VB RP	1	0
+red_sox	NNP NNPS	1	0
+be_sure_to	VB JJ TO	1	0
+credit_card_minimum	NN NN NN	1	0
+kelvin_trimmers	NNP NNPS	1	0
+blown_glass	VBN NN	1	0
+disagreed_with	VBD IN	1	0
+to_date	IN NN	1	0
+garment_district	NNP NNP	1	0
+yr_old	NN NN	1	0
+mixed_up	VBN RP	1	0
+comes_across	VBZ RB	1	0
+bexar_county_tax_office	NNP NNP NNP NNP	1	0
+canadian_outback	NNP NNP	1	0
+took_care_of	VBD NN IN	1	0
+did~business	VBD NN	1	0
+hair_style	NN NN	1	0
+new_year_s_eve	NNP NNP POS NNP	1	0
+qualitech_computers	NNP NNPS	1	0
+long_gone	RB JJ	1	0
+fill_up	VB RP	1	0
+do_business_with	VB NN IN	1	0
+love_stout	NNP NNP	1	0
+in_,_out	, RB ,	1	0
+check_ups	NN NNS	1	0
+clarkson_university	NNP NNP	1	0
+air_duct	NN NN	1	0
+fire_drill	NN NN	1	0
+feels_like_a_number	VBZ IN DT NN	1	0
+deli_sandwiches	NN NNS	1	0
+call_of_duty	NN IN NN	1	0
+put_up_with	VB RP IN	1	0
+bellevue~,~wa.	NNP , NNP	1	0
+in_the_midst_of	IN IN DT NN	1	0
+mass_-_market	JJ HYPH NN	1	0
+the_other_day	DT JJ NN	1	0
+short_pump	NNP NNP	1	0
+the_brick	DT NNP	1	0
+if~that	IN DT	1	0
+making_a_buck	VBG DT NN	1	0
+woodland_hills	NNP NNPS	1	0
+picky~eaters	JJ NNS	1	0
+new_born	JJ JJ	1	0
+line_dancing	NN NN	1	0
+took_time	VBD NN	1	0
+middle_school	NN NN	1	0
+consists_of	VBZ IN	1	0
+steering_wheel	NN NN	1	0
+roll_up_crepes	NNP NNP NNPS	1	0
+salsa_verde	NN NN	1	0
+no_big_deal	DT JJ NN	1	0
+riding_on_rails	VBG IN NNS	1	0
+chili_relleno	NN NN	1	0
+horror~stories	NN NNS	1	0
+made_a_mistake	DT VBN DT	1	0
+r&l_plumbing_services	NNP NNP NNP	1	0
+mingle_with	VB IN	1	0
+master_keying	NN VBG	1	0
+pam_gillies	NNP NNP	1	0
+go_through	VB IN	1	0
+people_watching	NNS NN	1	0
+dr._chao	NNP NNP	1	0
+am_no_stranger_to	VBP DT NN IN	1	0
+make_money	VBP NN	1	0
+all_in_one	DT IN CD	1	0
+hot_topic	NNP NNP	1	0
+the_creative_workshop	DT DT NNP	1	0
+rave_reviews	JJ NNS	1	0
+book_a_reservation	VB DT NN	1	0
+fried_egg	VBN NN	1	0
+met_with	VBD IN	1	0
+federal_sts.	NNP NNPS	1	0
+hit_the_ground	DT VBD DT	1	0
+all~in_a_matter_of	RB IN DT NN IN	1	0
+walk_-_in	NN HYPH NN	1	0
+quitting_smoking	VBG NN	1	0
+time_of_need	NN IN NN	1	0
+run_on	NNP NNP	1	0
+in_itself~let_alone	IN PRP VB RB	1	0
+take~pictures	VB NNS	1	0
+thought_of	VBN IN	1	0
+wine_flight	NN NN	1	0
+bus_boy	NN NN	1	0
+in_this_day	IN DT NN	1	0
+grizzly_700	NNP NNP	1	0
+nova_scotia	NNP NNP	1	0
+fort_lee	NNP NNP	1	0
+are_out_of_this_world	VBP IN IN DT NN	1	0
+family~owned_and_operated	NN VBN CC VBN	1	0
+why_in_the_hell	WRB IN DT NN	1	0
+cross_checks	VB VBZ	1	0
+hit_the_nail_on_the_head	VBD DT DT NN IN DT DT NN	1	0
+on_schedule	IN NN	1	0
+raina_'s	NNP POS	1	0
+keep_your_eyes_open	VB PRP$ NNS JJ	1	0
+rent_out	VB RP	1	0
+winterowd_fine_art	NNP NNP NNP	1	0
+s._10th	NNP NNP	1	0
+came_home_to	VBD RB IN	1	0
+dr._stiefvater	NNP NNP	1	0
+health_inspector	NN NN	1	0
+come_by	VB RB	1	0
+house_of_joy	NN IN NNP	1	0
+bay_rd	NNP NNP	1	0
+price_point	NN NN	1	0
+air_filter	NN NN	1	0
+stephanie_fairchild	NNP NNP	1	0
+good~name	JJ NN	1	0
+start_out	VB RP	1	0
+hair_loss	NN NN	1	0
+little~kids	JJ NNS	1	0
+keep_it_up	VB PRP RP	1	0
+giving_instructions	VBG NNS	1	0
+self_service	NN NN	1	0
+american_express	NNP NNP	1	0
+pets_discount	NNPS NNP	1	0
+blue_cross	NNP NNP	1	0
+went_above_and_beyond	CC VBD RB CC	1	0
+ny_jets	NNP NNPS	1	0
+owner~operator	NN NN	1	0
+soccer_mom	NN NN	1	0
+bandera_road	NNP NNP	1	0
+doctor_bogomilsky	NNP NNP	1	0
+main_feature	JJ NN	1	0
+go_on_and_on	VB RB RB CC	1	0
+road_construction	NN NN	1	0
+fixed_-_up	HYPH VBN HYPH	1	0
+stumble_across	VB IN	1	0
+sports_bar	NNS NN	1	0
+cup_of_joe	NN IN NN	1	0
+might_as_well	MD RB RB	1	0
+coffee_store	NN NN	1	0
+stand_around	VB RB	1	0
+all_together	GW RB	1	0
+work_staff	NN NN	1	0
+back_yard	JJ NN	1	0
+dance_floor	NN NN	1	0
+hobby_lobby	NNP NNP	1	0
+richmond_ukrops	NNP NNP	1	0
+bascom_light_rail	NNP NNP NNP	1	0
+taj_mahal	NNP NNP	1	0
+went_so_far_as_to_say	VBD RB RB IN TO VB	1	0
+high_hopes	JJ NNS	1	0
+blackened_catfish	VBN NN	1	0
+called_in_sick	VBD VBD RB	1	0
+miss_informed	AFX JJ	1	0
+got_upgraded_to	VBD VBN IN	1	0
+treated_to	VBN IN	1	0
+mouth_watering	NN VBG	1	0
+winter_park	NNP NNP	1	0
+burger~and~fries	NN CC NNS	1	0
+mother_plucker	NNP NNP	1	0
+other~way~around	JJ NN RB	1	0
+mr._squeege	NNP NNP	1	0
+made_time	VBD NN	1	0
+was_a_big_baby	VBD DT JJ NN	1	0
+locker_rooms	NN NNS	1	0
+bus_lines	NN NNS	1	0
+who_knows	WP VBZ	1	0
+on_completion	IN NN	1	0
+husband~and~wife	NN CC NN	1	0
+vehicle_wrap	NN NN	1	0
+japaneiro_'s	NNP POS	1	0
+go_thru	VB IN	1	0
+blue_water_bridges	NNP NNP NNPS	1	0
+geno_'s	NNP POS	1	0
+stressed_out	IN VBN	1	0
+got_moved	VBD VBN	1	0
+hair_cut	NN VBN	1	0
+central_iowa	NNP NNP	1	0
+morelias_enchiladas	NN NNS	1	0
+new_york_style_pizza	NNP NNP NN NN	1	0
+paid_attention	VBN NN	1	0
+banana_split	NN NN	1	0
+believe_it_or_not	VB PRP CC RB	1	0
+21st_st	NNP NNP	1	0
+a_dong	NNP NNP	1	0
+better_off	JJR RP	1	0
+the_better_part_of	DT JJR NN IN	1	0
+get_results	VB NNS	1	0
+treated_like_dirt	VBN IN NN	1	0
+stepping_into	VBG IN	1	0
+worst~of~all	RBS IN DT	1	0
+carnegie_mellon	NNP NNP	1	0
+to_bad	RB JJ	1	0
+driving_force	VBG NN	1	0
+shut_up	VB RP	1	0
+around_the_clock	IN DT NN	1	0
+orange_chicken	NN NN	1	0
+fountain_dental_practice	NNP NNP NNP	1	0
+printed_out	VBD RP	1	0
+a_question_of	DT NN IN	1	0
+grocery_stores	NN NNS	1	0
+a_stretch	DT NN	1	0
+made_good	VBN JJ	1	0
+dried_out	VBN RP	1	0
+sand_hill_park	NNP NNP NNP	1	0
+from_begiinning_to_end	IN NN IN NN	1	0
+visakha_industrial_gases_pvt._ltd.	NNP NNP NNPS NNP NNP	1	0
+no_homo	DT NN	1	0
+walk_against_drugs_and_alcohol	NNP IN NNPS CC NNP	1	0
+step_it_up_another_notch	VBP PRP RP DT NN	1	0
+pure_pilates	JJ NN	1	0
+reccommend_to	VB IN	1	0
+do~n't~be~surprised	VB RB VB JJ	1	0
+bar_-_b_-_que	NN HYPH HYPH NN HYPH HYPH NN	1	0
+leaves~a_lot~to_be_desired	VBZ DT NN TO VB VBN	1	0
+went_on_a_trip	VBD IN DT NN	1	0
+best_and_affordable_tour_operators_and_tours_agents	NNPS CC CC CC CC NNP CC CC	1	0
+battery_park_pest	NNP NNP NNP	1	0
+hurry_up	VB RP	1	0
+sussman_kia	NNP NNP	1	0
+walks_around	VBZ RB	1	0
+you~better_believe	PRP RBR VB	1	0
+go_down	VB RB	1	0
+leon_'s	NNP POS	1	0
+came_in_under	VBD RB IN	1	0
+make_cash	VB NN	1	0
+peking_garden	NNP NNP	1	0
+e-commerce~solutions	NN NNS	1	0
+pry_bar	NN NN	1	0
+year_olds	NN NNS	1	0
+having_fun	VBG NN	1	0
+recommended_to	VBN IN	1	0
+infra_structure	AFX NN	1	0
+peachstate_powersports	NNP NNPS	1	0
+garage_doors	NN NNS	1	0
+warwick_township	NNP NNP	1	0
+vcu_medical_center	NNP NNP NNP	1	0
+jump_-_start	NN HYPH VB	1	0
+getting_paid	VBG VBN	1	0
+deep_conditioned	RB VBD	1	0
+360_restraunt	CD NN	1	0
+get_the_hell_out	DT DT VB DT	1	0
+in_love_with	IN NN IN	1	0
+home~renovation	NN NN	1	0
+any_longer	RB RBR	1	0
+mac_and_cheese	NN CC NN	1	0
+is_a_nice_touch	DT VBZ DT JJ	1	0
+stepped_up_to_the_plate	TO DT DT VBD RP	1	0
+gare_du_nord	NNP NNP NNP	1	0
+please_with	IN JJ	1	0
+fran_pcs	NNP NNPS	1	0
+went_the_extra_mile	VBD DT JJ NN	1	0
+thank_god	VBP NNP	1	0
+house_of_joy_chinese_restaurant	NN IN NNP NNP NNP	1	0
+blooming_onion	VBG NN	1	0
+written_in_stone	VBN IN NN	1	0
+the_law_offices_of_dale_gribow	DT NN NNS IN NNP NNP	1	0
+one_star	CD NN	1	0
+go_the_extra_mile	VB DT JJ NN	1	0
+drug~seeker	NN NN	1	0
+veggie_dogs	NN NNS	1	0
+can_not~wait	MD RB VB	1	0
+mediocre~at_best	JJ RB RBS	1	0
+rusted_out	VBN RP	1	0
+ufc_fighter	NNP NN	1	0
+is_no_more	VBZ VBZ RB	1	0
+fashion_accessories	NN NNS	1	0
+going_through	VBG IN	1	0
+chili_s	NNP POS	1	0
+on_call	IN NN	1	0
+been_through	VBN IN	1	0
+bites_the_dust	VBZ DT NN	1	0
+on_the_other_hand	IN DT JJ NN	1	0
+saginaw~,~michigan	NNP , NNP	1	0
+ted_jurek	NNP NNP	1	0
+social_security_numbers	JJ NN NNS	1	0
+high~class	JJ NN	1	0
+blue_book	NNP NNP	1	0
+warmed_up	VBN RP	1	0
+cuts_down	VBZ RP	1	0
+driving_in	VBG RB	1	0
+out_of~the~way	DT IN IN IN	1	0
+drug~seekers	NN NNS	1	0
+on_hold	IN NN	1	0
+checked_back	VBD RB	1	0
+in_essence	IN NN	1	0
+depending_on	VBG IN	1	0
+left_a_lot_to_be_desired	VBD DT NN TO VB VBN	1	0
+here_'s_the_scoop	RB VBZ DT NN	1	0
+doing_business_with	VBG NN IN	1	0
+allen_tire	NNP NNP	1	0
+do~n't~even~think~about	VBP RB RB VB IN	1	0
+holy_cow	JJ NN	1	0
+oxford_,_england	NNP , NNP	1	0
+must~read	MD VB	1	0
+kansas_city	NNP NNP	1	0
+pulled_over	VBN RB	1	0
+locker_room	NN NN	1	0
+in_need_of	IN NN IN	1	0
+concrete~facts	JJ NNS	1	0
+goes_through	VBZ IN	1	0
+filler_vegetables	NN NNS	1	0
+professional_help	JJ NN	1	0
+sun_toyota	NNP NNP	1	0
+gas_mileage	NN NN	1	0
+shrimp_satay	NN NN	1	0
+call_in	VB RP	1	0
+ran_rough	VBD RB	1	0
+arancini_di_riso	NN NN NN	1	0
+holiday_dinner	NN NN	1	0
+out_-_of_-_place	IN HYPH HYPH IN HYPH HYPH NN HYPH HYPH	1	0
+richard_joule	NNP NNP	1	0
+hitting_up	VBG RP	1	0
+these_days	DT NNS	1	0
+rub_it_it	VB PRP PRP	1	0
+feel_like_it	VBP IN PRP	1	0
+vintage_hostel	NNP NNP	1	0
+grammar_structure	NN NN	1	0
+sheet_metal	NN NN	1	0
+test_drives	NN NNS	1	0
+all_round	RB RB	1	0
+without_a_doubt	IN DT NN	1	0
+amelia_gentle_dentistry	NNP NNP NNP	1	0
+computer_people	NN NNS	1	0
+came_and_went	CC VBD CC	1	0
+ncaa_final_4	NNP JJ CD	1	0
+spaghetti_alla_barese	NN NN NN	1	0
+plan~of~action	NN IN NN	1	0
+spot_on	JJ JJ	1	0
+strobe_light	NN NN	1	0
+hr_office	NNP NNP	1	0
+buckingham_condominiums	NNP NNPS	1	0
+sitting_around	VBG RB	1	0
+checked_on	VBD IN	1	0
+came_time	VBD NN	1	0
+leave_it_at_that	VB PRP IN DT	1	0
+yet_again	RB RB	1	0
+bayside_chiropractic	NNP NNP	1	0
+local~authorities	JJ NNS	1	0
+get_in_touch_with	IN VB IN NN	1	0
+cigar_lounge	NN NN	1	0
+top_-_ranked	NN HYPH VBN	1	0
+enchilada_sauce	NN NN	1	0
+second_chance	JJ NN	1	0
+aortic_stenosis	JJ JJ	1	0
+west_valley	NNP NNP	1	0
+to_go~box	TO VB NN	1	0
+law_offices_of_armando_villega	NNP NNPS IN NNP NNP	1	0
+whether_or_not	IN CC RB	1	0
+team_texas_construction	NNP NNP NNP	1	0
+prudential_steamboat_realty	NNP NNP NNP	1	0
+carried_out	VBD RP	1	0
+has~come~a~long~way	VBZ VBN DT JJ NN	1	0
+give_and_take	NN CC NN	1	0
+david_bundren	NNP NNP	1	0
+toned_down	VBN RP	1	0
+put_on_hold	VBN IN NN	1	0
+add_insult_to_injury	VB NN IN NN	1	0
+was~wrong_with	VBD JJ IN	1	0
+family_business	NN NN	1	0
+next_-_door_neighbor	JJ HYPH NN NN	1	0
+quite~a_while	RB PDT DT	1	0
+sales_person	NN NNS	1	0
+the_gables	DT DT	1	0
+on_line	IN IN	1	0
+short_with	JJ IN	1	0
+wal_mart	NNP NNP	1	0
+dead_on	JJ JJ	1	0
+got~yelled_at	VBD VBN IN	1	0
+take_all_of	VB DT IN	1	0
+united_air_duct	NNP NNP NNP	1	0
+wait~person	NN NN	1	0
+tiger_heating	NNP NNP	1	0
+presented_with	IN VBN	1	0
+taking_care_of	IN VBG NN	1	0
+india_heritage_tours	NNP NN NNS	1	0
+break_the_bank	DT VB DT	1	0
+come_out	VB RB	1	0
+wedding_gallery	NNP NNP	1	0
+tell_the_truth	VB DT NN	1	0
+come_down	VB RB	1	0
+had_a_problem_with	VBD DT NN IN	1	0
+solana_beach	NNP NNP	1	0
+scrap_metal	NN NN	1	0
+hold_up	VB RP	1	0
+well_known	RB VBN	1	0
+all_kidding_aside	DT NN RB	1	0
+get_a_flat	VBP DT NN	1	0
+referring_to	VBG IN	1	0
+one_more_thing	CD JJR NN	1	0
+in_deed	IN GW	1	0
+were_out_of	VBD IN IN	1	0
+on_my_way	IN PRP$ NN	1	0
+do_n't_even_get_me_started	VBP RB RB VB PRP VBN	1	0
+2004_x_-_type	CD NN HYPH NN	1	0
+in_addition~to	IN NN IN	1	0
+hoa_salon	NNP NNP	1	0
+bay_ridge	NNP NNP	1	0
+i~might~add	PRP MD VB	1	0
+car_accident	NN NN	1	0
+number_1	NN CD	1	0
+hair~style	NN NN	1	0
+record_label	NN NN	1	0
+springfield_,_il	NNP , NNP	1	0
+i_move_ca_-_los_angeles_movers	PRP PRP VBP NNP HYPH NNP NNP	1	0
+bon_appetit	UH UH	1	0
+that_'s_amore	DT VBZ NNP	1	0
+hustle_and_bustle	NN CC NN	1	0
+gold_coast	NNP NNP	1	0
+atlantic_wireless	NNP NNP	1	0
+new_yorkedness	NN NN	1	0
+great_deal_of	JJ NN IN	1	0
+high_-_rise	JJ HYPH NN	1	0
+able~and~willing	CC JJ CC	1	0
+ten_stars$1	CD	1	0
+based_in	VBN IN	1	0
+go_ahead	VB RB	1	0
+getting_older	VBG JJR	1	0
+a_ward_dance_centre	GW NNP NNP NNP	1	0
+thought~of	VBD IN	1	0
+auto_shops	NN NNS	1	0
+yampa_valley	NNP NNP	1	0
+travels~the~world	DT VB DT	1	0
+satellite_tv	NN NN	1	0
+sardine_can	NN NN	1	0
+just_like_family	NNP NNP NNP	1	0
+french_tips	JJ NNS	1	0
+craft_wonderland	NN NN	1	0
+surprised_at	IN JJ	1	0
+in_this_day_and_age	IN DT NN CC NN	1	0
+proud~owner	JJ NN	1	0
+wine_tasting	NN NN	1	0
+down_side	NN NN	1	0
+windsheild_washer_fluid	NN NN NN	1	0
+caffe_bella_italia	NNP NNP NNP	1	0
+roger_m.	NNP NNP	1	0
+juno_and_open	NNP CC NNP	1	0
+happier_with	JJR IN	1	0
+dr._faris	NNP NNP	1	0
+rachel_mcinnis	NNP NNP	1	0
+on_a_budget	IN DT NN	1	0
+fried_plantains	VBN NNS	1	0
+at_peace	IN NN	1	0
+spring_rolls	NNS NN	1	0
+have~something~to~hide	VBP NN TO VB	1	0
+electric_outlet	JJ NN	1	0
+3_fold	CD NN	1	0
+up~-~and~-~down	JJ HYPH HYPH CC HYPH HYPH JJ	1	0
+tight_corners	JJ NNS	1	0
+mackinaw_tourist	NNP NNP	1	0
+a_class_garage_doors_dr_services	NNP NNP NNP NNPS NN NNS	1	0
+get_along_with	VB RB IN	1	0
+room~key	NN NN	1	0
+get_evened_up	VB VBN RP	1	0
+german_bedding	JJ NN	1	0
+common~misconception	JJ NN	1	0
+damage_to	NN IN	1	0
+the_looking_glass	DT NNP NNP	1	0
+made_a_point~of	VBD DT NN IN	1	0
+phet_and_g&g_automotive	NNP CC NNP NNP	1	0
+drs._ali	NNP NNP	1	0
+mom_/_pop	NNP HYPH NNP	1	0
+la_crosse	NNP NNP	1	0
+samantha_fox	NNP NNP	1	0
+ice_machine	NN NN	1	0
+sticks_up	VBZ RP	1	0
+patio_world	NNP NNP	1	0
+giovanni_ristorante	NNP NNP	1	0
+no~big_deal	DT JJ NN	1	0
+healthy_dose	JJ NN	1	0
+window_panes	NN NNS	1	0
+stick_to	VB IN	1	0
+laid_-_back	JJ HYPH JJ	1	0
+playing~music	VBG NN	1	0
+hit_or_miss	NN CC NN	1	0
+great~guy	JJ NN	1	0
+saratoga_springs	NNP NNPS	1	0
+massage~therapist	NN NN	1	0
+take_away	NN NN	1	0
+half_truths	JJ NNS	1	0
+get~in_touch~with	VB IN NN IN	1	0
+renton~wa	NNP NNP	1	0
+added~bonus	VBN NN	1	0
+a_nervous_wreck	DT DT JJ	1	0
+had_a_pedicure	VBD DT NN	1	0
+off_road~parking	IN NN NN	1	0
+taken_off	VBN RP	1	0
+test_drove	NN VBD	1	0
+repeat_customers	JJ NNS	1	0
+midtown_reston	NNP NNP	1	0
+us_news	NNP NNP	1	0
+dealing_in	VBG IN	1	0
+shopping_center	NN NN	1	0
+bathing_suit	NN NN	1	0
+san_francisco	NNP NNP	1	0
+catch_up	VB RP	1	0
+for~free	IN JJ	1	0
+argued_with	VBD IN	1	0
+happened_on_to	VBD IN IN	1	0
+class_act	NN NN	1	0
+new_yorker	NNP NNP	1	0
+get_mad_at	VBP JJ IN	1	0
+service_papers	NN NNS	1	0
+sit_-_abouts	NN HYPH NNS	1	0
+had_a_problem	VBD DT NN	1	0
+n't~let~that~fool~you	RB VB DT VB PRP	1	0
+big_toes	JJ NNS	1	0
+scott_larson	NNP NNP	1	0
+suzanne_,_vancouver	NNP , NNP	1	0
+family_practice	NN NN	1	0
+african_-_american	JJ HYPH JJ	1	0
+at~all~times	IN DT NNS	1	0
+listens_to	VBZ IN	1	0
+get_jack	VB VBN	1	0
+2010_hyundai_genesis	CD NNP NNP	1	0
+above_all	IN DT	1	0
+nail_drill	NN NN	1	0
+living_room	NN NN	1	0
+associated~with	VBN IN	1	0
+lo_mein	NN NN	1	0
+smokehouse_burger	NN NN	1	0
+4_-_ever	GW HYPH RB	1	0
+happened_in	VBD RB	1	0
+fallen_in_luv_with	VBN IN NN IN	1	0
+gift_card	NN NN	1	0
+lake_st._louis	NNP NNP NNP	1	0
+been_there_for	VBN RB IN	1	0
+grocery_shop	NN NN	1	0
+steep~prices	JJ NNS	1	0
+bench_test	NN VB	1	0
+britt_'s	NNP POS	1	0
+ball_square_cafe	NNP NNP NNP	1	0
+art_school	NN NN	1	0
+kid_meal	NN NN	1	0
+tried_to_tell	VBD TO VB	1	0
+stop_making_sense	VB VBG NNP	1	0
+the_next_big_thing	DT JJ JJ NN	1	0
+santa_rosa	NNP NNP	1	0
+think_so	VB RB	1	0
+birthday_parties	NN NNS	1	0
+brain_dead	NN JJ	1	0
+tea~backs	NN NNS	1	0
+service_fee	NN NN	1	0
+barn_dance	NN NN	1	0
+sweet_as_pie	JJ IN NN	1	0
+comes_through	VBZ RP	1	0
+environmentally~conscious	RB JJ	1	0
+pat_testing	NNP NNP	1	0
+money_hungry	NN JJ	1	0
+give_up	VB RP	1	0
+2010_genesis	CD NNP	1	0
+feel_like_a_number	VB IN DT NN	1	0
+in_and_out	NNP CC NNP	1	0
+allentown_post_office	NNP NNP NNP	1	0
+garbage_bags	NNS NN	1	0
+were_in_for_a_treat	VBD IN IN DT NN	1	0
+kc_chiefs	NNP NNPS	1	0
+shower_heads	NN NN	1	0
+around~the~edges	DT IN DT	1	0
+adding~to	VBG IN	1	0
+london_aquarium	NNP NNP	1	0
+were_the_epitome_of	DT VBD DT NN	1	0
+got_to_me	TO VBD IN	1	0
+identity_theft	NN NN	1	0
+new_york_pizza	NNP NNP NN	1	0
+c'm_on	VB RB	1	0
+mezza_luna's	NN NNS	1	0
+tea_spoon	NN NN	1	0
+cup_of_coffee	NN IN NN	1	0
+jamaica_way	NNP NNP	1	0
+ball_pit	NN NN	1	0
+buffalo_wings	NNP NNS	1	0
+cleaning_lady	NN NN	1	0
+the_world_revolves_around	DT NN VBZ IN	1	0
+mobile_number	NN JJ	1	0
+reeks_of	VBZ IN	1	0
+ralph_'s	NNP POS	1	0
+get_in_the_door	DT DT DT VB	1	0
+quite_a_bit	PDT DT NN	1	0
+stokes_street	NNP NNP	1	0
+started_out	VBD RP	1	0
+easy~mark	JJ NN	1	0
+family~oriented	NN JJ	1	0
+was_a_no_brainer	VBD DT NN NN	1	0
+costumer_service	NN NN	1	0
+high_class	JJ NN	1	0
+summer~vacations	NN NNS	1	0
+go_out_of_business	VB IN IN NN	1	0
+right~then~and~there	RB RB CC RB	1	0
+was_a_nightmare	VBD DT NN	1	0
+take_time_off_of	VB NN IN IN	1	0
+rod_jacobsen	NNP NNP	1	0
+cycle_city	NNP NNP	1	0
+one_by_one	CD CD IN	1	0
+a_little_bit	DT JJ NN	1	0
+shell_out	VB RP	1	0
+more_often_than_not	RBR RB IN RB	1	0
+good_luck	JJ NN	1	0
+branch_out	VB RP	1	0
+stretch_of_the_imagination	NN IN DT NN	1	0
+wash_'n_fold	VB CC VB	1	0
+car_wash	NN NN	1	0
+fire_alarm	NN NN	1	0
+console_pros	NNP NNPS	1	0
+olive_garden	NNP NNP	1	0
+hung_up_on	VBD RP IN	1	0
+get~taken_in	VB VBN RB	1	0
+steele_electric	NNP NNP	1	0
+hands_on	NNS RB	1	0
+take_it	VB PRP	1	0
+out_to_eat	RB TO VB	1	0
+found~a~spot	VBD DT NN	1	0
+interior_mall	NNP NNP	1	0
+sure_enough	RB RB	1	0
+went_with	VBD IN	1	0
+drop_off	VBP RP	1	0
+sales_pitch	NNS NN	1	0
+price_tag	NN NN	1	0
+set_out	VBD RP	1	0
+good~or~bad	JJ CC JJ	1	0
+you_ca_n't_beat_this	PRP PRP MD RB VB	1	0
+stands_the_test_of_time	VBZ DT NN IN NN	1	0
+waiting_room	NN NN	1	0
+spring_mountain	NNP NNP	1	0
+tussey_mountain_tree_plantation	NNP NNP NNP NNP	1	0
+over_charged	AFX VBN	1	0
+buyer~beware	NN VB	1	0
+on_shelf	IN NN	1	0
+hang_out	VB RP	1	0
+old_time	JJ NN	1	0
+lawrence~,~ks	NNP , NNP	1	0
+who_gives_a_crap	DT WP VBZ DT	1	0
+braman_honda	NNP NNP	1	0
+behind_the_wheel	IN DT NN	1	0
+taking_into_account	VBG IN NN	1	0
+scharffen_berger	NNP NNP	1	0
+michelin_star	NNP NN	1	0
+grandma_slice	NN NN	1	0
+too_much_trouble	RB JJ NN	1	0
+east_coast	JJ NN	1	0
+primary_care	JJ NN	1	0
+trust_the_midas_touch	VB DT NNP NN	1	0
+up_to_date	IN IN NN	1	0
+witness_protection_program	NN NN NN	1	0
+hard~working	RB VBG	1	0
+sit_up	VB RP	1	0
+pass_the_time	VB DT NN	1	0
+sofa_bed	NN NN	1	0
+out_of_control	IN IN NN	1	0
+back_and_forth	RB CC RB	1	0
+dr._olbina	NNP NNP	1	0
+utc_la_jolla	NNP NNP NNP	1	0
+out_front	RB RB	1	0
+canyon_road	NNP NNP	1	0
+in_detail	IN NN	1	0
+jiffy_lube	NNP NNP	1	0
+down_the_road	IN DT NN	1	0
+mani_pedi	NN NN	1	0
+test_-_drive	NN HYPH VB	1	0
+adelphi_hotel	NNP NNP	1	0
+with_good_reason	IN JJ NN	1	0
+get_by	VB RB	1	0
+center_city_philly	NNP NNP NNP	1	0
+desperate_for	JJ IN	1	0
+spreading_the_word	DT VBG DT	1	0
+live_through	VB IN	1	0
+enough_said	JJ VBN	1	0
+front_door	JJ NN	1	0
+chain~restaurant	NN NN	1	0
+kids_first_west_chester	NNPS RB NNP NNP	1	0
+holderness_road	NNP NNP	1	0
+wildwood_,_nj	NNP , NNP	1	0
+kid_s_meals	NN POS NNS	1	0
+to_talking	IN VBG	1	0
+sorted_out	VBD RP	1	0
+parking_spaces	NN NNS	1	0
+behind_the_scenes	DT DT IN	1	0
+buyer_beware	NN VB	1	0
+wildernest_inn	NNP NNP	1	0
+get_sucked_into	VB VBN IN	1	0
+chicken_cordon_-_blu	NN NN HYPH NN	1	0
+trying_to_say	TO VBG TO	1	0
+for~nothing	IN NN	1	0
+got_confused	VBD JJ	1	0
+middle_aged	JJ JJ	1	0
+worht_every_penny	JJ DT NN	1	0
+michael_chestney	NNP NNP	1	0
+nice~and~clean	JJ CC JJ	1	0
+2_stars	CD NNS	1	0
+ever_again	RB RB	1	0
+richmond_city_limits	NNP NN NNS	1	0
+bramen_honda	NNP NNP	1	0
+is_up	VBZ RB	1	0
+hop_hing	NNP NNP	1	0
+inford_media	NNP NNP	1	0
+home_-_excel	NNP HYPH NNP	1	0
+on_the_cheap	IN DT JJ	1	0
+wood_grain	NN NN	1	0
+at_fault	IN NN	1	0
+purple_goose	NNP NNP	1	0
+south_florida	JJ NNP	1	0
+adventure_tour	NN NN	1	0
+in~and~around	IN CC RB	1	0
+any_more	RB RBR	1	0
+bright_star_tours_and_travels	NNP NNP NNPS CC NNPS	1	0
+frank_mcclelland	NNP NNP	1	0
+toyota_venza	NNP NNP	1	0
+advanced_auto_parts	NNP NNP NNP	1	0
+out_standing	GW JJ	1	0
+my_self	GW PRP	1	0
+over_telephone	IN NN	1	0
+southern~californian	JJ NNP	1	0
+christmas_trees	NNP NNS	1	0
+a_touch	DT NN	1	0
+you_'ve_got_maids	PRP VBP VBN NNPS	1	0
+locally_owned	RB VBN	1	0
+took_a_chance	VBD DT NN	1	0
+contact_information	NN NN	1	0
+sound_off	VBP RP	1	0
+panic_attack	NN NN	1	0
+corking_fee	NN NN	1	0
+james_bond	NNP NNP	1	0
+at_times	IN NNS	1	0
+be_up	VB RB	1	0
+hellada_gallery	NNP NNP	1	0
+at_all_costs	IN DT NNS	1	0
+meet_with	VB IN	1	0
+qwest_dsl	NNP NNP	1	0
+team_building	NN NN	1	0
+quite~a_few	PDT DT JJ	1	0
+chocolate_mousse	NN NN	1	0
+prestige_hino	NNP NNP	1	0
+back_office	JJ NN	1	0
+nt~bother	RB VB	1	0
+sit_down	VB RB	1	0
+for_instance	IN NN	1	0
+suck_at	VBP IN	1	0
+get_away_with	VB RB IN	1	0
+talked_about	VBN IN	1	0
+kal_tire	NNP NNP	1	0
+in~the~process~of	IN DT NN IN	1	0
+falling~off	VBG RB	1	0
+lots~more	NNS JJR	1	0
+bc_/_bs	NNP HYPH NNP	1	0
+better_business_bureau	JJR NN NN	1	0
+the_best_part_of	DT DT JJS NN	1	0
+flying_squirrels	NNP NNPS	1	0
+an_arm_and_a_leg	CC DT NN CC DT	1	0
+many_thanks	JJ NNS	1	0
+took_a_bite	VBD DT NN	1	0
+believe_in~yourself	VB IN PRP	1	0
+subway_sandwiches	NNP NNPS	1	0
+mrs._tolchin	NNP NNP	1	0
+gone_through	VBN IN	1	0
+legitimately_concerned	RB JJ	1	0
+wife_and_kids	NN CC NNS	1	0
+wonderful_wild_wildernest_inn	JJ JJ NNP NNP	1	0
+weight_loss	NN NN	1	0
+last_name	JJ NN	1	0
+dumb_friends_league	NNP NNPS NNP	1	0
+better~than~ever	JJR IN RB	1	0
+nailed_it	VBD PRP	1	0
+checked_in	VBD RP	1	0
+refills_on	NNS IN	1	0
+to_start_off_with	TO VB RP RB	1	0
+sense_of_humour	NN IN NN	1	0
+fend_for	VB IN	1	0
+know_their_stuff	VBP PRP$ NN	1	0
+family~owned	NN VBN	1	0
+jack_-s	NNP POS	1	0
+showroom_floor	NN NN	1	0
+sub_par	AFX JJ	1	0
+did~services	VBD NNS	1	0
+pull_-_up	VB RB NN	1	0
+make_the_drive	VB DT NN	1	0
+member_card	NN NN	1	0
+super_8	NNP NNP	1	0
+the_rams	DT NNPS	1	0
+spill_the_whisky	VB DT NNP	1	0
+is_a_plus	VBZ DT NN	1	0
+or_else	CC RB	1	0
+san_mateo_avenue	NNP NNP NNP	1	0
+the_holy_grail	DT JJ NN	1	0
+big~deal	JJ NN	1	0
+tortilla_soup	NN NN	1	0
+walking~distance	NN NN	1	0
+nw_hospital	NNP NN	1	0
+dupont_circle	NNP NNP	1	0
+week_-_ends	NN HYPH NNS	1	0
+flagship_cvts	NNP NNP	1	0
+ham_'s	NNP POS	1	0
+comes~for~a~visit	IN VBZ IN DT	1	0
+went_along	VBD RB	1	0
+stuck_with	VBN IN	1	0
+happen_to	VB TO	1	0
+messed_up	VBN RP	1	0
+give_it_shot	VB PRP NN	1	0
+south_bend	NNP NNP	1	0
+sacre_coeur	NNP NNP	1	0
+cj~and_company	NNP CC NN	1	0
+nitrogen_love_stout	NNP NNP NNP	1	0
+professional_driving_school	NNP NNP NNP	1	0
+american_cheese	NN JJ	1	0
+at_which_point	IN WDT NN	1	0
+hot~towel	JJ NN	1	0
+with_flying_colors	IN VBG NNS	1	0
+marek_dzida	NNP NNP	1	0
+staten_island_computers	NNP NNP NNPS	1	0
+fuel_economy	NN NN	1	0
+men_s_and_boys_barbers	NNS POS CC NNS NNS	1	0
+evergreen_parkway	NNP NNP	1	0
+boothbay_harbor	NNP NNP	1	0
+can~not~be~beat	MD RB VB VBN	1	0
+in_particlular	IN JJ	1	0
+oil~pressure	NN NN	1	0
+working_on	VBG IN	1	0
+on_a_whim	IN DT NN	1	0
+time_of_year	NN IN NN	1	0
+ashdown_horse_transport	NNP NNP NNP	1	0
+dos_based	NNP VBN	1	0
+noble_driving_school	NN NN NN	1	0
+out_of_date	IN IN NN	1	0
+give_a_crap~about	VBP DT NN IN	1	0
+from~hell	IN NNP	1	0
+hung_up	VBD RP	1	0
+rocky_m._lange	NNP NNP NNP	1	0
+computer_network	NN NN	1	0
+mr._pozza	NNP NNP	1	0
+most_of_all	RBS IN DT	1	0
+in_spite_of	IN NN IN	1	0
+bright_star_tours	NNP NNP NNPS	1	0
+back_to_back	TO TO NN NN IN NN NN	1	0
+high_dollar	JJ NN	1	0
+searching_high_and_low	VBG RB CC RB	1	0
+gulf_coast_siding	NNP NNP NNP	1	0
+ready_for	JJ IN	1	0
+like_a_human_being	IN DT JJ NN	1	0
+start_to_finish	TO NN IN	1	0
+pulled_out	VBD RB	1	0
+red_curry	NN JJ	1	0
+nail_polish	NN NN	1	0
+student_tour_india_package	NNP NNP NNP NNP	1	0
+dropped_the_issue	DT VBD DT	1	0
+quality~of~care	NN IN NN	1	0
+wenatchee_hills	NNP NNS	1	0
+hands_-_down	NNS HYPH RB	1	0
+shut_down	VBN RP	1	0
+town_bagel	NNP NNP	1	0
+ralph_'s_market	NNP POS NNP	1	0
+caldwell_insurance	NNP NNP	1	0
+stevens_creek	NNP NNP	1	0
+turn_out	VB RP	1	0
+thumbs_up	NNS RB	1	0
+tried_out	VBN RP	1	0
+hot_iron	NNP NNP	1	0
+smoke_shop	NN NN	1	0
+world_'s_finest_donair	NNP POS NNP NNP	1	0
+at_the_last_minute	IN DT JJ NN	1	0
+walk_up	VB IN	1	0
+drving_up	VBG RB	1	0
+make_it~back	VB PRP RB	1	0
+shrimp_scampi	NN NN	1	0
+belgian_tavern	JJ NN	1	0
+kusal_goonewardena	NNP NNP	1	0
+honka_log_homes	NNP NNP NNPS	1	0
+pure_breed	JJ NN	1	0
+business_cards	NN NNS	1	0
+color_me_phat	VB PRP JJ	1	0
+believe_me	VB PRP	1	0
+dress_maker	NN NN	1	0
+in~no~time	RP IN DT	1	0
+bistro_tallulah	NNP NNP	1	0
+peter_barrett	NNP NNP	1	0
+cope_with	VB IN	1	0
+stood_for	VBD IN	1	0
+sr_-_22	NN HYPH CD	1	0
+scordia~,~sicily	NNP , NNP	1	0
+new_china	NNP NNP	1	0
+fun_and_games	NN CC NNS	1	0
+waiting_area	NN NN	1	0
+common_courtesy	JJ NN	1	0
+karol_bagh	NNP NNP	1	0
+judge_of	NN IN	1	0
+chicken_fingers	NN NNS	1	0
+black_belt	JJ NN	1	0
+back_aches	NN NNS	1	0
+discuss~the~matter	VB DT NN	1	0
+grow_up	VB RP	1	0
+4_stars	CD NNS	1	0
+dogwood_grilled_cheese	NN VBN NN	1	0
+just~missed	RB RB	1	0
+auto_glass~repair~shop	NN NN NN NN	1	0
+first_glass_window	NNP NNP NNP	1	0
+a_-_team	NN HYPH NN	1	0
+bbq_chicken_pizza	NN NN NN	1	0
+re_going_to	VBP VBG TO	1	0
+talks_to	VBZ IN	1	0
+gold_award	NN NN	1	0
+rhino_700	NNP NNP	1	0
+tintman_nationwide_tints_ltd	NNP NNP NNPS NNP	1	0
+concerned_with	JJ IN	1	0
+to_be_honest	TO VB JJ	1	0
+2009_xf	CD NNP	1	0
+taken_out	VBN RB	1	0
+led_the_way	VBD DT NN	1	0
+running_on	VBG IN	1	0
+easy~to~work_with	JJ TO VB IN	1	0
+a_least	RB RBS	1	0
+gets_the_job_done	VBZ DT NN JJ	1	0
+on_the_way	DT IN DT	1	0
+medium_duty	NN NN	1	0
+speaking_with	VBG IN	1	0
+get_over~it	VB IN PRP	1	0
+so_-_so	JJ JJ HYPH	1	0
+kwik_kar	NNP NNP	1	0
+caught_my_eye	VBD PRP$ NN	1	0
+well~spent	RB VBN	1	0
+clark_county_school_district	NNP NNP NNP NNP	1	0
+sleep~through~the~night	VB IN DT NN	1	0
+mr._guerra	NNP NNP	1	0
+spare_ribs	NN NNS	1	0
+chennai~,~india	NNP , NNP	1	0
+looks_forward_to	VBZ RB IN	1	0
+god_forbid	NNP VB	1	0
+state_of_the_art	NN IN DT NN	1	0
+no_joke	DT NN	1	0
+gain_entry	VB NN	1	0
+kobey_s	NNP POS	1	0
+destiny_allison	NNP NNP	1	0
+stuck_up	VBN RP	1	0
+checking_for	VBG IN	1	0
+dining~room~table	NN NN NN	1	0
+vic_canever	NNP NNP	1	0
+worked_for	VBD IN	1	0
+can_not_wait	MD RB VB	1	0
+but_then_again	CC RB RB	1	0
+fell~head_over_heels	VBD NN IN NNS	1	0
+sticker_price	NN NN	1	0
+locust_street	NNP NNP	1	0
+heaven~on~earthhhhhhh	NN IN NNP	1	0
+to_my_surprise	IN PRP$ NN	1	0
+years~running	NNS VBG	1	0
+look_know_further	VB RB RBR	1	0
+gem~of~a	NN IN DT	1	0
+a_class_garage_doors	NNP NNP NNP NNPS	1	0
+suck_it_up	PRP VB PRP	1	0
+steven_starr	NNP NNP	1	0
+go_for_it	IN IN VB	1	0
+in_terms	IN NNS	1	0
+bloody_mary~mix	JJ NN NN	1	0
+chocolate_lava_cake	NN NN NN	1	0
+bmw_z3	NNP NNP	1	0
+national_home_furnishings	NNP NNP NNP	1	0
+green_bay	NNP NNP	1	0
+lo_and_behold	UH CC UH	1	0
+troy~,~mo	NNP , NNP	1	0
+amusement_parks	NN NNS	1	0
+on_the_planet	DT IN DT	1	0
+whole~new_lease_on_life	RB JJ NN IN NN	1	0
+bar_and_grill	NN CC NN	1	0
+spears_roofing	NNP NNP	1	0
+dead~battery	JJ NN	1	0
+a_must	DT NN	1	0
+can_not_say_enough	MD RB VB JJ	1	0
+assembly_line	NN NN	1	0
+bloom_legal	NNP NNP	1	0
+ms._sue	NNP NNP	1	0
+youngstown_sports_grille	NNP NNP NNP	1	0
+got_infections	VBD NNS	1	0
+pizza_hut	NNP NNP	1	0
+franklin_high_school	NNP NNP NNP	1	0
+pool_covers	NN NNS	1	0
+sort_out	VB RP	1	0
+a_hoot	DT NN	1	0
+followup~visit	NN NN	1	0
+gone_downhill	VBN RB	1	0
+are~not~to~be~missed	VBP RB TO VB VBN	1	0
+blower_fan	NN NN	1	0
+different_than	JJ IN	1	0
+t_'s_cafe	NNP POS NNP	1	0
+sad_face	JJ NN	1	0
+calling_for	IN VBG	1	0
+was_in_for_a_treat	VBD IN IN DT NN	1	0
+stainless_steel	NNP NNP	1	0
+sprecher_'s	NNP POS	1	0
+corporate~clients	JJ NNS	1	0
+key_performance_indicators	JJ NN NNS	1	0
+wisdom_teeth	NN NN	1	0
+fried_rice	VBN NN	1	0
+club_sandwich	NN NN	1	0
+military_road	NNP NNP	1	0
+egg_drop_soup	NNP NNP NNP	1	0
+stand~in_line	VB IN NN	1	0
+petting_zoo	NN NN	1	0
+a_short_time	DT DT JJ	1	0
+oh_-_so	, RB HYPH	1	0
+down_fall	GW NN	1	0
+a_good_few	DT JJ JJ	1	0
+landscape_by_hiro	NNP IN NNP	1	0
+the_willow_lounge	DT NNP NNP	1	0
+sister_in_law	NN IN NN	1	0
+tow_truck	NN NN	1	0
+on_the_market	DT IN DT	1	0
+wisconsin_ave	NNP NNP	1	0
+gotten_through	VBN IN	1	0
+solar_system	JJ NN	1	0
+a_handful	DT NN	1	0
+robin_talley	NNP NNP	1	0
+turns_out	VBZ RP	1	0
+white_pages	JJ NNS	1	0
+ice~cold~beer	JJ JJ NN	1	0
+by~the~time	IN DT NN	1	0
+front_staff	NN NN	1	0
+for_get_that	GW VB DT	1	0
+interviews~for	NNS IN	1	0
+greenfield_ave	NNP NNP	1	0
+in_the_world	DT IN DT	1	0
+mfj_inc	NNP NNP	1	0
+can~see~forever	MD VB RB	1	0
+born~and~raised	VBN CC VBN	1	0
+lightning_fast	NN JJ	1	0
+taking_time_away	VBG NN RB	1	0
+mr._villega	NNP NNP	1	0
+get_busy	VB JJ	1	0
+household~appliances	NN NNS	1	0
+canal_walk	NNP NNP	1	0
+logan_circle	NNP NNP	1	0
+falls_under	VBZ IN	1	0
+service_office	NN NN	1	0
+4_-_year_colleges	CD HYPH NN NNS	1	0
+cookie_cutter	NN NN	1	0
+has_a_clue	VBZ DT NN	1	0
+car~model	NN NN	1	0
+pack_up~and~leave	CC VB RP CC	1	0
+was_disappointed_with	VBD JJ IN	1	0
+out_of_site	IN IN NN	1	0
+fresh_design_studio	NNP NNP NNP	1	0
+dr._christopher_t._strzalka	NNP NNP NNP NNP	1	0
+over_power	GW VB	1	0
+so_called	RB VBN	1	0
+sky_pod~elevator	NN NN NN	1	0
+world_traveler	NN NN	1	0
+dr._de_barros	NNP NNP NNP	1	0
+there~'s~no~excuse_for	EX VBZ DT NN IN	1	0
+cinema_21	NNP CD	1	0
+tanglewood_apartments	NNP NNPS	1	0
+takes_time	VBZ NN	1	0
+environmentally_friendly	RB JJ	1	0
+american_pride_irrigation_&_landscaping	NNP NNP NNP CC NNP	1	0
+bradley_chevron	NNP NNP	1	0
+girls_night	NNS NN	1	0
+opera_plaza	NNP NNP	1	0
+keep_sake	NN NN	1	0
+anytime~soon	NN RB	1	0
+male_pattern_baldness	JJ NN NN	1	0
+atlanta_paperback_book_printing	NNP NNP NNP NNP	1	0
+spring_clips	NN NNS	1	0
+i_ca_nt_speak_for	PRP MD RB VB IN	1	0
+just_for_fun_fabrics	RB IN NNP NNPS	1	0
+beg_to_differ	VBP TO VB	1	0
+run_for_the_hills	VB IN DT NNS	1	0
+pie_guy	NNP NNP	1	0
+within~walking_distance	IN NN NN	1	0
+green_curry	JJ NN	1	0
+makes_sure	VBZ JJ	1	0
+pleasure~to~work_with	NN TO VB IN	1	0
+fort_smith	NNP NNP	1	0
+elite_flyers	NNP NNPS	1	0
+in_the_light	DT IN DT	1	0
+world_'s_fair_museum	NNP POS NNP NN	1	0
+to_begin_with	TO TO VB	1	0
+can~not~wait	MD RB VB	1	0
+work_week	NN NN	1	0
+well_-_done	RB HYPH JJ	1	0
+world_hats_mart	NNP NNPS NNP	1	0
+waffle_maker	NN NN	1	0
+sam_s_club	NNP POS NN	1	0
+hauled_off	VBN RP	1	0
+prime_rib	JJ NN	1	0
+take_walk_ins	VB NN NNS	1	0
+happy_new_year	JJ JJ NN	1	0
+willow_lounge	NNP NNP	1	0
+brand_new	RB JJ	1	0
+oil_tank	NN NN	1	0
+get_away	VB RB	1	0
+dr._strzalka	NNP NNP	1	0
+have~time	VB NN	1	0
+short_of_that	RB IN DT	1	0
+burch_'s_karate	NNP POS NNP	1	0
+pumpkin_spice_latte	NN NN NN	1	0
+radison_-_warwick	NNP NNP HYPH	1	0
+for_the_sake_of	IN DT NN IN	1	0
+shree_ghatkopar_bhatia_mitra_mandal	NNP NNP NNP NNP NNP	1	0
+united_air_duct_cleaning	NNP NNP NNP NNP	1	0
+kingston_upon_hull	NNP IN NNP	1	0
+take_-_out	NN HYPH NN	1	0
+william_and_mary	NNP CC NNP	1	0
+answering~questions	VBG NNS	1	0
+columbia_river	NNP NNP	1	0
+for_the_most_part	DT IN DT JJS	1	0
+egg_rolls	NN NNS	1	0
+get_to_work	TO VB IN	1	0
+neptune_platter	NNP NN	1	0
+south~philly	NNP NNP	1	0
+good_and_bad	JJ CC JJ	1	0
+i_might_add	PRP PRP MD	1	0
+sushi_lover	NNP NNP	1	0
+seth_k	NNP NNP	1	0
+invested_vanguard	VBD NNP	1	0
+srd_pat_testing	NNP NNP NNP	1	0
+eva_marie	NNP NNP	1	0
+think_of	VB IN	1	0
+bull_fighting	NN NN	1	0
+from_start_to_finish	IN NN IN NN	1	0
+blow_out	RB VBP	1	0
+anna_marie	NNP NNP	1	0
+be~put_off~by	VB VBN RP IN	1	0
+throw_out	VB RP	1	0
+nidd_design	NNP NNP	1	0
+broke_down	VBD RP	1	0
+bmw_330i	NNP NNP	1	0
+look_for	VB IN	1	0
+trying_on	VBG RP	1	0
+galleries_lafayette	NNPS NNP	1	0
+sq_ft	JJ NNS	1	0
+magic_act	NN NN	1	0
+passed_on	VBN RP	1	0
+fabric_books	NN NNS	1	0
+mrs_closs	NNP NNP	1	0
+(_989_)_755-1109	-LRB- CD -RRB- CD	1	0
+in_large_part_to	IN IN JJ NN	1	0
+hard_times	JJ NNS	1	0
+settled_for	VBD IN	1	0
+get~to~know	VBP TO VB	1	0
+ca_n't_wait	MD RB VB	1	0
+know_better	VB RBR	1	0

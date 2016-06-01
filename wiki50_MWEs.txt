@@ -1,0 +1,3227 @@
+#MWE	annotated	not-annotated
+stationary phase	20	0
+federal government	14	0
+national team	12	0
+Prime Minister	10	0
+constitutional monarchy	9	0
+Roman Catholic	7	0
+Secretary of State	7	0
+takes the role	7	0
+called for	7	1
+armor rating	6	0
+birth asphyxia	6	0
+district attorney	6	0
+family members	6	0
+season finale	6	0
+state schools	6	0
+tea ceremony	6	0
+attorney general	5	0
+brain damage	5	0
+carried out	5	0
+high school	5	0
+laser bay	5	0
+Navy SEAL	5	0
+patrol boat	5	0
+pointed out	5	0
+political economy	5	0
+program director	5	0
+royal dynasty	5	0
+series finale	5	0
+set out	5	0
+shock wave	5	0
+camp life	4	0
+catch up	4	0
+classical music	4	0
+Gonzo journalism	4	0
+Green Berets	4	0
+grew up	4	0
+Holtzman effect	4	0
+hypothermic neural rescue	4	0
+indoor season	4	0
+lives on	4	0
+neonatal researchers	4	0
+passed on	4	0
+Public Law	4	0
+secondary energy failure	4	0
+selective calling	4	0
+set up	4	0
+target chamber	4	0
+television series	4	0
+thinking machines	4	0
+took part	4	0
+video game	4	0
+whole body cooling	4	1
+looking for	4	3
+anion exchange sorbents	3	0
+arrest warrant	3	0
+Auxiliary Bishop	3	0
+best known	3	0
+call letters	3	0
+called on	3	0
+carry out	3	0
+cation exchange sorbents	3	0
+caught up	3	0
+centre city	3	0
+civil society	3	0
+class struggle	3	0
+ended up	3	0
+executive boxes	3	0
+experimental chamber	3	0
+falls in love	3	0
+FBI Special Agent	3	0
+find out	3	0
+FM Programmer	3	0
+food poisoning	3	0
+game engine	3	0
+graphic novel	3	0
+human nature	3	0
+interfering signals	3	0
+laser energy	3	0
+lead role	3	0
+light industrial	3	0
+meeting place	3	0
+neural rescue	3	0
+office holder	3	0
+pickled vegetables	3	0
+Political Science	3	0
+positively charged	3	0
+prequel trilogy	3	0
+provincial bank	3	0
+qualifying matches	3	0
+resource rights	3	0
+restoration works	3	0
+running for	3	0
+SEAL team	3	0
+secular education	3	0
+sense of humor	3	0
+short stories	3	0
+soap opera	3	0
+social relations	3	0
+soy sauces	3	0
+sports complex	3	0
+square meters	3	0
+state of the art	3	0
+taken on	3	0
+target area	3	0
+turned out	3	0
+turns on	3	0
+wheat pool	3	0
+political crisis	3	1
+religious instruction	3	1
+brand new	3	1
+religious classes	3	1
+presidential campaign	3	2
+went on	3	2
+adult brain	2	0
+angiostrongylus meningitis	2	0
+art galleries	2	0
+art gallery	2	0
+Assistant Secretary of State for Economic Affairs	2	0
+Attorney General	2	0
+audio CD	2	0
+boat crew	2	0
+brain cells	2	0
+brain protection	2	0
+breaks up	2	0
+broke down	2	0
+brought to life	2	0
+business letter	2	0
+call sign	2	0
+called out	2	0
+called upon	2	0
+came out	2	0
+campaign trail	2	0
+carried over	2	0
+carrier squelch	2	0
+cellophane noodles	2	0
+central city	2	0
+cerebral insults	2	0
+cerebral metabolism	2	0
+cerebral palsy	2	0
+chain reaction	2	0
+championship cars	2	0
+championship game	2	0
+checking on	2	0
+Chief Justice	2	0
+city centre	2	0
+Civil Rights movement	2	0
+college prospects	2	0
+commanding officer	2	0
+commit suicide	2	0
+commodity fetishism	2	0
+covenant schools	2	0
+cricket club	2	0
+cultural centers	2	0
+DC voltage	2	0
+de facto	2	0
+designated marksman 's rifle	2	0
+difficulty level	2	0
+District Attorneys	2	0
+divine worship	2	0
+Doctorat d'Etat	2	0
+documentary film	2	0
+drinking water	2	0
+economic relations	2	0
+effective range	2	0
+election campaign	2	0
+ends up	2	0
+episode order	2	0
+excitatory neurotransmitters	2	0
+executive producers	2	0
+experimental area	2	0
+faecal coliforms	2	0
+falling	2	0
+family friends	2	0
+family home	2	0
+family name	2	0
+fat pigs class	2	0
+fellow cadets	2	0
+film adaptation	2	0
+foldspace travel	2	0
+folk music	2	0
+folk musician	2	0
+followed up	2	0
+founding father	2	0
+founding member	2	0
+frying oil	2	0
+full time	2	0
+fusion power	2	0
+fusion reactions	2	0
+fusion yield	2	0
+gate controlled	2	0
+general election	2	0
+general manager	2	0
+get along	2	0
+giving up	2	0
+glass optics	2	0
+go ahead	2	0
+go by	2	0
+gone through	2	0
+government expenditures	2	0
+Green Beret	2	0
+grocery stores	2	0
+ground development	2	0
+growing up	2	0
+head cooling device	2	0
+head down	2	0
+held a degree	2	0
+hidden tracks	2	0
+Higher Diploma	2	0
+hockey matches	2	0
+Holtzman field	2	0
+human consumption	2	0
+human race	2	0
+human society	2	0
+hydrocarbon chains	2	0
+hypothermic neural rescue therapy	2	0
+Indicator organisms	2	0
+indicator organisms	2	0
+infrared light	2	0
+inner circle	2	0
+interference issues	2	0
+interstellar travel	2	0
+intracellular calcium accumulation	2	0
+junior counselor	2	0
+junior counselors	2	0
+Justices of the Peace	2	0
+kept secret	2	0
+laser amplifiers	2	0
+laser power	2	0
+lasgun beam	2	0
+left behind	2	0
+letter bomb	2	0
+literary work	2	0
+long term relationship	2	0
+look after	2	0
+made an application	2	0
+make way	2	0
+material world	2	0
+meeting up	2	0
+met up	2	0
+metal foil	2	0
+military expeditions	2	0
+military training	2	0
+Minister of Education	2	0
+Minister of Justice	2	0
+Minister of the Interior	2	0
+morning news program	2	0
+motion picture industry	2	0
+moved back	2	0
+natural science	2	0
+Nd : glass amplifiers	2	0
+Nd : glass lasers	2	0
+necrotic cell death	2	0
+negatively charged	2	0
+news department	2	0
+nuclear weapons research	2	0
+nutrient medium	2	0
+oil filtering powder	2	0
+oldies format	2	0
+only child	2	0
+only daughter	2	0
+opened up	2	0
+opposition parties	2	0
+pass on	2	0
+per capita	2	0
+pesticide use	2	0
+physical therapist	2	0
+pilot studies	2	0
+playoff semifinals	2	0
+point out	2	0
+police officer	2	0
+political economists	2	0
+political news magazine	2	0
+political party	2	0
+post-insult hypothermia	2	0
+postgraduate studies	2	0
+President of the Republic	2	0
+Prince Regent	2	0
+private property	2	0
+provincial election	2	0
+provincial government	2	0
+public opinion	2	0
+public schools	2	0
+pulled over	2	0
+pulled the plug	2	0
+put an end	2	0
+quarterback position	2	0
+radio station	2	0
+radio system	2	0
+ran for	2	0
+ranger station	2	0
+receive audio	2	0
+report card	2	0
+rice protein	2	0
+rocket engine	2	0
+romantic nationalism	2	0
+ruling class	2	0
+school newspaper	2	0
+Scientific Research	2	0
+season points	2	0
+Secretary General	2	0
+security guard	2	0
+Selective calling	2	0
+senior counselor	2	0
+serial dilutions	2	0
+set about	2	0
+set aside	2	0
+sets out	2	0
+sex theater	2	0
+shopping malls	2	0
+sluice gates	2	0
+snail meat	2	0
+solid phase extraction	2	0
+sound waves	2	0
+space pirate	2	0
+sponsorship deal	2	0
+sports editor	2	0
+sports ground	2	0
+squelch system	2	0
+staff members	2	0
+stage production	2	0
+starting position	2	0
+state of affairs	2	0
+stationary phase.	2	0
+stationary phases	2	0
+stock car races	2	0
+stock car series	2	0
+summer vacation	2	0
+surf zone	2	0
+suspensor-nullification effect	2	0
+take place	2	0
+take up	2	0
+takes credit	2	0
+taking place	2	0
+teddy bears	2	0
+television show	2	0
+test fire	2	0
+test results	2	0
+time displacement equipment	2	0
+time portal	2	0
+tone squelch	2	0
+took control	2	0
+took issue	2	0
+took up	2	0
+turn on	2	0
+turned his focus	2	0
+turned up	2	0
+turns around	2	0
+Undersecretary of the Treasury	2	0
+Vietnam veteran	2	0
+voice track	2	0
+walked out	2	0
+web site	2	0
+well developed	2	0
+well received	2	0
+went through	2	0
+wiped out	2	0
+wound up	2	0
+writing style	2	0
+yeomanry corps	2	0
+calling for	2	1
+animated series	2	1
+rural areas	2	1
+natural resources	2	1
+take care	2	1
+functional groups	2	1
+call for	2	2
+real life	2	2
+next door	2	2
+came to	2	3
+left for	2	4
+" falling off	1	0
+96 well plate	1	0
+A. M. Ph.D.	1	0
+able bodied	1	0
+academic position	1	0
+academic standards	1	0
+Academy Award-winning	1	0
+achieved a considerable success	1	0
+acid forming	1	0
+acquaintances he made	1	0
+acting job	1	0
+action trigger levels	1	0
+ad agency jingles	1	0
+administration draft legislation	1	0
+administrative law	1	0
+adult education classes	1	0
+adult life	1	0
+adult standards	1	0
+advance cheque	1	0
+advances made	1	0
+Advisor on Human Rights	1	0
+advisory board	1	0
+aerial combat scenes	1	0
+aerial pioneer	1	0
+African American	1	0
+afternoon drive	1	0
+afternoon host	1	0
+afternoon shift	1	0
+agar surface	1	0
+agrégé professor	1	0
+agricultural businessman	1	0
+agricultural college	1	0
+agricultural company	1	0
+agricultural cooperative leader	1	0
+Agricultural Engineer	1	0
+agricultural experiment station	1	0
+agricultural show	1	0
+aid station	1	0
+AIDS crisis	1	0
+AIDS epidemic	1	0
+AIDS vaccine	1	0
+AIDS virus	1	0
+air fare	1	0
+air force	1	0
+airmen staff members.	1	0
+alcohol poisoning	1	0
+aliphatic carboxylic acids	1	0
+aliphatic sulfonic acid groups	1	0
+all-news internet station	1	0
+alpha particles	1	0
+alter ego	1	0
+alternative energy	1	0
+AM frequency	1	0
+AM radio station	1	0
+amateur photographer	1	0
+Amateur radio repeaters	1	0
+amateur radio world	1	0
+amateur side	1	0
+ambulance company dispatching	1	0
+ambulant disabled	1	0
+American football match	1	0
+amine groups	1	0
+amino acid extraction process	1	0
+amino groups	1	0
+amplification system	1	0
+amplifier disks	1	0
+amplifier glass	1	0
+Analytical laboratories	1	0
+anarchist communism	1	0
+ancient times	1	0
+android nun	1	0
+Aniline blue	1	0
+animal experiments	1	0
+animal models	1	0
+animal specimens	1	0
+animal tissue	1	0
+animation / cartooning historian	1	0
+anime series	1	0
+anion exchange	1	0
+anion exchange cartridge	1	0
+Anion exchange sorbents	1	0
+annual economic growth	1	0
+annual subsidy	1	0
+anti-corruption team	1	0
+anti-faith bias	1	0
+anti-government demonstrations	1	0
+anti-oxidant system	1	0
+anti-Vietnam War effort	1	0
+anti-war activism	1	0
+anti-war protests	1	0
+AOT instructor	1	0
+aqueous solution	1	0
+aqueous solutions	1	0
+are better off	1	0
+army drill hall	1	0
+art museum	1	0
+art schools	1	0
+arterial route	1	0
+arterial routes	1	0
+article of faith	1	0
+artificial intelligence	1	0
+artist hermit	1	0
+artistic expression	1	0
+asked	1	0
+asked forgiveness	1	0
+assault rifle	1	0
+asset administration	1	0
+assistant coach	1	0
+assistant editor	1	0
+assistant programmer	1	0
+Assistant United States Attorney	1	0
+assisted living home	1	0
+association football stadium	1	0
+associative life	1	0
+athletics meetings	1	0
+atmospheric gases	1	0
+ATP assay	1	0
+ATP test	1	0
+ATP tests	1	0
+attack patterns	1	0
+attempt was made	1	0
+attempted murder.	1	0
+attorney general candidacy	1	0
+attracted notice	1	0
+attracting notice	1	0
+audio CDs	1	0
+audio channel	1	0
+audio muting control voltage	1	0
+audio output	1	0
+audio tracks	1	0
+audit findings	1	0
+audit investigations	1	0
+automobile accident	1	0
+automobile components	1	0
+automobile repair company	1	0
+aviation-cadet program	1	0
+away fans	1	0
+Axis power	1	0
+baby bonnet	1	0
+baby formula	1	0
+baccalauréat degree	1	0
+bachelor of arts degree	1	0
+back child support	1	0
+back country.	1	0
+back lot	1	0
+back pack	1	0
+background areas	1	0
+background check	1	0
+background information	1	0
+backing away	1	0
+Backing off	1	0
+bacterial growth	1	0
+bacterial species	1	0
+Bacteriological water analysis	1	0
+balanced out	1	0
+ballroom dancing.	1	0
+band openings	1	0
+bank bag	1	0
+bank branches	1	0
+bank charter	1	0
+banqueting facilities	1	0
+Barnes Dance	1	0
+barrel length	1	0
+barrier penetration	1	0
+base stations	1	0
+baseball games	1	0
+bathroom fittings manufacturers	1	0
+battle front	1	0
+battle strategies	1	0
+battle weary	1	0
+be away	1	0
+beam bay	1	0
+beamline room	1	0
+bear hug	1	0
+Beat culture	1	0
+beat each other	1	0
+best-selling author	1	0
+bestselling author	1	0
+better known	1	0
+big bang	1	0
+big head disease	1	0
+big screen	1	0
+bile salts	1	0
+Bile salts	1	0
+biological concentration	1	0
+biological energy	1	0
+Birth Asphyxia	1	0
+birth name	1	0
+black holes	1	0
+blew	1	0
+blog entries	1	0
+blood bath	1	0
+blood pudding	1	0
+blood ritual	1	0
+blotter acid	1	0
+blown apart	1	0
+blue note	1	0
+board of directors	1	0
+boarding school	1	0
+bodily harm	1	0
+body armor	1	0
+body bag	1	0
+body cooling	1	0
+body count	1	0
+body temperature	1	0
+body temperatures	1	0
+booby trapped	1	0
+book offers	1	0
+book reviewer	1	0
+book reviews	1	0
+boom mikes	1	0
+boss fight	1	0
+boss fights	1	0
+botanical garden	1	0
+bottle labels	1	0
+boundary limits	1	0
+bowling alley	1	0
+box art	1	0
+Boy scouts	1	0
+Brain hypothermia	1	0
+brain injury	1	0
+brain tissue damage	1	0
+break	1	0
+breaking into laughter	1	0
+breaks down	1	0
+breath control	1	0
+bring him down	1	0
+brings negative	1	0
+broadcasting interests	1	0
+broke	1	0
+broke away	1	0
+broke the strike	1	0
+broken off	1	0
+broken up	1	0
+brought a motion	1	0
+brought about	1	0
+brought an end	1	0
+brought him in contact	1	0
+brought that quality out	1	0
+brought up	1	0
+bubble tea	1	0
+budget deficit	1	0
+building society	1	0
+building up	1	0
+built up	1	0
+bullet wound	1	0
+bunny slippers	1	0
+burial plots	1	0
+bursts into tears	1	0
+bus station	1	0
+Bush-Cheney gang	1	0
+business areas	1	0
+business center	1	0
+business cycles	1	0
+business licenses	1	0
+business news reporters	1	0
+business partner	1	0
+business tourism	1	0
+button presses	1	0
+cabinet colleague	1	0
+cabinet colleagues	1	0
+cabinet material	1	0
+cabinet meetings	1	0
+cabinet members	1	0
+cabinet ministers	1	0
+cable television	1	0
+cadre members	1	0
+calcium entry inhibitor	1	0
+called to	1	0
+called up	1	0
+calling him derogative humor names	1	0
+calling on	1	0
+came about	1	0
+came back	1	0
+came into his own	1	0
+came later into	1	0
+came to an end	1	0
+came under fire	1	0
+came up	1	0
+campaign chairman	1	0
+campaign manager	1	0
+campaign team	1	0
+campaign work	1	0
+cantilever roof	1	0
+cantilever stand	1	0
+capitalist states	1	0
+capitol city	1	0
+capped off	1	0
+car doors	1	0
+car park	1	0
+car sale yards	1	0
+carbon chains	1	0
+carbon copies	1	0
+carbon dioxide	1	0
+carbon monoxide leak	1	0
+carbons chains	1	0
+carboxyl groups	1	0
+Cardboard bun	1	0
+cardboard targets	1	0
+cardiac surgery	1	0
+carried away	1	0
+carried off	1	0
+carried out.	1	0
+Carrier squelch	1	0
+carrier squelch receiver	1	0
+cartridge SPE manifold	1	0
+caspase activity	1	0
+cast aside	1	0
+castle towns	1	0
+catch on	1	0
+catchment area	1	0
+catering officer	1	0
+cation exchange	1	0
+cation exchange cartridge	1	0
+Cation exchange sorbents	1	0
+caucus meeting	1	0
+caught the eye	1	0
+cause and effect	1	0
+CD player	1	0
+cease-fire agreement	1	0
+cell membrane ionic transport failure	1	0
+cell suicide	1	0
+cell suicide programme	1	0
+cellular organelles	1	0
+central figures	1	0
+centralized government	1	0
+centre of learning	1	0
+cerebral biochemical disturbance	1	0
+cerebral cortical activity	1	0
+cerebral energy metabolism	1	0
+cerebral function	1	0
+cerebral game	1	0
+cerebral high energy phosphates	1	0
+cerebral hypoxia	1	0
+Cerebral hypoxia-ischaemia	1	0
+cerebral hypoxia-ischaemia	1	0
+cerebral impedance	1	0
+cerebral injury	1	0
+cerebral lactic acidosis	1	0
+cerebral oxidative metabolism	1	0
+cerebral perfusion	1	0
+champ car	1	0
+change hands	1	0
+changes her mind	1	0
+charge d'affaires	1	0
+chargé d'affaires	1	0
+chatting her	1	0
+cheat code	1	0
+cheek piece	1	0
+cheerleading squad	1	0
+chemical additives	1	0
+chemical content	1	0
+chemical plants	1	0
+chess pieces	1	0
+Chief Constable	1	0
+Chief Executive Officer	1	0
+chief general	1	0
+chief justice	1	0
+chief justice.	1	0
+chief negotiator	1	0
+Chief Petty Officer	1	0
+child of nature	1	0
+childhood friend	1	0
+childhood given name	1	0
+childhood perceptions	1	0
+children 's television	1	0
+chili sauce	1	0
+chilli paste	1	0
+chirped pulse amplification	1	0
+choral composition	1	0
+chorus girl	1	0
+church ) hierarchies	1	0
+church documentation	1	0
+CIA agent	1	0
+circuit function	1	0
+city budget	1	0
+city garbage workers	1	0
+city officials	1	0
+city suburb	1	0
+city wall	1	0
+civil community	1	0
+civil government	1	0
+civil law tradition	1	0
+civil rights	1	0
+civil rights activist	1	0
+civil rights issues	1	0
+clan castellan	1	0
+class committees	1	0
+class conflict	1	0
+class President	1	0
+Class reforms	1	0
+class structure	1	0
+classic philosophy	1	0
+classical music broadcasting	1	0
+classical music programs	1	0
+classical music radio station	1	0
+classical music show	1	0
+classical musical	1	0
+classical musical station	1	0
+classical record library	1	0
+cleaned up	1	0
+cleaning up	1	0
+clear space	1	0
+Clerks of Court	1	0
+climbed up	1	0
+clinical use	1	0
+clock tower	1	0
+clothing merchant	1	0
+club president	1	0
+club record	1	0
+club store	1	0
+co-channel users	1	0
+coagulation cascades	1	0
+coalition government	1	0
+cocaine use	1	0
+cold war politics	1	0
+coliform organisms	1	0
+colleague fiddlers	1	0
+collection rate	1	0
+collective marketing	1	0
+collectivist anarchism	1	0
+college degree	1	0
+colony count	1	0
+colony forming units	1	0
+color scheme	1	0
+colour change	1	0
+combat gear	1	0
+combat testing	1	0
+combo operation	1	0
+come into play	1	0
+come out of the closet	1	0
+come to a halt	1	0
+come to public attention	1	0
+come up	1	0
+comeback victory	1	0
+comes across	1	0
+comes out	1	0
+comes through	1	0
+comic book illustrators	1	0
+comic books	1	0
+comic relief	1	0
+comic strip characters.	1	0
+comic writer	1	0
+coming along	1	0
+coming into its own	1	0
+coming out	1	0
+coming out of the closet	1	0
+coming strongly back	1	0
+Coming to terms	1	0
+Command area	1	0
+commercial radio stations	1	0
+commercial shipping traffic	1	0
+Commissioner of Church Education	1	0
+Commissioners of Agriculture	1	0
+commit	1	0
+commits	1	0
+committed	1	0
+committed the robbery	1	0
+committee meeting	1	0
+committee members	1	0
+Committee Room	1	0
+committing	1	0
+common law system	1	0
+common people	1	0
+common salt	1	0
+common-law wife	1	0
+communication device	1	0
+community crime watch.	1	0
+company face	1	0
+completion percentage	1	0
+compound wall	1	0
+computer age	1	0
+Computer industries	1	0
+computer model	1	0
+computer models	1	0
+concentration camps	1	0
+concrete terracing	1	0
+conference championships	1	0
+Confidence Interval	1	0
+confidential assistant	1	0
+congressional aide	1	0
+congressional candidates	1	0
+consideration was given	1	0
+constitutional body	1	0
+constitutional convention	1	0
+constitutional form	1	0
+constitutional law	1	0
+construction costs	1	0
+construction phase	1	0
+construction projects	1	0
+consultancy period	1	0
+consulting business	1	0
+contributed many legal opinions	1	0
+control arrangements	1	0
+control group	1	0
+control point	1	0
+convenience store	1	0
+convention center	1	0
+conviction rate	1	0
+cooking pot	1	0
+cool down	1	0
+cooling fraternity	1	0
+cooperative research	1	0
+copy boy	1	0
+core group	1	0
+corn starch	1	0
+corporate farm	1	0
+costume choice	1	0
+cotton plantation	1	0
+country fiddler	1	0
+country place	1	0
+county commission	1	0
+county commissioner	1	0
+county cricket grounds	1	0
+county detail	1	0
+county feasts	1	0
+couples pornography	1	0
+coupling efficiency	1	0
+court clerk	1	0
+court litigation	1	0
+court surgeon	1	0
+court system	1	0
+courtroom lawyer	1	0
+Covenant schools	1	0
+cover art	1	0
+cover stories	1	0
+covers them	1	0
+cowboy hat	1	0
+CPA laser	1	0
+crew cut	1	0
+cricket ground	1	0
+cricket pitch	1	0
+crime she did n't	1	0
+crime stories	1	0
+criminal activities	1	0
+criminal investigation bureau	1	0
+criminal investigations	1	0
+criminal sheriff	1	0
+crisis theory	1	0
+crosstown rival	1	0
+cry out	1	0
+crystal violet	1	0
+Cult Hero	1	0
+Cult practices of various groups were also held	1	0
+cult status	1	0
+cultural institution	1	0
+cultural legacy	1	0
+cultural life	1	0
+cultural movements	1	0
+cultural organization	1	0
+culture medium	1	0
+culture methods	1	0
+customary right	1	0
+cut	1	0
+cut away	1	0
+cut her	1	0
+cut off	1	0
+cut short	1	0
+cutting corners	1	0
+cyborg design	1	0
+cytochrome c translocation	1	0
+cytochrome-c release	1	0
+cytotoxic oedema	1	0
+D.A. office funds	1	0
+daily life	1	0
+daily newspaper comic strip	1	0
+dairy pools	1	0
+dark energy	1	0
+data collection	1	0
+data presentation	1	0
+date settings	1	0
+dead body	1	0
+debt load	1	0
+declaration of independence	1	0
+deep space	1	0
+default area	1	0
+defense grids	1	0
+defense purposes	1	0
+defense security	1	0
+defensive force fields	1	0
+defensive force shields	1	0
+Delayed brain injury	1	0
+delayed cell death	1	0
+delayed post-ischaemic cell death	1	0
+demands were made	1	0
+demands were not	1	0
+democratic republic	1	0
+densely populated	1	0
+Deputy Constable	1	0
+deputy editor	1	0
+desert front	1	0
+desert world	1	0
+detective stories	1	0
+developed nations	1	0
+develops feelings	1	0
+did a survey	1	0
+did a very careful and thorough research	1	0
+did his basic training	1	0
+died down	1	0
+diffraction gratings	1	0
+dipotassium phosphate	1	0
+direct action missions	1	0
+direct drive approach	1	0
+directly proportional	1	0
+dirt late models	1	0
+disc jockey	1	0
+discussion groups	1	0
+disk SPE manifold	1	0
+dissertation debates	1	0
+distress conditions	1	0
+District Attorney	1	0
+District Dispatcher	1	0
+ditch attempt	1	0
+dividing line	1	0
+divine grace	1	0
+diving physics	1	0
+divorce case	1	0
+divorce lawyer	1	0
+divorce papers	1	0
+divorce proceedings	1	0
+do business	1	0
+doctor of medicine	1	0
+domestic subjects	1	0
+double floppy disk form	1	0
+double teamed	1	0
+Dow Jones-owned	1	0
+down payment	1	0
+down played	1	0
+draft response	1	0
+dragon mask	1	0
+drama department	1	0
+Drama department	1	0
+draw in	1	0
+draw inferences	1	0
+draw the attention	1	0
+drawing the ire	1	0
+drawing the plans	1	0
+draws his main support	1	0
+draws most of its support	1	0
+dream scene	1	0
+dress designer	1	0
+dressing rooms	1	0
+Dressing rooms	1	0
+drew another wave of protests	1	0
+drew heavily on his	1	0
+drew the attention	1	0
+drink and drive	1	0
+drink glass	1	0
+drinking glass	1	0
+drive around	1	0
+driver 's license	1	0
+driver laser	1	0
+driver performance	1	0
+driver section	1	0
+drop out	1	0
+drop zone	1	0
+dropped a bid	1	0
+dropped off	1	0
+dropped out	1	0
+drops out	1	0
+Drought Relief Commissioner	1	0
+drove six of them off	1	0
+drug circles	1	0
+drug dealer	1	0
+drug dealers	1	0
+drug legalization	1	0
+drug manufacturers	1	0
+drug manufacturing facilities	1	0
+drug quality inspectors	1	0
+drug store	1	0
+drug testing	1	0
+drug usage	1	0
+drunk driving	1	0
+dry season	1	0
+duck meat	1	0
+Easter eggs	1	0
+eastern bloc	1	0
+eastern block	1	0
+economic conditions	1	0
+economic desister	1	0
+economic frenzy	1	0
+economic growth	1	0
+economic incentives	1	0
+economic potential	1	0
+economic slump	1	0
+economic system	1	0
+economical conditions	1	0
+edible mushrooms	1	0
+editorial team	1	0
+education law	1	0
+education question	1	0
+education reform controversy	1	0
+Education Superintendent	1	0
+educational philosophy	1	0
+educational policies	1	0
+educational system	1	0
+effect size	1	0
+egalitarian democracy	1	0
+egg products	1	0
+egg yolks	1	0
+election campaigns	1	0
+election day	1	0
+election fraud	1	0
+election platform	1	0
+election victory	1	0
+electoral system	1	0
+electrical grid	1	0
+electronics company	1	0
+electrostatic interaction	1	0
+electrostatic interactions	1	0
+elementary education	1	0
+elk antlers	1	0
+emancipated minor	1	0
+emergency cord	1	0
+emergency operation	1	0
+employment opportunities	1	0
+employment taxes	1	0
+end up	1	0
+ENDO medium	1	0
+endocrine studies	1	0
+enemy placement	1	0
+enemy snipers / designated marks men	1	0
+enemy territory	1	0
+enemy weapons	1	0
+energy consumption	1	0
+energy crises	1	0
+energy delivery	1	0
+energy fields	1	0
+energy fire	1	0
+energy profile	1	0
+energy requirements	1	0
+engineering staff	1	0
+engineering structure	1	0
+entered into an agreement	1	0
+environmental catastrophe	1	0
+epic fantasy adventure	1	0
+epigraphic evidence	1	0
+epistemological break	1	0
+equipment company	1	0
+ersatz bomb	1	0
+escape pod	1	0
+essay collection	1	0
+eternal rest	1	0
+eternal youth	1	0
+event centers	1	0
+ex-New Englander	1	0
+excavation site	1	0
+excess production	1	0
+excitatory amino acids	1	0
+excitatory neurotransmitter	1	0
+excitedly written	1	0
+excitiotoxic cascade	1	0
+excitoxin receptor antagonist	1	0
+executive director	1	0
+exit route	1	0
+expectations he had	1	0
+experiment area	1	0
+experimental chambers	1	0
+experimental device	1	0
+experimental system	1	0
+experimentalist group	1	0
+experiments models	1	0
+explodes off	1	0
+exploration elements	1	0
+explosives enthusiast	1	0
+expressed a wish	1	0
+expressed an interest	1	0
+expressed their impatience	1	0
+expresses disappointment	1	0
+extended editions	1	0
+extension efforts	1	0
+extraction manifold	1	0
+extraction process	1	0
+factory owner	1	0
+factory teams	1	0
+faint pink	1	0
+fairground attraction	1	0
+fait accompli	1	0
+faith conflicts	1	0
+fall into private hands	1	0
+fall into sin	1	0
+falling in love	1	0
+falls apart	1	0
+falls in	1	0
+family area	1	0
+family background	1	0
+family clans	1	0
+family friend	1	0
+family history	1	0
+family member	1	0
+family owned	1	0
+family seating	1	0
+family ways	1	0
+famine conditions	1	0
+fantasy novel	1	0
+fantasy series	1	0
+farewell wishes	1	0
+farm machinery	1	0
+farming skills	1	0
+Fast ignition	1	0
+fast ignition approach	1	0
+fast ignition fusion	1	0
+father-son bond	1	0
+fax machines	1	0
+FBI Special Agents	1	0
+FBI team	1	0
+feast days	1	0
+feat of bravery	1	0
+feature film	1	0
+feature films	1	0
+feature wins	1	0
+federal agencies	1	0
+federal counsel	1	0
+federal Minister of the Interior	1	0
+federal politics	1	0
+fell down	1	0
+fell in love	1	0
+fell through	1	0
+fellow activists	1	0
+fellow colleague	1	0
+fellow lifeforms	1	0
+felony cases	1	0
+felony murder charges	1	0
+feudal societies	1	0
+FIA sanctioned	1	0
+field equations	1	0
+field goal	1	0
+field kitchens	1	0
+field marshal	1	0
+field office	1	0
+field spell card	1	0
+fighting strength	1	0
+figure out	1	0
+figured out	1	0
+filed charges	1	0
+fill out	1	0
+film actors	1	0
+film continuation	1	0
+film historian	1	0
+film productions	1	0
+finacional centers	1	0
+final exams	1	0
+financial center	1	0
+financial centre	1	0
+financial failure	1	0
+financial services	1	0
+financial situation	1	0
+financial stability	1	0
+finds out	1	0
+fine arts student	1	0
+fire escape	1	0
+firearms factory	1	0
+firefly enzyme	1	0
+firm believer	1	0
+first editions	1	0
+first front announcement	1	0
+first-hand information	1	0
+fiscal policy	1	0
+fish sticks	1	0
+fish-farming technologies	1	0
+fishing background	1	0
+fishing pier	1	0
+fizzed away	1	0
+flash hider	1	0
+flash hiders	1	0
+flintlock muskets	1	0
+fluorescent agent	1	0
+flying aircraft	1	0
+FM band	1	0
+FM multiplexing	1	0
+FM station	1	0
+FM studio	1	0
+FM two-way radio carrier squelch circuit	1	0
+fnart jiz powder	1	0
+foil shells	1	0
+folded up	1	0
+follow a pure indigenous faith	1	0
+following the lead	1	0
+food additive	1	0
+food analysis laboratory	1	0
+food colouring	1	0
+food crops	1	0
+food manufacturers	1	0
+food prices	1	0
+food production	1	0
+food products	1	0
+food safety	1	0
+Food safety agencies	1	0
+Food safety incidents	1	0
+food safety incidents	1	0
+food safety system	1	0
+food testing equipment	1	0
+football club	1	0
+football competition	1	0
+football games	1	0
+football ground	1	0
+football player	1	0
+football team	1	0
+foreign power	1	0
+format program director	1	0
+forms the boundary	1	0
+foul language	1	0
+found out	1	0
+fraud charges	1	0
+free expression	1	0
+free fall	1	0
+free falling	1	0
+Free radical production	1	0
+free tickets	1	0
+free time	1	0
+free will	1	0
+freedom of religion	1	0
+frequency conversion	1	0
+frequency multiplier design.	1	0
+Frequency multipliers	1	0
+frequency multipliers	1	0
+frequency tripled	1	0
+freshman quarterback	1	0
+friend for life	1	0
+friendly international match	1	0
+fruits of faith	1	0
+frying oils	1	0
+frying powder	1	0
+fuel pellet	1	0
+fuel truck	1	0
+full on	1	0
+full page	1	0
+full service format	1	0
+full time member	1	0
+full-service adult contemporary / pop music format	1	0
+fun house	1	0
+functional group	1	0
+fundamental right	1	0
+funeral procession	1	0
+fusion energy	1	0
+fusion fuel	1	0
+fusion output	1	0
+fusion yields	1	0
+gain possession	1	0
+gain victory	1	0
+gained	1	0
+gained international attention	1	0
+gained most of his fame	1	0
+game discs	1	0
+game images	1	0
+game manual	1	0
+game menus	1	0
+game premise	1	0
+games publisher	1	0
+gaming console	1	0
+gas laser experiments	1	0
+gas lasers	1	0
+gas station	1	0
+gaseous crowd control	1	0
+gasworks museums	1	0
+gate groves	1	0
+gave an impetus	1	0
+gave an unexpected continuation	1	0
+gave close attention	1	0
+gave him a cult	1	0
+gave no details	1	0
+gave numerous lectures	1	0
+gave talks	1	0
+gave the episode	1	0
+gave the station a special place	1	0
+gave their farewells	1	0
+gave two reasons	1	0
+gay community	1	0
+gay rights activist	1	0
+gay rights advocacy	1	0
+gearing up	1	0
+gender neutral	1	0
+Genealogy committee	1	0
+general amnesty	1	0
+general counsel	1	0
+general election competition	1	0
+General Secretary	1	0
+general static	1	0
+generic experiment	1	0
+genocidal maniac	1	0
+get	1	0
+get him through	1	0
+get into a fight	1	0
+get out	1	0
+get revenge	1	0
+get up	1	0
+gets in trouble	1	0
+gets up	1	0
+getting back together	1	0
+getting out	1	0
+girl power	1	0
+give him away	1	0
+give moral strength	1	0
+give ontological priority	1	0
+give tourists easy access	1	0
+given a choice	1	0
+given a good flogging	1	0
+given an unconditional discharge	1	0
+given instruction	1	0
+given notices	1	0
+given up	1	0
+gives in	1	0
+glamour model	1	0
+glanced up	1	0
+glass factory	1	0
+glass lasers	1	0
+glutamate antagonist	1	0
+glutamate levels	1	0
+go	1	0
+go green	1	0
+go in search	1	0
+go into effect	1	0
+go into politics	1	0
+go off	1	0
+goal nets	1	0
+Goat urine	1	0
+God Emperor	1	0
+goes away	1	0
+goes over	1	0
+going into politics	1	0
+going on stage	1	0
+gold bullion	1	0
+gold rush	1	0
+gold shipments	1	0
+gold standard	1	0
+gold-standard debate	1	0
+golden age	1	0
+golf fees	1	0
+golfing expenses.	1	0
+gone	1	0
+gonzo brewery	1	0
+Gonzo journalism techniques	1	0
+gonzo journalist	1	0
+goof off	1	0
+Gospel doctrine	1	0
+government agencies	1	0
+government allowances	1	0
+government colleagues	1	0
+government correspondence	1	0
+government ministers	1	0
+government officials	1	0
+government policies	1	0
+governmental system	1	0
+graduation jump	1	0
+grain elevators	1	0
+grain speculators	1	0
+grand jury	1	0
+grand jury investigation	1	0
+Grand National division	1	0
+Grand National events	1	0
+grassroots organizer	1	0
+graveyard shift	1	0
+great estate	1	0
+greed factor	1	0
+Green Beret camp	1	0
+Green Beret candidate	1	0
+gross domestic product	1	0
+gross weight	1	0
+ground capacity	1	0
+ground forces	1	0
+grow up	1	0
+grown out	1	0
+grown up	1	0
+growth medium	1	0
+guerrilla movement	1	0
+guerrilla warfare	1	0
+guest appearance	1	0
+guilt she suffers	1	0
+Gunnery Sergeant	1	0
+had a chance encounter	1	0
+had a crush	1	0
+had a falling out	1	0
+had a good relationship	1	0
+had a great effect	1	0
+had a lasting impact	1	0
+had a love	1	0
+had a meeting	1	0
+had a successful run	1	0
+had a win	1	0
+had an adventure	1	0
+had an impact	1	0
+had influence	1	0
+had issues	1	0
+had lasting impact	1	0
+had misgivings	1	0
+had no intentions	1	0
+had the greatest influence	1	0
+hand guards	1	0
+harbour coast	1	0
+harbour edge	1	0
+hard core smoker	1	0
+hard cover	1	0
+hardanger fiddle	1	0
+Harding years	1	0
+has an accident	1	0
+has its share	1	0
+have	1	0
+have a close	1	0
+have a relationship	1	0
+have an affair	1	0
+have sex	1	0
+having lunch	1	0
+having sex	1	0
+having sexual relations	1	0
+head coach	1	0
+Head Coach	1	0
+head growth	1	0
+head of state	1	0
+head offices	1	0
+head organizers	1	0
+head out	1	0
+Head ranger	1	0
+head trauma	1	0
+head up	1	0
+heading back	1	0
+heads back	1	0
+heads down	1	0
+heads off	1	0
+healing powers	1	0
+health accidents	1	0
+health and safety video	1	0
+health blocks	1	0
+health care	1	0
+health department	1	0
+health effects	1	0
+health insurance	1	0
+health officials	1	0
+health problems	1	0
+health services	1	0
+heart surgery	1	0
+heat distribution	1	0
+heavy drinker	1	0
+heavy ions	1	0
+heavy machinery	1	0
+heavy metal band	1	0
+Heavy metallurgical plants	1	0
+heighliner ships	1	0
+heir male	1	0
+held a government post	1	0
+held any official	1	0
+held in esteem	1	0
+held in solemn trust	1	0
+held its own convention	1	0
+held numerous ministerial and political	1	0
+held several posts	1	0
+held the generals in low esteem	1	0
+held this position	1	0
+held widely disparate political views	1	0
+helicopter extraction	1	0
+helicopter factory	1	0
+Hellenistic period	1	0
+help out	1	0
+hide and seek	1	0
+high density fuel	1	0
+high energy phosphates	1	0
+high imperial court titles	1	0
+high power	1	0
+high power densities	1	0
+high power laser pulses	1	0
+high power system	1	0
+high speed chase	1	0
+high-density matter physics	1	0
+high-density physics	1	0
+high-energy laser designs	1	0
+high-energy particles	1	0
+high-pass filter	1	0
+high-power laser	1	0
+high-power lasers	1	0
+high-school sports	1	0
+Higher Education	1	0
+higher education	1	0
+higher studies	1	0
+higher velocity counterparts	1	0
+highest distinction	1	0
+hippie culture	1	0
+historic philosophy	1	0
+historical dialectic	1	0
+historical materialism	1	0
+history of music	1	0
+hold a referendum	1	0
+hold any political power	1	0
+hold down	1	0
+hold on power	1	0
+hold the universe to ransom	1	0
+holding	1	0
+holding of any type of	1	0
+holding rallies	1	0
+holding the prestigious Agrégation degree	1	0
+holds more than 200 events	1	0
+Holtzman field generator	1	0
+Holy Communion	1	0
+holy man	1	0
+home computer	1	0
+home economics	1	0
+home fan seating	1	0
+home fans	1	0
+home games	1	0
+home ground	1	0
+home province	1	0
+home town	1	0
+home videos	1	0
+Homing Teddies	1	0
+honorary court office	1	0
+Hooper ratings	1	0
+hopped on	1	0
+horror film	1	0
+host a reception	1	0
+host body	1	0
+hot electron pre-heating	1	0
+hot jazz	1	0
+hot spots	1	0
+Hot springs	1	0
+hot tub	1	0
+hotel room	1	0
+house manager	1	0
+housewarming party	1	0
+Hovering devices	1	0
+human beings	1	0
+human body	1	0
+human form	1	0
+human rights	1	0
+human societies	1	0
+human-machine hybrids	1	0
+hunger strike	1	0
+hunting lodge	1	0
+hydrogen peroxide	1	0
+hydrophobic effect	1	0
+hypothermia experiment	1	0
+hypothermia researchers	1	0
+hypothermia trials	1	0
+hypothermic neuroprotection	1	0
+hypothermic post-insult neural rescue	1	0
+hypothermic protection	1	0
+hypoxic damage	1	0
+hypoxic insult	1	0
+hypoxic-ischaemic brain damage	1	0
+hypoxic-ischaemic damage	1	0
+ice cream	1	0
+ICF design	1	0
+ICF experiment	1	0
+ICF experiments	1	0
+ICF facility	1	0
+ICF program	1	0
+ignition conditions.	1	0
+immune systems	1	0
+imperial court	1	0
+implosion energy	1	0
+in-band signaling	1	0
+in-band signalling	1	0
+in-flight refueling	1	0
+inaugural ball	1	0
+inband audio tones	1	0
+incendiary armor piercing rounds	1	0
+incubation period	1	0
+indicator bacteria	1	0
+indicator medium	1	0
+indicator organism	1	0
+indicator organisms levels	1	0
+indie rock band	1	0
+indirect drive	1	0
+indirect drive approach	1	0
+indirect drive research	1	0
+individualist anarchism	1	0
+Indoctration period	1	0
+indoor soccer arena	1	0
+industrial alcohol	1	0
+industrial applications	1	0
+industrial centre	1	0
+industrial grade salt	1	0
+industrial use	1	0
+Inertial confinement fusion ( ICF ) devices	1	0
+inertial confinement fusion ( ICF ) experiments	1	0
+infant brain metabolism	1	0
+information services	1	0
+information website	1	0
+information-services department	1	0
+inner city	1	0
+inner city suburb	1	0
+inner voice	1	0
+input signal	1	0
+input signals	1	0
+insect infestation	1	0
+insignia rates	1	0
+insurance adjuster	1	0
+insurance commissioner	1	0
+interest groups	1	0
+interference problems	1	0
+Interfering signals	1	0
+intermission program	1	0
+internal affairs	1	0
+international law	1	0
+Internet poll	1	0
+internet service	1	0
+interplanetary banking	1	0
+intoxication tests	1	0
+invasion force	1	0
+invasion forces	1	0
+Investigations jointly held	1	0
+investigative report	1	0
+ion exchange	1	0
+Ion exchange sorbents	1	0
+ionic interaction	1	0
+IR frequencies	1	0
+Iron ( II ) sulfate	1	0
+ironwood sword	1	0
+is off	1	0
+is on cloud nine	1	0
+is up	1	0
+John R. Boyle-led	1	0
+joint efforts	1	0
+joint investigation team	1	0
+joint statement	1	0
+journalism career	1	0
+jump towers	1	0
+Junie Donlavey ride	1	0
+junk food	1	0
+jury trial	1	0
+justice minister	1	0
+justices of the peace	1	0
+keep up	1	0
+kept a collection	1	0
+Kerr lensing	1	0
+key affiliate	1	0
+keynote speaker	1	0
+KFAC announcers	1	0
+kidney disease	1	0
+knock out	1	0
+knocked down	1	0
+knocked out	1	0
+labour power	1	0
+lactic alkalosis	1	0
+lactose fermentation	1	0
+ladies ' dresses	1	0
+laid emphasis	1	0
+laid off	1	0
+laid out	1	0
+laid the ground	1	0
+land surveys	1	0
+land taking movement	1	0
+land warfare	1	0
+land-holding system	1	0
+language barrier	1	0
+large scale adaptation	1	0
+laser beamlines	1	0
+laser energies	1	0
+laser facility	1	0
+laser light	1	0
+laser pulse	1	0
+laser system	1	0
+laughs off	1	0
+law degree	1	0
+law firm	1	0
+law practice	1	0
+law professor	1	0
+lawn bowls club	1	0
+lay siege	1	0
+lay State	1	0
+lead character	1	0
+lead roles	1	0
+leading a normal life	1	0
+leading committee	1	0
+leading role	1	0
+leading roles	1	0
+league fixture	1	0
+league match	1	0
+league season	1	0
+leaned over	1	0
+learned man	1	0
+lease arrangement	1	0
+leave it behind	1	0
+left hand thread	1	0
+left the slavers behind	1	0
+legal / ecclesiastical professions	1	0
+legal advice	1	0
+legal issues	1	0
+legal support	1	0
+Legislation probe	1	0
+legislation proposals	1	0
+Legislative Auditor	1	0
+lent their support	1	0
+let " the boys " down	1	0
+let any signal	1	0
+let Max down	1	0
+letter series	1	0
+letter writer	1	0
+libertarian socialism	1	0
+library employee	1	0
+library staff	1	0
+license renewal	1	0
+liege lord	1	0
+Lieutenant Colonel	1	0
+Lieutenant General	1	0
+lieutenant governor	1	0
+lieutenant governorship	1	0
+life insurance	1	0
+life sentences	1	0
+light comedy	1	0
+light intensity	1	0
+light music composer	1	0
+light pulse	1	0
+liqueur company	1	0
+liquid mixture	1	0
+liquid nutrient agar	1	0
+liquid sample	1	0
+liquor bottles	1	0
+liquor manufacturers	1	0
+liquor offences	1	0
+liquor sales	1	0
+literary movement	1	0
+literary works	1	0
+litmus test issues	1	0
+live up	1	0
+livestock pool	1	0
+loading times	1	0
+local head cooling	1	0
+localization purposes	1	0
+locking it	1	0
+locks out	1	0
+lone voice	1	0
+long range precision rifles	1	0
+long range work	1	0
+looked for.	1	0
+looking	1	0
+looking to	1	0
+looks after	1	0
+looks back	1	0
+looks upon	1	0
+love-hate relationship	1	0
+low man on the totem pole	1	0
+low powered	1	0
+low velocity intermediate round	1	0
+low-pitch audio tones	1	0
+machine attacks	1	0
+macromolecular polymers	1	0
+made 3 assists	1	0
+made a critical introduction	1	0
+made a rather idealist , legal defense	1	0
+made a serious commitment	1	0
+made a widely quoted , almost Betjeman-eque , assertion	1	0
+made an error	1	0
+made an example	1	0
+made an excuse	1	0
+made another attempt	1	0
+made comments	1	0
+made full use	1	0
+made good	1	0
+made her exit	1	0
+made his debut	1	0
+made his mark	1	0
+made his trip	1	0
+made longer journeys	1	0
+made much of trade	1	0
+made no provision	1	0
+made numerous trips	1	0
+made one appearance	1	0
+made peace	1	0
+made significant changes	1	0
+made tentative movements	1	0
+made the announcement	1	0
+made various attempts	1	0
+magazine articles	1	0
+magazine headquarters	1	0
+magazine pieces	1	0
+magnesium trisilicate	1	0
+Magnesium trisilicate	1	0
+maiden speech	1	0
+main character design	1	0
+mainland city	1	0
+mainstream success	1	0
+maintained consistency	1	0
+major player	1	0
+majority stockholder	1	0
+make a concert	1	0
+make amends	1	0
+make arrangements	1	0
+make better use	1	0
+make friends	1	0
+make it to	1	0
+make large contributions	1	0
+make loans	1	0
+make money	1	0
+make sense	1	0
+make ten	1	0
+makes a quick decision	1	0
+makes fun	1	0
+makes her first appearance	1	0
+makes his debut	1	0
+makes his first appearance	1	0
+makes one concession	1	0
+makes reference	1	0
+makes up	1	0
+making " any hasty or ill-considered move	1	0
+making a 300% profit	1	0
+making a promise	1	0
+making connections	1	0
+making fun	1	0
+making his own contributions	1	0
+Making national headlines	1	0
+making serial dilutions	1	0
+malachite green	1	0
+managing editor	1	0
+manufacturing establishments	1	0
+marine bathing waters	1	0
+Marine officer	1	0
+Marine Sergeant	1	0
+market potential	1	0
+marketing gimmick	1	0
+master 's degree	1	0
+Master Chief Petty Officer	1	0
+Master Control	1	0
+match-day capacity	1	0
+material culture	1	0
+material essentials	1	0
+material evidences	1	0
+material help	1	0
+mathematical historian	1	0
+matter manipulation powers	1	0
+maximum security prison planet	1	0
+meal time	1	0
+measure up	1	0
+mechanical accuracy	1	0
+mechanical press	1	0
+media critic	1	0
+media descriptions	1	0
+media reports	1	0
+media scrutiny	1	0
+medical conditions	1	0
+medical professionals	1	0
+medical treatment	1	0
+medicinal historian	1	0
+medium sized	1	0
+meet all of the goals	1	0
+meet expectations	1	0
+meet large	1	0
+meets local and international standards	1	0
+meets up	1	0
+melted down	1	0
+member leader	1	0
+member of the parliament	1	0
+membership fee	1	0
+membrane filters	1	0
+membrane filtration	1	0
+memorial stone	1	0
+men 's soccer coach	1	0
+meningitis case	1	0
+meningitis cases	1	0
+meningitis outbreak	1	0
+mental institution	1	0
+mental processing	1	0
+mercantile business	1	0
+merchant offices	1	0
+merchant ship	1	0
+met with less success	1	0
+met with little	1	0
+meted out	1	0
+methamidophos contamination	1	0
+mFC medium	1	0
+microbiological analytical procedure	1	0
+middle age	1	0
+middle name	1	0
+middle school students	1	0
+migrant worker	1	0
+military academy	1	0
+military air traffic control	1	0
+military aircraft	1	0
+military commander	1	0
+military exercise	1	0
+military guerrilla groups	1	0
+military intervention	1	0
+military music	1	0
+military pacification	1	0
+military police	1	0
+military school	1	0
+military training base	1	0
+milk powder	1	0
+milk scandal	1	0
+milk suppliers	1	0
+mill owners	1	0
+mill workers	1	0
+millimetre grid	1	0
+mineral leases	1	0
+Minister of Foreign Affairs	1	0
+Minister of Railways	1	0
+minor league teams	1	0
+mistake to make	1	0
+mistakes he ever	1	0
+mitochondrial dysfunction	1	0
+mobile phase	1	0
+mobile radios	1	0
+model numbers	1	0
+modern languages	1	0
+modified racers	1	0
+modus operandi	1	0
+molecular biology	1	0
+monarchy option	1	0
+money bills	1	0
+money prices	1	0
+monkey styled	1	0
+mood balloon	1	0
+morning host	1	0
+morning lessons	1	0
+morning shift	1	0
+morning-drive news program	1	0
+mortal blow	1	0
+mortality rates	1	0
+motion picture	1	0
+motion picture news	1	0
+motion pictures	1	0
+motion video sequence	1	0
+motor vehicles	1	0
+motorcycle exhaust	1	0
+motorcycle gang	1	0
+motorcycle race	1	0
+mountain hamlet	1	0
+mountain top sites	1	0
+move ahead	1	0
+moved around	1	0
+moves down	1	0
+movie studios	1	0
+movie stunt pilot	1	0
+moving away	1	0
+moving out	1	0
+moving the boat out.	1	0
+moving up	1	0
+multi-pass design	1	0
+multiple tube method	1	0
+mung beans	1	0
+municipal organization	1	0
+murder mystery	1	0
+mushroom poisonings	1	0
+music beds	1	0
+music concerts	1	0
+music critic	1	0
+music criticism	1	0
+music director	1	0
+music feature	1	0
+music playback	1	0
+music pollution	1	0
+music portion	1	0
+music programming	1	0
+music technology	1	0
+musical artist	1	0
+musical film	1	0
+musical interludes	1	0
+musical tradition	1	0
+muzzle attachments	1	0
+muzzle brakes	1	0
+myasthenia gravis	1	0
+mystery novelist	1	0
+N-methyl-D-aspartate receptor	1	0
+name brand	1	0
+name change	1	0
+narcotics officers	1	0
+national accounting	1	0
+National Chief	1	0
+national government	1	0
+national history	1	0
+national holidays	1	0
+National Secretary of Peasant Affairs	1	0
+National Team	1	0
+national team career	1	0
+national team member	1	0
+national unity	1	0
+natural calamities	1	0
+natural history work	1	0
+natural laws	1	0
+natural philosophy	1	0
+natural resource issues	1	0
+Naval force	1	0
+Naval lieutenant	1	0
+Naval O-1	1	0
+Naval Recruiting office	1	0
+Navy Corpsman	1	0
+Navy lieutenant	1	0
+Navy personnal	1	0
+Navy students	1	0
+Nd : glass disks	1	0
+Nd : glass laser	1	0
+neighbourhood stores	1	0
+neonatal community	1	0
+neonatal encephalopathy data	1	0
+neonatal hypothermia	1	0
+neonatal hypothermia interest group	1	0
+neonatal hypothermia research group	1	0
+Neonatal Medicine	1	0
+neonatal neural rescue	1	0
+neonatal therapeutic hypothermia	1	0
+nervous system	1	0
+network members	1	0
+network programs	1	0
+neural cell death	1	0
+neurodevelopmental impairment	1	0
+neuroprotection experimentalist	1	0
+neuroprotection research	1	0
+neutrophil infiltration	1	0
+new age music	1	0
+New Englander	1	0
+new journalism magazine	1	0
+New Year	1	0
+Newborn hypoxic-ischaemic brain injury	1	0
+newborn infants	1	0
+news / talk format	1	0
+news / talk station	1	0
+news announcer	1	0
+news media memorabilia	1	0
+news-talk format	1	0
+newspaper clippings	1	0
+newspaper company	1	0
+newspaper quotes	1	0
+newspaper staff	1	0
+nighttime program	1	0
+nitric oxide synthase inhibition	1	0
+nitrofuran metabolites	1	0
+NMDA receptor toxicity	1	0
+no confidence vote	1	0
+noise gate	1	0
+noise squelch	1	0
+noise suppression	1	0
+nomadic wandering	1	0
+nomination process	1	0
+non combat	1	0
+non selective	1	0
+non sequiturs	1	0
+non-profit organization	1	0
+nonfiction novel	1	0
+nuclear attacks	1	0
+nuclear explosion	1	0
+nuclear fusion	1	0
+nuclear proliferation	1	0
+nuclear tests	1	0
+nuclear war	1	0
+nutrient agar	1	0
+nutritional value	1	0
+objective was	1	0
+obtain research	1	0
+obtained official permission	1	0
+offer	1	0
+offer a reasonable possibility	1	0
+offer visual representations	1	0
+offered a conservative interpretation	1	0
+office candy machine	1	0
+office work	1	0
+official documents	1	0
+official member	1	0
+oil refineries	1	0
+oldies music	1	0
+oligodendroglial precursors	1	0
+olive orchard	1	0
+olive producer	1	0
+on the wane	1	0
+one sided	1	0
+one-way street system	1	0
+only son	1	0
+opening sequence	1	0
+opening up	1	0
+opens fire	1	0
+opera records	1	0
+Operator certifications	1	0
+opposition groups	1	0
+Optical devices	1	0
+optical devices	1	0
+optical path length	1	0
+order cut	1	0
+ordinary looking	1	0
+organic agriculture	1	0
+organic food	1	0
+organized crime	1	0
+outdoor museum	1	0
+outdoor roof	1	0
+outdoor season	1	0
+outdoor title	1	0
+output energy	1	0
+over-30 league	1	0
+overnight voice	1	0
+oxidative damage	1	0
+oxygen deprivation	1	0
+oxygen radicals	1	0
+paid out	1	0
+paid particular attention	1	0
+Palm Beach lifestyle.	1	0
+paperback sales	1	0
+paradigm shift	1	0
+park and ride car parks	1	0
+parking facilities	1	0
+parking lot	1	0
+parking lots	1	0
+Parliamentary candidate	1	0
+parliamentary republic	1	0
+parliamentary rule	1	0
+parochial schools	1	0
+particle accelerators	1	0
+parting gift	1	0
+party loyalists	1	0
+party position	1	0
+passes out	1	0
+path taken	1	0
+pathogen levels	1	0
+patient recruitment	1	0
+pay and display	1	0
+peace movement	1	0
+peak viewing time	1	0
+peasant origins	1	0
+peasant revolts	1	0
+peasant trade union organization	1	0
+pedestrian crossing	1	0
+penal codes	1	0
+penetration velocity	1	0
+peon system	1	0
+performing arts	1	0
+perinatal research community	1	0
+period recreations	1	0
+peripatetic school	1	0
+Permanent Secretary	1	0
+personal bodyguard	1	0
+personal information	1	0
+personal items	1	0
+personal life	1	0
+personnel office	1	0
+pesticide residue	1	0
+Pesticide residue	1	0
+pet food	1	0
+pet food crisis	1	0
+peyote button	1	0
+pH change	1	0
+phased out	1	0
+philosophical history	1	0
+philosophical school	1	0
+phone call	1	0
+photograph caption	1	0
+photographic evidence	1	0
+physical appearance	1	0
+physical condition	1	0
+physical training	1	0
+pick it up	1	0
+pick up	1	0
+picked on	1	0
+picks it up	1	0
+picks the gun up	1	0
+picks up	1	0
+pickup truck	1	0
+picture cover	1	0
+picture cover editions	1	0
+piglet model	1	0
+pilot episode	1	0
+pilot study	1	0
+pinnacle teaching	1	0
+pipe bomb	1	0
+place name	1	0
+plane ticket	1	0
+plane trip	1	0
+planetary force fields	1	0
+planetary governor	1	0
+plans for this monument were initially drawn	1	0
+plasma physicist	1	0
+plate count method	1	0
+platelet activating factor	1	0
+play a significant role	1	0
+play baseball	1	0
+played a role	1	0
+played a supporting role	1	0
+played football	1	0
+played semi-professional baseball	1	0
+played the role	1	0
+playing cards	1	0
+playing the guitar	1	0
+playing the role	1	0
+plays a greater role	1	0
+plays noisy " war " games	1	0
+plays practical	1	0
+plot lines	1	0
+point estimate	1	0
+pointing out	1	0
+pointing to	1	0
+points out	1	0
+poke fun	1	0
+police departments	1	0
+police detective	1	0
+police force	1	0
+Police Inspector	1	0
+political activity	1	0
+Political Advisor	1	0
+political analysts	1	0
+political arena	1	0
+political conflict	1	0
+political consulting firm	1	0
+political doctrines	1	0
+Political economy	1	0
+political factions	1	0
+political life	1	0
+political parties	1	0
+political satire	1	0
+political science disciplines	1	0
+political scientists	1	0
+political societies	1	0
+political sociology	1	0
+political thought	1	0
+political training programs	1	0
+polls taken	1	0
+polymorphonuclear cells	1	0
+pop music references	1	0
+pop recordings	1	0
+pop standards / talk hybrid	1	0
+popular culture	1	0
+popular revolt	1	0
+popular support	1	0
+population inversion	1	0
+pork blood pudding	1	0
+pork dumplings	1	0
+porn director	1	0
+porn web video	1	0
+pose held	1	0
+posed serious threats	1	0
+poses	1	0
+poses a non yes / no question	1	0
+positive charge	1	0
+post-insult cooling	1	0
+post-ischaemic neuroprotection	1	0
+post-Judgement Day	1	0
+power densities	1	0
+power density	1	0
+power range	1	0
+practical accuracy	1	0
+pre-election campaign	1	0
+precision fire	1	0
+Present day members	1	0
+presented his credentials	1	0
+presents a high degree of informality	1	0
+Presidential Campaign	1	0
+Presidential campaign trail	1	0
+presidential campaigns	1	0
+presidential election	1	0
+Presidential Election campaign	1	0
+presidential elections	1	0
+presidential elections held	1	0
+Presidential nomination	1	0
+Presidential nomination process	1	0
+presidential republic	1	0
+press area	1	0
+press junkets	1	0
+press release	1	0
+press secretary	1	0
+price data	1	0
+primary character	1	0
+primary education	1	0
+Prime Minister-designate	1	0
+principal investigators	1	0
+prison break	1	0
+prison massacre	1	0
+prison planet	1	0
+prison system	1	0
+privacy rights	1	0
+private companies	1	0
+private interests	1	0
+private law practice	1	0
+product safety	1	0
+professional club	1	0
+professional degree	1	0
+professional league	1	0
+program contests	1	0
+Program director	1	0
+program schedule	1	0
+programmed cell death	1	0
+progress was	1	0
+prohibition laws	1	0
+proof-of-concept design	1	0
+proof-of-concept device	1	0
+prosecution 's bench	1	0
+prostate cancer	1	0
+protests held	1	0
+prototype space-folding ship	1	0
+provincial capital	1	0
+provincial government-at	1	0
+provincial politics	1	0
+proxy leader	1	0
+psychiatric hospital	1	0
+psychology office	1	0
+public bribery	1	0
+public debate	1	0
+public health nurse	1	0
+public life	1	0
+public officials	1	0
+public opinion surveys	1	0
+public places	1	0
+public service	1	0
+public service work	1	0
+public universities	1	0
+public-safety uses	1	0
+publication date	1	0
+pull	1	0
+pull pranks	1	0
+pulled back	1	0
+pulse duration	1	0
+pulse length	1	0
+purchasing agent	1	0
+purchasing department	1	0
+purpose made	1	0
+pursue full time work	1	0
+pursue legal	1	0
+push buttons	1	0
+put a stop	1	0
+put forward	1	0
+put in doubt	1	0
+put into storage	1	0
+put on isolation	1	0
+put the entire world into stasis	1	0
+puts their boat on shore	1	0
+putting the station up	1	0
+pwobation officer	1	0
+qualification games	1	0
+qualification match	1	0
+qualifying goal	1	0
+qualifying jump	1	0
+qualifying match	1	0
+quantum level	1	0
+quantum nature	1	0
+quarterback rating	1	0
+quaternary ammonium	1	0
+quaternary ammonium groups	1	0
+race duel	1	0
+racial identity	1	0
+radical movement	1	0
+radio adaptations	1	0
+radio affiliate	1	0
+radio DJs	1	0
+radio headsets	1	0
+radio names	1	0
+radio program	1	0
+radio show	1	0
+radio show host	1	0
+Radio station	1	0
+radio stations	1	0
+radio vendors	1	0
+radio veteran	1	0
+rail construction	1	0
+railroad camp	1	0
+railway companies	1	0
+railway halt	1	0
+railway station	1	0
+railways question	1	0
+rained	1	0
+raise any difficult issues	1	0
+raise funds	1	0
+raise the issue	1	0
+raised the issue	1	0
+Raman scattering	1	0
+ran	1	0
+ran away	1	0
+ran off	1	0
+random chance	1	0
+rare book section	1	0
+raw material	1	0
+Rayleigh-Taylor instabilities	1	0
+reach some firm conclusions	1	0
+real life process	1	0
+real world assignment	1	0
+reasseacrh study report	1	0
+rebel forces	1	0
+recall systems	1	0
+received orders	1	0
+received the most attention	1	0
+receiver audio	1	0
+recon mission	1	0
+record library	1	0
+record shelves	1	0
+recreational gym	1	0
+recreational waters	1	0
+reference librarian	1	0
+regular people	1	0
+religion class	1	0
+Religion classes	1	0
+religious faith	1	0
+religious matters	1	0
+religious programs	1	0
+religious scholar	1	0
+Religious subject matter	1	0
+rendevous point	1	0
+renewal process	1	0
+replacement shoes	1	0
+replay value	1	0
+represent interests	1	0
+research group	1	0
+research projects	1	0
+research purposes	1	0
+reserve chute	1	0
+reservoir side	1	0
+residential properties	1	0
+residential zone	1	0
+residents-only permit parking scheme	1	0
+resistance broadcast	1	0
+resistance cell	1	0
+resistance leader	1	0
+resistance movement	1	0
+resistance regulars	1	0
+resistance Soldier	1	0
+resource questions	1	0
+responsibilities held	1	0
+retail district	1	0
+retail store	1	0
+reversed phase SPE	1	0
+Reversed phase SPE	1	0
+reversed phase SPE cartridge	1	0
+review meeting	1	0
+review title	1	0
+rice wine	1	0
+riding school	1	0
+ripped out	1	0
+rising stars	1	0
+road jaunt	1	0
+road racer	1	0
+Rock and Roll	1	0
+rock and roll	1	0
+role model	1	0
+Rolling Stone article	1	0
+Rolling Stone publisher	1	0
+rolls over	1	0
+roman a clef	1	0
+romantic comedy film	1	0
+romantic nationalists	1	0
+roofing enhancements	1	0
+Rosolic acid	1	0
+rotten boroughs	1	0
+routine screening procedures	1	0
+Roxanne Pulitzer divorce	1	0
+royal family	1	0
+royal house	1	0
+royalty check	1	0
+rub off	1	0
+ruling monarch	1	0
+running activities	1	0
+running board	1	0
+running into	1	0
+runs	1	0
+rural music	1	0
+Russian tactics	1	0
+safe passage	1	0
+Safety barriers	1	0
+safety valves	1	0
+sale authority	1	0
+sales department	1	0
+salt shaker	1	0
+sample population	1	0
+sample tube	1	0
+sample tubes	1	0
+samurai class	1	0
+samurai lineage	1	0
+sanctioning body	1	0
+satirical book	1	0
+scag baron	1	0
+scholarship offer	1	0
+school " Mayor	1	0
+school administrators	1	0
+School Boards	1	0
+school bus	1	0
+school dean	1	0
+school health nurse	1	0
+school leadership	1	0
+school use	1	0
+science fiction	1	0
+science fiction television series	1	0
+science fiction-themed	1	0
+science magazines	1	0
+scientific committee	1	0
+scientific disciplines	1	0
+Scientific Dossier	1	0
+Scientific Officer	1	0
+scientific studies	1	0
+scientific theory	1	0
+scrambler fields	1	0
+screwdriver adjustment	1	0
+screwing	1	0
+screwing up	1	0
+screws	1	0
+sea change	1	0
+SEAL career	1	0
+SEAL life	1	0
+SEAL operator	1	0
+SEAL presence	1	0
+sealed away	1	0
+sealed up.	1	0
+search engine	1	0
+season premiere	1	0
+seating area.	1	0
+second billing	1	0
+second generation racer	1	0
+second place finish	1	0
+second thoughts	1	0
+secondary cerebral energy failure	1	0
+secondary schooling	1	0
+secret route	1	0
+secret society	1	0
+secular State	1	0
+seeking out	1	0
+selective calling code	1	0
+self developed	1	0
+semi auto	1	0
+Senate confirmation hearings	1	0
+send it out	1	0
+sending him off	1	0
+senior officers	1	0
+senior year	1	0
+sense of responsibility	1	0
+senses of humor	1	0
+sensory organs	1	0
+sent notes	1	0
+sent off	1	0
+sentient computer system	1	0
+separation of Church and State	1	0
+separation process	1	0
+serfdom stock	1	0
+Series creators	1	0
+series creators	1	0
+series finale.	1	0
+served them up	1	0
+service industries	1	0
+set	1	0
+set apart	1	0
+set forth	1	0
+set it apart	1	0
+set off	1	0
+set things in	1	0
+set to	1	0
+set to air	1	0
+set Trudeau on fire	1	0
+sets about	1	0
+sets up	1	0
+setting aside	1	0
+setting him up	1	0
+setting off	1	0
+setting out	1	0
+setting up	1	0
+sex book	1	0
+sex life	1	0
+sex symbol	1	0
+sexual assault	1	0
+shade trees	1	0
+shared a kiss	1	0
+sheep fetus	1	0
+sheep urine	1	0
+sheet metal	1	0
+shield fighting	1	0
+shield generator	1	0
+shield-laser interaction	1	0
+shield-lasgun contact	1	0
+ship 's clerk	1	0
+shipping business	1	0
+shipping out	1	0
+shipping ventures	1	0
+shock waves	1	0
+shoot 'em up	1	0
+short story	1	0
+short-story writing	1	0
+shot	1	0
+show	1	0
+showed no signs	1	0
+showing her true face	1	0
+showing off	1	0
+shrugged off	1	0
+shut	1	0
+shut out	1	0
+shuts down	1	0
+shuts off	1	0
+side effects	1	0
+sietch communities	1	0
+signal strength	1	0
+signaling technique	1	0
+signature monster	1	0
+signed off	1	0
+silent films	1	0
+silent partner	1	0
+silent partners	1	0
+silica surface	1	0
+Silt deposition	1	0
+silver medal	1	0
+single market	1	0
+sister city	1	0
+sister stations	1	0
+slang word	1	0
+slave states	1	0
+Slave states	1	0
+slave uprising	1	0
+slide gates	1	0
+slip roads	1	0
+slow	1	0
+slowdown issues	1	0
+sluice bays	1	0
+small farmer	1	0
+small producers	1	0
+small world network	1	0
+small-railroad syndicates	1	0
+SNake rING	1	0
+sniper rifle	1	0
+so called	1	0
+soaking up	1	0
+soccer events	1	0
+social class system	1	0
+social club	1	0
+social credit	1	0
+Social Democrats	1	0
+social determinism	1	0
+social development	1	0
+social events	1	0
+social evolution theory	1	0
+social exclusion	1	0
+social life	1	0
+social networking sites	1	0
+social news	1	0
+social order	1	0
+social outcast	1	0
+social principle	1	0
+social problems	1	0
+social relations.	1	0
+social worker	1	0
+social works	1	0
+Socialist Economy	1	0
+socialist party	1	0
+sodium formaldehyde sulfoxylate	1	0
+sodium sulfite	1	0
+software house	1	0
+solid phase	1	0
+Solid phase extraction	1	0
+Solid phase extraction cartridges	1	0
+Solid-phase extraction	1	0
+soul match	1	0
+sound effects	1	0
+sound engineer	1	0
+sound hardware selection screen	1	0
+sound module	1	0
+sound modules	1	0
+sound suppression devices	1	0
+Soy sauce	1	0
+space commerce	1	0
+space opera	1	0
+space pirates	1	0
+space travel	1	0
+spacial filtering	1	0
+sparked off	1	0
+spatial filter	1	0
+spatial filtering	1	0
+spatial filters	1	0
+SPE manifolds	1	0
+SPE media	1	0
+speakers ' stand	1	0
+speaking engagements	1	0
+special agent in charge	1	0
+special forces men	1	0
+special prosecutor	1	0
+speech he gave	1	0
+speeds off	1	0
+speeds up	1	0
+speedway team	1	0
+spending problem	1	0
+spherical pellet	1	0
+spice melange	1	0
+spirit forms	1	0
+spirited away	1	0
+spiritual deliverance	1	0
+spiritual growth	1	0
+spiritual improvement	1	0
+spiritual pursuit	1	0
+sporting events	1	0
+sporting magazine	1	0
+sports club	1	0
+sports column	1	0
+sports field	1	0
+sports teams	1	0
+spouted out	1	0
+spray paint	1	0
+spreading out	1	0
+spreads out	1	0
+sprint cars	1	0
+sprite design	1	0
+sprung up	1	0
+spy capers	1	0
+squelch control	1	0
+squelch noise	1	0
+squelch signal	1	0
+squelch threshold	1	0
+squelched	1	0
+staff announcers	1	0
+staff composer	1	0
+staff writer	1	0
+stand for	1	0
+stand out	1	0
+standing	1	0
+star port	1	0
+starting point	1	0
+startup loans	1	0
+state auditors	1	0
+state championship game	1	0
+state dinner	1	0
+state religion	1	0
+State Representatives	1	0
+State Senator	1	0
+state trooper	1	0
+state visit	1	0
+statement of intent	1	0
+stateside papers	1	0
+station ID	1	0
+station licenses	1	0
+station manager	1	0
+station owners	1	0
+station premises	1	0
+station tour	1	0
+statistical level of confidence	1	0
+statistical techniques	1	0
+status quo	1	0
+staying power	1	0
+steam pumping engines	1	0
+step	1	0
+step to take	1	0
+stereo broadcast	1	0
+still life photos	1	0
+stirred up	1	0
+stock and bonds exchange	1	0
+stock car champion	1	0
+Stock Car championships	1	0
+stock car drivers	1	0
+stock car racing circuit	1	0
+stock car racing national champion	1	0
+stock car regulars	1	0
+stock car season	1	0
+stock cars	1	0
+stock cars races	1	0
+stock exchange	1	0
+stock market debacle	1	0
+stone masonry	1	0
+stood aside	1	0
+stop sign	1	0
+storage area	1	0
+strained relationship	1	0
+street marches	1	0
+street vending	1	0
+stretched out	1	0
+strike up	1	0
+strikes up	1	0
+strip club	1	0
+strip off	1	0
+striptease club	1	0
+student administrator	1	0
+student leader	1	0
+student research	1	0
+student run	1	0
+stunt pilot	1	0
+subatomic fusion	1	0
+subscription holders	1	0
+succession problem	1	0
+suffered malnutrition	1	0
+sufi saint	1	0
+sugar plantation	1	0
+suicide note	1	0
+sulfonic acid	1	0
+summary justice	1	0
+summed up	1	0
+summer camp	1	0
+summer camps	1	0
+Summer seminar	1	0
+supermarket chain	1	0
+supernatural power	1	0
+suppressive fire	1	0
+suppressor signalling pathways	1	0
+surface area	1	0
+surfing looks	1	0
+surplus labour	1	0
+surplus value	1	0
+suspensor belts	1	0
+sweet natured	1	0
+sweet talking	1	0
+swimming pool	1	0
+swing tunes	1	0
+switched on	1	0
+sword hunt	1	0
+sworn enemy	1	0
+symphony concerts	1	0
+syncs up	1	0
+system performance	1	0
+tactical jacket	1	0
+tag lines	1	0
+take a job	1	0
+take a turn	1	0
+take a year out	1	0
+take advantage	1	0
+take advantage of	1	0
+take control	1	0
+take his food	1	0
+take his place	1	0
+take hold	1	0
+take jobs	1	0
+take on	1	0
+take the mind of the public off	1	0
+take the role	1	0
+take the vow	1	0
+taken	1	0
+taken away	1	0
+taken conrol	1	0
+taken over	1	0
+taken up	1	0
+takes a job	1	0
+takes care	1	0
+takes off	1	0
+takes out	1	0
+takes over	1	0
+takes place	1	0
+takes the form	1	0
+taking a strict approach	1	0
+Taking advantage	1	0
+taking charge	1	0
+taking classes	1	0
+taking control	1	0
+taking down	1	0
+taking his armbands off	1	0
+taking into account	1	0
+taking on	1	0
+taking part	1	0
+taking root	1	0
+taking the overall capacity down	1	0
+taking the U.S. dollar off	1	0
+taking to	1	0
+taking up	1	0
+talent holding contract	1	0
+talk hosts	1	0
+talk show	1	0
+talks him out	1	0
+tape delay	1	0
+Tapioca pearls	1	0
+tapioca pearls	1	0
+target areas	1	0
+target bacterium	1	0
+target organism	1	0
+target physics	1	0
+target plasma	1	0
+tea room	1	0
+teachers movement	1	0
+teaching assistantship position	1	0
+team cadre	1	0
+team leader	1	0
+team member	1	0
+team player	1	0
+team routines	1	0
+tear gas canister	1	0
+tearing down	1	0
+tearing up	1	0
+technical formation	1	0
+technical institutes	1	0
+techno feel	1	0
+teenage parties	1	0
+teenage years	1	0
+television advertising	1	0
+Television cameras	1	0
+television contract	1	0
+television critic	1	0
+Television critics	1	0
+television drama series	1	0
+television journalist	1	0
+television profile	1	0
+television season	1	0
+television squelch settings	1	0
+television station	1	0
+temperate zone	1	0
+temperature instability	1	0
+temple life	1	0
+terminal ballistics	1	0
+territorial integrity	1	0
+tertiary sector	1	0
+test mission	1	0
+test reports	1	0
+textile workers	1	0
+theme music	1	0
+Therapeutic hypothermia	1	0
+therapeutic intervention	1	0
+thread pattern	1	0
+threads of fate	1	0
+three sources " model	1	0
+threshold signal	1	0
+thyroid function	1	0
+time displacement field	1	0
+time flow	1	0
+time meter	1	0
+time period	1	0
+title character	1	0
+title hopes	1	0
+title role	1	0
+tobacco processing plant	1	0
+tone burst	1	0
+tone set	1	0
+Tone squelch	1	0
+took	1	0
+took a giant leap	1	0
+took a job	1	0
+took a leading part	1	0
+took a long time	1	0
+took a shower	1	0
+took a tour	1	0
+took certain	1	0
+took office	1	0
+took on	1	0
+took over	1	0
+took place	1	0
+took profuse notes	1	0
+took the form	1	0
+took the lead	1	0
+took the witness stand	1	0
+Top 10 finishes	1	0
+top 100	1	0
+top 20	1	0
+Top 20 destinations	1	0
+Top 40 station	1	0
+Top 5	1	0
+Top 5 finishes	1	0
+top division	1	0
+top generals	1	0
+top man	1	0
+top people	1	0
+total plate count	1	0
+total plate counts	1	0
+touch- and- go approach	1	0
+tourist attractions	1	0
+Town Councils	1	0
+town pressure	1	0
+toxic mushrooms.	1	0
+track record	1	0
+track titles	1	0
+trademark sound	1	0
+trading voyage	1	0
+traffic updates	1	0
+train journeys	1	0
+training camp	1	0
+training course	1	0
+training ground	1	0
+training program	1	0
+trans-continental railroad	1	0
+transition period	1	0
+transition team	1	0
+transportation equipment	1	0
+trash can	1	0
+treasury branches	1	0
+treasury coffers	1	0
+Treasury Secretary	1	0
+trials specialist	1	0
+tribute ceremony	1	0
+tribute series	1	0
+true believers	1	0
+try out	1	0
+tune in	1	0
+turn of the century	1	0
+turn out	1	0
+turned by RKO into	1	0
+turned down	1	0
+turned into	1	0
+turned on	1	0
+turned the track back	1	0
+turned them around	1	0
+turning back	1	0
+turning into	1	0
+turning on	1	0
+turning over	1	0
+turning the idealistic dialectic into	1	0
+turning them into	1	0
+turns the receiver audio	1	0
+tutelary institution	1	0
+TV series	1	0
+TV side	1	0
+TV soap operas	1	0
+TV station	1	0
+TV version	1	0
+twilight sleep	1	0
+twin swords	1	0
+twist of fate	1	0
+Two Beam system	1	0
+two-way radio	1	0
+two-way radios	1	0
+TYEA medium	1	0
+typhoid malaria	1	0
+U.S. Minister to Hawaiian Islands	1	0
+U.S. Representative	1	0
+U.S. soccer forward	1	0
+ultra bomb	1	0
+ultraviolet light	1	0
+underground paper	1	0
+undertook an investigation	1	0
+undertook many important prospective studies	1	0
+unit of measurement	1	0
+university education	1	0
+University education	1	0
+university philosophy	1	0
+University Professor	1	0
+university round table	1	0
+unknown-period interpretation	1	0
+upper class twits	1	0
+upper-class families	1	0
+urban areas	1	0
+urban environments	1	0
+USAC regular	1	0
+USAC season	1	0
+USAC Stock car national titles	1	0
+USAC Stock car title	1	0
+USAC Stock car win	1	0
+USAC Stock car wins	1	0
+UV pulse	1	0
+vacuum chamber	1	0
+vacuum filtered	1	0
+vacuum port	1	0
+value added	1	0
+value relations	1	0
+vantage point	1	0
+vasogenic oedema	1	0
+vegetable samples	1	0
+vernacular language	1	0
+VHF licencee	1	0
+VHF stations	1	0
+Vicar General	1	0
+video ) output	1	0
+video chronicle	1	0
+video footage	1	0
+video project	1	0
+Vietnam vet	1	0
+Vietnam War veterans	1	0
+vigilante gun	1	0
+village inhabitants	1	0
+violin virtuoso	1	0
+virgin forest	1	0
+visiting professorships	1	0
+visual feature-length version	1	0
+visually impaired	1	0
+voice acted	1	0
+voice actor	1	0
+voice components	1	0
+voice signal	1	0
+voice teacher	1	0
+volatile organophosphate insecticide	1	0
+volunteer regiment	1	0
+wagon bed	1	0
+walkie talkie	1	0
+walks away	1	0
+walks of life	1	0
+walks off	1	0
+war campaign	1	0
+war materiel	1	0
+war memorial	1	0
+warm up	1	0
+washed out	1	0
+Watch	1	0
+watching over	1	0
+water analysis	1	0
+water harvesting dam	1	0
+water resources	1	0
+water storage reservoir	1	0
+water supplies	1	0
+water tank	1	0
+water tunnels	1	0
+weathered the storm	1	0
+wedding license	1	0
+weekday lineup	1	0
+weight problem	1	0
+well made	1	0
+well oiled	1	0
+well recorded	1	0
+well remembered	1	0
+well-thought out	1	0
+went off	1	0
+went on some dates	1	0
+western region headquarters	1	0
+wharf area	1	0
+wheat acreage	1	0
+Wheat Gluten	1	0
+wheat gluten	1	0
+wheat protein	1	0
+wheelchair users	1	0
+whippet races	1	0
+white flight	1	0
+white man	1	0
+white noise	1	0
+white power structures	1	0
+white tiger	1	0
+wholesale garment district	1	0
+wide receiver position	1	0
+widely known	1	0
+widely respected	1	0
+widely travelled	1	0
+wing walker	1	0
+women 's clothing	1	0
+women 's national soccer team	1	0
+won a reputation	1	0
+won acquittal	1	0
+won reelection	1	0
+work ethic	1	0
+working class	1	0
+working day	1	0
+working relationships	1	0
+world centres	1	0
+world cuisines	1	0
+world cup qualifying matches	1	0
+world traveler	1	0
+worlds of man	1	0
+wrestling area	1	0
+wrestling rings	1	0
+writing den	1	0
+writing system	1	0
+writing systems	1	0
+written down	1	0
+wrote down	1	0
+x-ray conversion	1	0
+Xenon flash lamps	1	0
+yeast extract	1	0
+Yeomanry Cavalry	1	0
+yeomanry regiment	1	0
+yeomanry regiments	1	0
+yew hedges	1	0
+youth groups	1	0
+youth teams	1	0
+zipped up	1	0
+time traveling	1	1
+bear arms	1	1
+well documented	1	1
+stood for	1	1
+delayed injury	1	1
+go back	1	1
+standards format	1	1
+run for	1	1
+financial support	1	1
+hydrographic recon	1	1
+swearing in	1	1
+clinical practice	1	1
+Education Minister	1	1
+electrical appliances	1	1
+go on	1	1
+physical form	1	1
+move out	1	1
+federal election	1	1
+DVD release	1	1
+ballot initiative	1	1
+magazine feature	1	1
+chemical properties	1	1
+leave for	1	1
+look for	1	1
+series of books	1	1
+going on	1	1
+communitarian rights	1	1
+strategic thinking	1	1
+check out	1	1
+sit on	1	1
+took to	1	1
+small town	1	1
+get back	1	1
+modern times	1	2
+Risk Ratio	1	2
+built on	1	2
+close friend	1	2
+caring for	1	2
+made it to	1	2
+hold the	1	2
+comes to	1	2
+have an	1	2
+taking the	1	3
+fell to	1	3
+went back	1	4
+one time	1	5
